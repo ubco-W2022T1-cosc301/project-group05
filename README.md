@@ -24,7 +24,7 @@ Our dataset tracked student achievement in Math and Portuguese for two Portugues
 **Please remember to update this section**
 
 - Ryan Keilty: I'm a 5<sup>th</sup> year Computer Science major who enjoys gaming, sports and information security.
-- Ben Keeley: 5<sup>th</sup> year Computer Science, loves game development, dinosaurs and manga.
+- Ben Keeley: 5<sup>th</sup> year Computer Science major, loves game development, dinosaurs and manga.
 - Person 3: one sentence about you!
 
 ## Images
