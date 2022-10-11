@@ -24,7 +24,7 @@ Our dataset tracked student achievement in Math and Portuguese for two Portugues
 **Please remember to update this section**
 
 - Ryan Keilty: I'm a 5<sup>th</sup> year Computer Science major who enjoys gaming, sports and information security.
-- Person 2: one sentence about you!
+- Ben Keeley: 5<sup>th</sup> year Computer Science, loves game development, dinosaurs and manga.
 - Person 3: one sentence about you!
 
 ## Images
@@ -33,9 +33,10 @@ Our dataset tracked student achievement in Math and Portuguese for two Portugues
 
 ## References
 
-**Please remember to update this section**
+Datasets in Maths.csv and Portuguese.csv files provided by [Aman Chauhan](https://www.kaggle.com/whenamancodes) on kaggle.com under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) . 
 
-{Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
+Link to the material can be found at https://www.kaggle.com/datasets/whenamancodes/student-performance?resource=download. Datasets represent data collection used in the findings of Cortez and Silva, 2008.
 
+The raw data will be modified in order to perform data analysis and present findings for educational purposes.
 
-
+Citation: Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance.
