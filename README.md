@@ -1,4 +1,4 @@
-# Group 05 - {Short snappy Title of your project}
+# Group 05 - An Analysis of Portuguese Secondary Schools (temp)
 
 **Please remember to update this section**
 
