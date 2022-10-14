@@ -22,7 +22,7 @@ Our dataset tracked student achievement in Math and Portuguese for two Portugues
 
 - Ryan Keilty: I'm a 5<sup>th</sup> year Computer Science major who enjoys gaming, sports and information security.
 - Ben Keeley: 5<sup>th</sup> year Computer Science major, loves game development, dinosaurs and manga.
-- Nils Kelley: I'm a 4th year Management major, who aims to do a double with COSC; I spent most of my time working on my frat.
+- Nils Kelley: I'm a 4th year Management major, who aims to do a double with COSC; I spent most of my time working on my fraternity.
 
 ## Images
 
