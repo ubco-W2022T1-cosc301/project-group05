@@ -1,3 +1,5 @@
+import pandas as pd
+
 def load_and_process(url_or_path_to_csv_file):
     
     columns_to_drop = ['famsize','nursery']
