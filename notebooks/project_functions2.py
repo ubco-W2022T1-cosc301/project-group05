@@ -1,6 +1,22 @@
 import pandas as pd
 
 def load_and_process(url_or_path_to_csv_file):
+    """Loads and processes a dataframe for a single Student Performance subject.
+    
+    Parameters
+    ----------
+    string : url_or_path_to_csv_file
+        A string representation of the relative filepath to the csv file or a url to dataset.
+
+    Returns
+    -------
+    pandas Dataframe
+        The resulting processed dataframe that went through our analysis pipeline.
+
+    Examples
+    --------
+    >>> df = load_and_process('../data/raw/Maths_formatted.csv')
+    """
     
     columns_to_drop = ['famsize','nursery']
     column_name_mapper = {'Pstatus': 'parent_living_status', 
@@ -24,6 +40,22 @@ def load_and_process(url_or_path_to_csv_file):
     return df1 
     
 def combine_processed_subjects(subject_dict):
+    """Concats two dataframes obtained using load_and_process(). Creates a new column that represents the subject/dataset that each row originated from.
+    
+    Parameters
+    ----------
+    dictionary : subject_dict
+       A dictionary that has key of the subject or class the processed dataframe is for, and value of the processed dataframe. New column values are named after the keys.
+
+    Returns
+    -------
+    pandas Dataframe
+        The combined dataframe.
+
+    Examples
+    --------
+    >>> df = combine_processed_subjects({'math': load_and_process('../data/raw/Maths_formatted.csv'),'portuguese': load_and_process('../data/raw/Portuguese_formatted.csv')})
+    """
     
     for key, val in subject_dict.items():
         val['subject'] = key
