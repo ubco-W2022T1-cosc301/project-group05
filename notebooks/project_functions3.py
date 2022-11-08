@@ -22,7 +22,7 @@ def load_and_process(url_or_path_to_csv_file):
     )
 
     df2 = (
-        df1.groupby('Absences')
+        df1
         
 
     )
