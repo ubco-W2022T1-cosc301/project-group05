@@ -24,8 +24,7 @@ def load_and_process(url_or_path_to_csv_file):
     df2 = (
         df1
         .assign(Weekly_Drinking_AVG=df1['Weekend_Alc_Consumption']+df1['Daily_Alc_Consumption']/2)
-        
-
+        .assign(Use_Of_Freetime=df1['Freetime']+df1['Study_Time']+df1['Go_Out']/3)
     )
 
     return df2
