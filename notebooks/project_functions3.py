@@ -5,7 +5,7 @@ def load_and_process(url_or_path_to_csv_file):
 
     # Method Chain 1 (Load data and deal with missing data)
    
-    drop_col = ['guardian', 'Medu', 'Fedu', 'reason', 'schoolsup', 'famsup', 'paid', 'enrollment_reason']
+    drop_col = ['guardian', 'Medu', 'Fedu', 'reason', 'schoolsup', 'famsup', 'paid',]
     ren = {'Walc': 'Weekend_Alc_Consumption', 'Dalc': 'Daily_Alc_Consumption', 'freetime': 'Freetime' }
 
     df1 = (   
