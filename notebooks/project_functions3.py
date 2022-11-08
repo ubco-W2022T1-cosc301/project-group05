@@ -18,7 +18,7 @@ def load_and_process(url_or_path_to_csv_file):
         .rename(columns=ren)
         .replace(rep)
         .drop(drop_col, axis=1)
-        .sort_values(sort, descending=True)
+        .sort_values(sort, ascending=False)
     )
 
 
