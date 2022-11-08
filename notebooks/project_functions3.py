@@ -28,6 +28,6 @@ def load_and_process(url_or_path_to_csv_file):
     )
 
 
-    return df2
+    return df1,df2
 
 
