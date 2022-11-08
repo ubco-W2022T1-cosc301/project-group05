@@ -23,7 +23,7 @@ def load_and_process(url_or_path_to_csv_file):
 
     df2 = (
         df1
-        .assign(df1.mean(Weekly_Drinking_AVG=lambda x: (x.Weekend_Alc_Consumption + x.Weekday_Alc_Consumption)/2))
+        .assign(df1.mean(Weekly_Drinking_AVG=df1['Weekend_Alc_Consumption']+df1['Weekday_Alc_Consumption']/2))
         
 
     )
