@@ -21,7 +21,12 @@ def load_and_process(url_or_path_to_csv_file):
         .sort_values(sort, ascending=False)
     )
 
+    df2 = (
+        df1
 
-    return df1
+    )
+
+
+    return df2
 
 
