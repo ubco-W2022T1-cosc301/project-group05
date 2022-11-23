@@ -1,0 +1,1049 @@
+,school,sex,age,mother's_education,father's_education,reason,study_time,family_support,extra_classes,higher,G1,G2,G3,subject,study_x_mother's_education,study_x_father's_education
+0,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,course,2-5 hr,no,no,yes,5,6,6,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+1,Gabriel Peireira,Female,17,Primary,Primary,course,2-5 hr,yes,no,yes,5,5,6,Math,2-5 hr X Primary,2-5 hr X Primary
+2,Gabriel Peireira,Female,15,Primary,Primary,other,2-5 hr,no,yes,yes,7,8,10,Math,2-5 hr X Primary,2-5 hr X Primary
+3,Gabriel Peireira,Female,15,Post-Secondary,Grade 5-9,home,5-10 hr,yes,yes,yes,15,14,15,Math,5-10 hr X Post-Secondary,5-10 hr X Grade 5-9
+4,Gabriel Peireira,Female,16,Secondary,Secondary,home,2-5 hr,yes,yes,yes,6,10,10,Math,2-5 hr X Secondary,2-5 hr X Secondary
+5,Gabriel Peireira,Male,16,Post-Secondary,Secondary,reputation,2-5 hr,yes,yes,yes,15,15,15,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+6,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,12,12,11,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+7,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,6,5,6,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+8,Gabriel Peireira,Male,15,Secondary,Grade 5-9,home,2-5 hr,yes,yes,yes,16,18,19,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+9,Gabriel Peireira,Male,15,Secondary,Post-Secondary,home,2-5 hr,yes,yes,yes,14,15,15,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+10,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,yes,yes,10,8,9,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+11,Gabriel Peireira,Female,15,Grade 5-9,Primary,reputation,5-10 hr,yes,no,yes,10,12,12,Math,5-10 hr X Grade 5-9,5-10 hr X Primary
+12,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,course,<2 hr,yes,yes,yes,14,14,14,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+13,Gabriel Peireira,Male,15,Post-Secondary,Secondary,course,2-5 hr,yes,yes,yes,10,10,11,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+14,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,home,5-10 hr,yes,no,yes,14,16,16,Math,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+15,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,home,<2 hr,yes,no,yes,14,14,14,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+16,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,reputation,5-10 hr,yes,yes,yes,13,14,14,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+17,Gabriel Peireira,Female,16,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,8,10,10,Math,2-5 hr X Secondary,2-5 hr X Secondary
+18,Gabriel Peireira,Male,17,Secondary,Grade 5-9,course,<2 hr,yes,no,yes,6,5,5,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+19,Gabriel Peireira,Male,16,Post-Secondary,Secondary,home,<2 hr,no,yes,yes,8,10,10,Math,<2 hr X Post-Secondary,<2 hr X Secondary
+20,Gabriel Peireira,Male,15,Post-Secondary,Secondary,reputation,2-5 hr,no,no,yes,13,14,15,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+21,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,other,<2 hr,yes,yes,yes,12,15,15,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+22,Gabriel Peireira,Male,16,Post-Secondary,Grade 5-9,course,2-5 hr,no,no,yes,15,15,16,Math,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+23,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,no,yes,13,13,12,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+24,Gabriel Peireira,Female,15,Grade 5-9,Post-Secondary,course,5-10 hr,yes,yes,yes,10,9,8,Math,5-10 hr X Grade 5-9,5-10 hr X Post-Secondary
+25,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,<2 hr,yes,yes,yes,6,9,8,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+26,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,home,<2 hr,yes,yes,yes,12,12,11,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+27,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,other,<2 hr,no,yes,yes,15,16,15,Math,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+28,Gabriel Peireira,Male,16,Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,11,11,11,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+29,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,home,2-5 hr,yes,yes,yes,10,12,11,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+30,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,home,2-5 hr,yes,yes,yes,9,11,12,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+31,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,17,16,17,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+32,Gabriel Peireira,Male,15,Post-Secondary,Secondary,course,2-5 hr,yes,no,yes,17,16,16,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+33,Gabriel Peireira,Male,15,Secondary,Secondary,course,2-5 hr,no,no,yes,8,10,12,Math,2-5 hr X Secondary,2-5 hr X Secondary
+34,Gabriel Peireira,Male,16,Secondary,Grade 5-9,home,<2 hr,yes,yes,yes,12,14,15,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+35,Gabriel Peireira,Female,15,Grade 5-9,Secondary,other,<2 hr,yes,no,yes,8,7,6,Math,<2 hr X Grade 5-9,<2 hr X Secondary
+36,Gabriel Peireira,Male,15,Post-Secondary,Secondary,home,5-10 hr,yes,no,yes,15,16,18,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+37,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,reputation,5-10 hr,yes,no,yes,15,16,15,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+38,Gabriel Peireira,Female,15,Secondary,Post-Secondary,course,5-10 hr,yes,yes,yes,12,12,11,Math,5-10 hr X Secondary,5-10 hr X Post-Secondary
+39,Gabriel Peireira,Female,15,Grade 5-9,Grade 5-9,reputation,<2 hr,yes,yes,yes,14,13,13,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+40,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,2-5 hr,yes,no,yes,7,10,11,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+41,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,home,<2 hr,yes,no,yes,12,12,12,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+42,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,19,18,18,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+43,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,8,8,11,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+44,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,no,no,yes,10,10,9,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+45,Gabriel Peireira,Female,15,Post-Secondary,Secondary,course,2-5 hr,yes,yes,yes,8,8,6,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+46,Gabriel Peireira,Female,16,Secondary,Secondary,home,2-5 hr,yes,no,yes,11,12,11,Math,2-5 hr X Secondary,2-5 hr X Secondary
+47,Gabriel Peireira,Male,16,Post-Secondary,Secondary,reputation,>10 hr,no,no,yes,19,19,20,Math,>10 hr X Post-Secondary,>10 hr X Secondary
+48,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,home,2-5 hr,yes,yes,yes,15,15,14,Math,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+49,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,other,2-5 hr,yes,no,yes,7,7,7,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+50,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,yes,yes,12,13,13,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+51,Gabriel Peireira,Female,15,Post-Secondary,Grade 5-9,other,2-5 hr,yes,yes,yes,11,13,13,Math,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+52,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,other,<2 hr,no,no,yes,11,11,10,Math,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+53,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,course,<2 hr,yes,yes,yes,8,10,11,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+54,Gabriel Peireira,Female,15,Secondary,Secondary,other,<2 hr,no,yes,yes,10,13,13,Math,<2 hr X Secondary,<2 hr X Secondary
+55,Gabriel Peireira,Female,16,Grade 5-9,Primary,other,2-5 hr,no,yes,yes,8,9,10,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+56,Gabriel Peireira,Female,15,Post-Secondary,Secondary,reputation,2-5 hr,yes,yes,yes,14,15,15,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+57,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,14,15,15,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+58,Gabriel Peireira,Male,15,Primary,Grade 5-9,home,2-5 hr,yes,no,yes,9,10,9,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+59,Gabriel Peireira,Female,16,Post-Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,15,16,16,Math,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+60,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,other,2-5 hr,yes,no,yes,10,11,11,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+61,Gabriel Peireira,Female,16,Primary,Primary,course,<2 hr,yes,no,yes,10,8,11,Math,<2 hr X Primary,<2 hr X Primary
+62,Gabriel Peireira,Female,16,Primary,Grade 5-9,reputation,2-5 hr,no,no,yes,8,10,9,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+63,Gabriel Peireira,Female,16,Post-Secondary,Secondary,home,5-10 hr,yes,yes,yes,10,9,9,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+64,Gabriel Peireira,Female,15,Post-Secondary,Secondary,reputation,2-5 hr,no,no,yes,10,10,10,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+65,Gabriel Peireira,Female,16,Post-Secondary,Secondary,course,2-5 hr,yes,no,yes,16,15,15,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+66,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,reputation,>10 hr,yes,no,yes,13,13,12,Math,>10 hr X Post-Secondary,>10 hr X Post-Secondary
+67,Gabriel Peireira,Female,16,Secondary,Primary,course,>10 hr,yes,yes,yes,7,7,6,Math,>10 hr X Secondary,>10 hr X Primary
+68,Gabriel Peireira,Female,15,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,yes,yes,8,9,8,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+69,Gabriel Peireira,Female,15,Secondary,Primary,reputation,>10 hr,yes,no,yes,16,16,16,Math,>10 hr X Secondary,>10 hr X Primary
+70,Gabriel Peireira,Male,16,Secondary,Primary,reputation,>10 hr,yes,yes,yes,13,15,15,Math,>10 hr X Secondary,>10 hr X Primary
+71,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,course,>10 hr,no,no,yes,10,10,10,Math,>10 hr X Post-Secondary,>10 hr X Grade 5-9
+72,Gabriel Peireira,Female,15,Primary,Primary,reputation,2-5 hr,yes,no,yes,8,6,5,Math,2-5 hr X Primary,2-5 hr X Primary
+73,Gabriel Peireira,Male,16,Secondary,Primary,reputation,<2 hr,no,no,yes,12,12,14,Math,<2 hr X Secondary,<2 hr X Primary
+74,Gabriel Peireira,Female,16,Secondary,Secondary,home,2-5 hr,yes,yes,yes,11,12,11,Math,2-5 hr X Secondary,2-5 hr X Secondary
+75,Gabriel Peireira,Male,15,Post-Secondary,Secondary,home,2-5 hr,yes,yes,yes,9,9,10,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+76,Gabriel Peireira,Male,15,Post-Secondary,None,course,>10 hr,no,no,yes,11,11,10,Math,>10 hr X Post-Secondary,>10 hr X None
+77,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,reputation,>10 hr,no,yes,yes,11,11,11,Math,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+78,Gabriel Peireira,Male,17,Grade 5-9,Primary,home,<2 hr,yes,no,no,8,8,10,Math,<2 hr X Grade 5-9,<2 hr X Primary
+79,Gabriel Peireira,Female,16,Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,5,5,5,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+80,Gabriel Peireira,Male,15,Grade 5-9,Secondary,course,<2 hr,yes,yes,yes,10,12,12,Math,<2 hr X Grade 5-9,<2 hr X Secondary
+81,Gabriel Peireira,Male,15,Grade 5-9,Secondary,home,5-10 hr,no,yes,yes,11,10,11,Math,5-10 hr X Grade 5-9,5-10 hr X Secondary
+82,Gabriel Peireira,Female,15,Secondary,Grade 5-9,reputation,2-5 hr,yes,yes,yes,7,6,6,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+83,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,home,2-5 hr,no,yes,yes,15,15,15,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+84,Gabriel Peireira,Female,15,Primary,Primary,home,2-5 hr,yes,no,yes,9,10,10,Math,2-5 hr X Primary,2-5 hr X Primary
+85,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,no,yes,yes,7,9,8,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+86,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,8,7,6,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+87,Gabriel Peireira,Female,15,Post-Secondary,Grade 5-9,reputation,5-10 hr,yes,no,yes,13,14,14,Math,5-10 hr X Post-Secondary,5-10 hr X Grade 5-9
+88,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,reputation,2-5 hr,no,yes,yes,11,10,10,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+89,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,8,6,7,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+90,Gabriel Peireira,Female,16,Secondary,Secondary,home,5-10 hr,yes,yes,yes,7,7,8,Math,5-10 hr X Secondary,5-10 hr X Secondary
+91,Gabriel Peireira,Female,15,Post-Secondary,Secondary,reputation,<2 hr,no,yes,yes,16,17,18,Math,<2 hr X Post-Secondary,<2 hr X Secondary
+92,Gabriel Peireira,Female,16,Secondary,Primary,home,2-5 hr,yes,no,yes,7,6,6,Math,2-5 hr X Secondary,2-5 hr X Primary
+93,Gabriel Peireira,Female,16,Post-Secondary,Grade 5-9,home,2-5 hr,yes,yes,yes,11,10,10,Math,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+94,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,reputation,>10 hr,yes,no,yes,11,13,14,Math,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+95,Gabriel Peireira,Female,15,Primary,Primary,home,>10 hr,yes,yes,yes,7,10,10,Math,>10 hr X Primary,>10 hr X Primary
+96,Gabriel Peireira,Male,16,Post-Secondary,Secondary,reputation,<2 hr,yes,no,yes,11,15,15,Math,<2 hr X Post-Secondary,<2 hr X Secondary
+97,Gabriel Peireira,Female,16,Grade 5-9,Primary,course,2-5 hr,yes,yes,yes,8,9,10,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+98,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,reputation,<2 hr,no,no,yes,11,14,14,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+99,Gabriel Peireira,Female,16,Post-Secondary,Secondary,course,5-10 hr,yes,yes,yes,7,9,8,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+100,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,other,<2 hr,yes,yes,yes,7,7,5,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+101,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,other,5-10 hr,yes,no,yes,16,17,17,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+102,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,yes,10,13,14,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+103,Gabriel Peireira,Female,15,Secondary,Grade 5-9,home,2-5 hr,yes,yes,yes,7,6,6,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+104,Gabriel Peireira,Male,15,Secondary,Post-Secondary,course,2-5 hr,yes,yes,yes,16,18,18,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+105,Gabriel Peireira,Female,15,Secondary,Secondary,reputation,>10 hr,no,no,yes,10,11,11,Math,>10 hr X Secondary,>10 hr X Secondary
+106,Gabriel Peireira,Female,15,Grade 5-9,Grade 5-9,course,>10 hr,yes,yes,yes,7,8,8,Math,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+107,Gabriel Peireira,Male,16,Secondary,Secondary,home,5-10 hr,yes,no,yes,16,18,18,Math,5-10 hr X Secondary,5-10 hr X Secondary
+108,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,home,>10 hr,yes,yes,yes,10,13,13,Math,>10 hr X Post-Secondary,>10 hr X Post-Secondary
+109,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,other,5-10 hr,yes,yes,yes,14,15,16,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+110,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,18,19,19,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+111,Gabriel Peireira,Female,16,Secondary,Secondary,reputation,5-10 hr,yes,no,yes,7,10,10,Math,5-10 hr X Secondary,5-10 hr X Secondary
+112,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,10,13,13,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+113,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,course,<2 hr,no,no,yes,18,19,19,Math,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+114,Gabriel Peireira,Male,15,Grade 5-9,Primary,reputation,2-5 hr,no,no,yes,9,9,9,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+115,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,15,15,16,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+116,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,11,13,14,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+117,Gabriel Peireira,Male,16,Secondary,Secondary,home,<2 hr,no,no,yes,13,14,13,Math,<2 hr X Secondary,<2 hr X Secondary
+118,Gabriel Peireira,Male,17,Primary,Secondary,course,2-5 hr,yes,no,yes,9,7,8,Math,2-5 hr X Primary,2-5 hr X Secondary
+119,Gabriel Peireira,Male,15,Secondary,Post-Secondary,reputation,<2 hr,no,no,yes,14,13,13,Math,<2 hr X Secondary,<2 hr X Post-Secondary
+120,Gabriel Peireira,Female,15,Primary,Grade 5-9,course,2-5 hr,no,no,yes,16,15,15,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+121,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,home,>10 hr,yes,yes,yes,16,14,15,Math,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+122,Gabriel Peireira,Female,16,Grade 5-9,Post-Secondary,course,2-5 hr,yes,yes,yes,13,13,13,Math,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+123,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,yes,14,11,13,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+124,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,2-5 hr,no,yes,yes,8,7,8,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+125,Gabriel Peireira,Male,15,Secondary,Post-Secondary,home,<2 hr,no,no,yes,13,13,12,Math,<2 hr X Secondary,<2 hr X Post-Secondary
+126,Gabriel Peireira,Female,15,Secondary,Post-Secondary,home,2-5 hr,no,no,yes,7,10,11,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+127,Gabriel Peireira,Female,19,None,Primary,course,2-5 hr,yes,no,no,7,8,9,Math,2-5 hr X None,2-5 hr X Primary
+128,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,reputation,<2 hr,yes,no,yes,7,4,0,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+129,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,<2 hr,no,yes,yes,18,18,18,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+130,Gabriel Peireira,Female,15,Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,12,0,0,Math,5-10 hr X Secondary,5-10 hr X Post-Secondary
+131,Gabriel Peireira,Female,15,Primary,Primary,course,<2 hr,yes,no,yes,8,0,0,Math,<2 hr X Primary,<2 hr X Primary
+132,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,10,13,12,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+133,Gabriel Peireira,Female,16,Secondary,Post-Secondary,course,<2 hr,no,no,yes,12,11,11,Math,<2 hr X Secondary,<2 hr X Post-Secondary
+134,Gabriel Peireira,Male,15,Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,9,0,0,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+135,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,11,0,0,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+136,Gabriel Peireira,Male,17,Secondary,Post-Secondary,course,2-5 hr,no,no,yes,10,0,0,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+137,Gabriel Peireira,Female,16,Secondary,Secondary,course,<2 hr,yes,no,yes,4,0,0,Math,<2 hr X Secondary,<2 hr X Secondary
+138,Gabriel Peireira,Male,16,Primary,Primary,course,2-5 hr,no,no,yes,14,12,12,Math,2-5 hr X Primary,2-5 hr X Primary
+139,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,16,16,15,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+140,Gabriel Peireira,Male,15,Post-Secondary,Secondary,course,>10 hr,yes,no,yes,7,9,0,Math,>10 hr X Post-Secondary,>10 hr X Secondary
+141,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,reputation,<2 hr,yes,no,yes,9,9,9,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+142,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,course,5-10 hr,yes,yes,yes,9,11,11,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+143,Gabriel Peireira,Female,16,Primary,Primary,course,<2 hr,no,no,yes,14,14,13,Math,<2 hr X Primary,<2 hr X Primary
+144,Gabriel Peireira,Male,17,Grade 5-9,Primary,home,<2 hr,yes,no,yes,5,0,0,Math,<2 hr X Grade 5-9,<2 hr X Primary
+145,Gabriel Peireira,Female,15,Primary,Primary,course,2-5 hr,yes,yes,yes,8,11,11,Math,2-5 hr X Primary,2-5 hr X Primary
+146,Gabriel Peireira,Female,15,Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,6,7,0,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+147,Gabriel Peireira,Female,15,Primary,Grade 5-9,course,2-5 hr,yes,yes,yes,10,11,11,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+148,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,no,7,6,0,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+149,Gabriel Peireira,Male,15,Grade 5-9,Primary,course,<2 hr,no,no,yes,8,9,10,Math,<2 hr X Grade 5-9,<2 hr X Primary
+150,Gabriel Peireira,Male,18,Primary,Primary,course,<2 hr,no,no,no,6,5,0,Math,<2 hr X Primary,<2 hr X Primary
+151,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,<2 hr,no,no,yes,12,13,14,Math,<2 hr X Grade 5-9,<2 hr X Primary
+152,Gabriel Peireira,Female,15,Secondary,Secondary,reputation,5-10 hr,yes,yes,yes,10,10,10,Math,5-10 hr X Secondary,5-10 hr X Secondary
+153,Gabriel Peireira,Male,19,Secondary,Grade 5-9,home,<2 hr,yes,no,no,5,0,0,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+154,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,yes,11,11,12,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+155,Gabriel Peireira,Male,15,Grade 5-9,Secondary,course,2-5 hr,no,yes,yes,11,8,8,Math,2-5 hr X Grade 5-9,2-5 hr X Secondary
+156,Gabriel Peireira,Male,17,Primary,Grade 5-9,reputation,<2 hr,no,no,yes,16,12,13,Math,<2 hr X Primary,<2 hr X Grade 5-9
+157,Gabriel Peireira,Female,18,Primary,Primary,course,<2 hr,yes,no,yes,9,8,10,Math,<2 hr X Primary,<2 hr X Primary
+158,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,course,<2 hr,no,no,yes,17,15,15,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+159,Gabriel Peireira,Male,16,Secondary,Secondary,course,2-5 hr,yes,yes,yes,10,12,12,Math,2-5 hr X Secondary,2-5 hr X Secondary
+160,Gabriel Peireira,Male,17,Grade 5-9,Primary,course,<2 hr,no,no,no,7,6,0,Math,<2 hr X Grade 5-9,<2 hr X Primary
+161,Gabriel Peireira,Male,15,Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,5,9,7,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+162,Gabriel Peireira,Male,16,Primary,Grade 5-9,course,<2 hr,no,no,yes,7,0,0,Math,<2 hr X Primary,<2 hr X Grade 5-9
+163,Gabriel Peireira,Male,17,Primary,Secondary,course,<2 hr,no,no,no,10,10,10,Math,<2 hr X Primary,<2 hr X Secondary
+164,Gabriel Peireira,Male,17,Primary,Primary,course,2-5 hr,no,no,no,5,8,7,Math,2-5 hr X Primary,2-5 hr X Primary
+165,Gabriel Peireira,Male,16,Secondary,Grade 5-9,course,<2 hr,yes,no,no,12,11,12,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+166,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,course,2-5 hr,no,no,no,10,10,10,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+167,Gabriel Peireira,Female,16,Post-Secondary,Grade 5-9,home,2-5 hr,no,yes,yes,14,15,16,Math,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+168,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,2-5 hr,yes,yes,yes,6,7,0,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+169,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,yes,yes,14,14,14,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+170,Gabriel Peireira,Male,16,Secondary,Post-Secondary,course,<2 hr,yes,no,yes,6,5,0,Math,<2 hr X Secondary,<2 hr X Post-Secondary
+171,Gabriel Peireira,Male,16,Primary,None,reputation,2-5 hr,yes,yes,yes,13,15,16,Math,2-5 hr X Primary,2-5 hr X None
+172,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,yes,yes,13,11,10,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+173,Gabriel Peireira,Female,16,Primary,Secondary,home,2-5 hr,no,no,yes,8,7,0,Math,2-5 hr X Primary,2-5 hr X Secondary
+174,Gabriel Peireira,Female,16,Secondary,Secondary,reputation,2-5 hr,yes,yes,yes,10,11,9,Math,2-5 hr X Secondary,2-5 hr X Secondary
+175,Gabriel Peireira,Male,17,Post-Secondary,Secondary,course,2-5 hr,no,yes,yes,10,9,9,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+176,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,reputation,2-5 hr,no,yes,yes,13,13,11,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+177,Gabriel Peireira,Male,17,Secondary,Secondary,reputation,2-5 hr,no,no,yes,6,5,6,Math,2-5 hr X Secondary,2-5 hr X Secondary
+178,Gabriel Peireira,Male,16,Post-Secondary,Grade 5-9,other,<2 hr,yes,no,yes,10,8,9,Math,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+179,Gabriel Peireira,Male,17,Post-Secondary,Secondary,course,2-5 hr,yes,no,yes,10,10,11,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+180,Gabriel Peireira,Male,16,Post-Secondary,Secondary,home,2-5 hr,yes,yes,yes,9,8,8,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+181,Gabriel Peireira,Male,16,Secondary,Secondary,home,2-5 hr,no,yes,yes,12,13,12,Math,2-5 hr X Secondary,2-5 hr X Secondary
+182,Gabriel Peireira,Female,17,Grade 5-9,Post-Secondary,reputation,2-5 hr,yes,no,yes,16,17,17,Math,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+183,Gabriel Peireira,Female,17,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,9,9,8,Math,2-5 hr X Secondary,2-5 hr X Secondary
+184,Gabriel Peireira,Female,16,Secondary,Grade 5-9,reputation,2-5 hr,yes,yes,yes,12,13,12,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+185,Gabriel Peireira,Male,17,Secondary,Secondary,other,2-5 hr,yes,no,yes,12,12,11,Math,2-5 hr X Secondary,2-5 hr X Secondary
+186,Gabriel Peireira,Male,16,Primary,Grade 5-9,other,<2 hr,yes,yes,yes,11,12,11,Math,<2 hr X Primary,<2 hr X Grade 5-9
+187,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,2-5 hr,no,yes,yes,15,15,15,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+188,Gabriel Peireira,Female,17,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,8,7,9,Math,2-5 hr X Secondary,2-5 hr X Secondary
+189,Gabriel Peireira,Male,17,Primary,Grade 5-9,home,2-5 hr,no,no,yes,8,9,10,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+190,Gabriel Peireira,Female,16,Grade 5-9,Secondary,course,2-5 hr,no,no,yes,11,12,13,Math,2-5 hr X Grade 5-9,2-5 hr X Secondary
+191,Gabriel Peireira,Female,17,Primary,Primary,course,2-5 hr,no,no,yes,8,8,9,Math,2-5 hr X Primary,2-5 hr X Primary
+192,Gabriel Peireira,Male,17,Primary,Grade 5-9,other,2-5 hr,no,yes,yes,7,8,8,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+193,Gabriel Peireira,Male,16,Secondary,Secondary,reputation,<2 hr,yes,no,yes,8,9,10,Math,<2 hr X Secondary,<2 hr X Secondary
+194,Gabriel Peireira,Male,16,Grade 5-9,Secondary,home,<2 hr,no,no,yes,13,14,14,Math,<2 hr X Grade 5-9,<2 hr X Secondary
+195,Gabriel Peireira,Female,17,Grade 5-9,Post-Secondary,course,2-5 hr,no,no,yes,14,15,15,Math,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+196,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,home,<2 hr,no,no,yes,17,15,16,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+197,Gabriel Peireira,Male,16,Secondary,Secondary,home,<2 hr,yes,yes,yes,9,9,10,Math,<2 hr X Secondary,<2 hr X Secondary
+198,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,home,<2 hr,yes,no,yes,18,18,18,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+199,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,yes,yes,9,9,10,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+200,Gabriel Peireira,Female,16,Post-Secondary,Secondary,home,2-5 hr,yes,no,yes,16,16,16,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+201,Gabriel Peireira,Female,16,Grade 5-9,Secondary,reputation,2-5 hr,yes,yes,yes,8,10,10,Math,2-5 hr X Grade 5-9,2-5 hr X Secondary
+202,Gabriel Peireira,Female,17,Primary,Primary,course,2-5 hr,yes,yes,yes,9,9,10,Math,2-5 hr X Primary,2-5 hr X Primary
+203,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,reputation,<2 hr,yes,no,yes,7,6,6,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+204,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,reputation,>10 hr,yes,yes,yes,10,10,11,Math,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+205,Gabriel Peireira,Female,17,Secondary,Post-Secondary,home,5-10 hr,yes,yes,yes,10,9,9,Math,5-10 hr X Secondary,5-10 hr X Post-Secondary
+206,Gabriel Peireira,Female,16,Secondary,Primary,course,2-5 hr,yes,yes,yes,7,7,7,Math,2-5 hr X Secondary,2-5 hr X Primary
+207,Gabriel Peireira,Female,16,Post-Secondary,Secondary,other,2-5 hr,no,yes,yes,11,12,13,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+208,Gabriel Peireira,Female,16,Primary,Primary,home,<2 hr,yes,yes,yes,9,9,10,Math,<2 hr X Primary,<2 hr X Primary
+209,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,5-10 hr,yes,yes,yes,7,7,7,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+210,Gabriel Peireira,Female,19,Secondary,Secondary,reputation,>10 hr,yes,yes,yes,8,8,8,Math,>10 hr X Secondary,>10 hr X Secondary
+211,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,home,2-5 hr,yes,yes,yes,12,12,13,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+212,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,yes,yes,12,13,14,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+213,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,home,2-5 hr,yes,yes,yes,6,7,8,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+214,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,other,<2 hr,yes,yes,yes,8,10,10,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+215,Gabriel Peireira,Female,17,Secondary,Grade 5-9,reputation,2-5 hr,no,yes,yes,14,15,15,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+216,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,2-5 hr,no,yes,yes,6,6,4,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+217,Gabriel Peireira,Male,18,Secondary,Secondary,home,2-5 hr,yes,yes,yes,6,6,8,Math,2-5 hr X Secondary,2-5 hr X Secondary
+218,Gabriel Peireira,Female,17,Grade 5-9,Secondary,home,<2 hr,yes,yes,yes,7,7,8,Math,<2 hr X Grade 5-9,<2 hr X Secondary
+219,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,5-10 hr,yes,yes,yes,9,10,10,Math,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+220,Gabriel Peireira,Female,17,Grade 5-9,Primary,reputation,2-5 hr,yes,no,yes,6,6,6,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+221,Gabriel Peireira,Female,17,Primary,Primary,reputation,5-10 hr,yes,no,yes,6,5,0,Math,5-10 hr X Primary,5-10 hr X Primary
+222,Gabriel Peireira,Female,16,Grade 5-9,Secondary,other,2-5 hr,no,no,yes,16,16,17,Math,2-5 hr X Grade 5-9,2-5 hr X Secondary
+223,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,home,2-5 hr,yes,yes,yes,12,13,13,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+224,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,home,5-10 hr,yes,no,yes,13,13,14,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+225,Gabriel Peireira,Female,18,Secondary,Primary,reputation,2-5 hr,no,no,yes,9,8,7,Math,2-5 hr X Secondary,2-5 hr X Primary
+226,Gabriel Peireira,Female,17,Secondary,Grade 5-9,course,2-5 hr,no,no,yes,16,15,15,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+227,Gabriel Peireira,Male,17,Grade 5-9,Secondary,reputation,2-5 hr,yes,yes,yes,12,11,12,Math,2-5 hr X Grade 5-9,2-5 hr X Secondary
+228,Gabriel Peireira,Male,18,Grade 5-9,Primary,course,2-5 hr,yes,yes,yes,10,8,9,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+229,Gabriel Peireira,Female,17,Grade 5-9,Primary,course,5-10 hr,no,no,yes,12,10,12,Math,5-10 hr X Grade 5-9,5-10 hr X Primary
+230,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,2-5 hr,no,no,yes,13,13,14,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+231,Gabriel Peireira,Male,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,yes,yes,11,11,11,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+232,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,11,9,9,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+233,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,yes,yes,14,13,13,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+234,Gabriel Peireira,Male,16,Primary,Primary,home,2-5 hr,yes,yes,yes,9,7,6,Math,2-5 hr X Primary,2-5 hr X Primary
+235,Gabriel Peireira,Male,16,Secondary,Grade 5-9,reputation,5-10 hr,no,no,yes,11,9,10,Math,5-10 hr X Secondary,5-10 hr X Grade 5-9
+236,Gabriel Peireira,Male,17,Grade 5-9,Grade 5-9,home,2-5 hr,no,yes,yes,14,13,13,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+237,Gabriel Peireira,Female,16,Grade 5-9,Primary,home,<2 hr,no,no,yes,13,12,12,Math,<2 hr X Grade 5-9,<2 hr X Primary
+238,Gabriel Peireira,Female,17,Grade 5-9,Primary,course,2-5 hr,no,no,yes,13,11,11,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+239,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,reputation,2-5 hr,no,no,no,7,7,0,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+240,Gabriel Peireira,Male,17,Post-Secondary,Secondary,course,2-5 hr,no,no,yes,12,12,12,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+241,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,course,2-5 hr,yes,yes,yes,10,11,12,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+242,Gabriel Peireira,Male,16,Post-Secondary,Secondary,course,<2 hr,no,no,yes,6,0,0,Math,<2 hr X Post-Secondary,<2 hr X Secondary
+243,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,13,12,12,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+244,Gabriel Peireira,Female,18,Grade 5-9,Primary,course,5-10 hr,yes,yes,yes,7,0,0,Math,5-10 hr X Grade 5-9,5-10 hr X Primary
+245,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,<2 hr,no,no,yes,18,18,18,Math,<2 hr X Grade 5-9,<2 hr X Primary
+246,Gabriel Peireira,Male,17,Grade 5-9,Secondary,course,<2 hr,no,no,yes,12,12,13,Math,<2 hr X Grade 5-9,<2 hr X Secondary
+247,Gabriel Peireira,Male,22,Secondary,Primary,other,<2 hr,no,no,no,6,8,8,Math,<2 hr X Secondary,<2 hr X Primary
+248,Gabriel Peireira,Male,18,Secondary,Secondary,course,2-5 hr,yes,no,yes,3,5,5,Math,2-5 hr X Secondary,2-5 hr X Secondary
+249,Gabriel Peireira,Male,16,None,Grade 5-9,other,<2 hr,no,yes,yes,13,15,15,Math,<2 hr X None,<2 hr X Grade 5-9
+250,Gabriel Peireira,Male,18,Secondary,Grade 5-9,course,<2 hr,no,no,no,6,8,8,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+251,Gabriel Peireira,Male,16,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,7,10,10,Math,2-5 hr X Secondary,2-5 hr X Secondary
+252,Gabriel Peireira,Male,18,Grade 5-9,Primary,other,<2 hr,no,no,no,6,9,8,Math,<2 hr X Grade 5-9,<2 hr X Primary
+253,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,<2 hr,no,no,yes,8,9,8,Math,<2 hr X Grade 5-9,<2 hr X Primary
+254,Gabriel Peireira,Male,17,Grade 5-9,Primary,course,<2 hr,no,no,yes,8,12,12,Math,<2 hr X Grade 5-9,<2 hr X Primary
+255,Gabriel Peireira,Male,17,Primary,Primary,course,<2 hr,yes,no,yes,7,9,8,Math,<2 hr X Primary,<2 hr X Primary
+256,Gabriel Peireira,Female,17,Post-Secondary,Grade 5-9,reputation,>10 hr,yes,yes,yes,14,12,13,Math,>10 hr X Post-Secondary,>10 hr X Grade 5-9
+257,Gabriel Peireira,Male,19,Post-Secondary,Secondary,reputation,2-5 hr,yes,no,yes,11,11,11,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+258,Gabriel Peireira,Male,18,Grade 5-9,Primary,home,2-5 hr,no,no,yes,15,14,14,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+259,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,>10 hr,no,yes,yes,10,9,0,Math,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+260,Gabriel Peireira,Female,18,Post-Secondary,Secondary,home,2-5 hr,yes,yes,yes,17,18,18,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+261,Gabriel Peireira,Male,18,Post-Secondary,Secondary,course,2-5 hr,yes,yes,yes,8,8,8,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+262,Gabriel Peireira,Male,18,Secondary,Grade 5-9,course,5-10 hr,no,no,yes,13,12,12,Math,5-10 hr X Secondary,5-10 hr X Grade 5-9
+263,Gabriel Peireira,Female,17,Secondary,Secondary,home,5-10 hr,no,no,yes,10,9,9,Math,5-10 hr X Secondary,5-10 hr X Secondary
+264,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,home,5-10 hr,yes,yes,yes,9,10,0,Math,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+265,Gabriel Peireira,Male,18,Secondary,Post-Secondary,reputation,2-5 hr,yes,yes,yes,17,17,17,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+266,Gabriel Peireira,Male,17,Secondary,Primary,other,2-5 hr,no,yes,yes,9,9,10,Math,2-5 hr X Secondary,2-5 hr X Primary
+267,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,reputation,2-5 hr,no,yes,yes,12,10,11,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+268,Gabriel Peireira,Male,18,Post-Secondary,Grade 5-9,reputation,2-5 hr,yes,yes,yes,10,9,10,Math,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+269,Gabriel Peireira,Female,18,Grade 5-9,Primary,reputation,2-5 hr,yes,no,no,6,0,0,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+270,Gabriel Peireira,Female,19,Secondary,Secondary,home,2-5 hr,yes,yes,yes,9,9,9,Math,2-5 hr X Secondary,2-5 hr X Secondary
+271,Gabriel Peireira,Female,18,Grade 5-9,Secondary,reputation,>10 hr,yes,yes,yes,15,14,14,Math,>10 hr X Grade 5-9,>10 hr X Secondary
+272,Gabriel Peireira,Female,18,Primary,Primary,home,2-5 hr,yes,yes,yes,11,11,11,Math,2-5 hr X Primary,2-5 hr X Primary
+273,Gabriel Peireira,Male,17,Primary,Grade 5-9,home,2-5 hr,yes,yes,yes,15,14,14,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+274,Gabriel Peireira,Female,17,Grade 5-9,Post-Secondary,reputation,2-5 hr,yes,yes,yes,10,10,10,Math,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+275,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,yes,yes,12,12,12,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+276,Gabriel Peireira,Female,18,Secondary,Grade 5-9,home,2-5 hr,no,no,no,10,9,9,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+277,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,home,<2 hr,no,yes,yes,9,9,9,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+278,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,9,8,8,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+279,Gabriel Peireira,Male,18,Post-Secondary,Secondary,course,<2 hr,no,yes,yes,10,11,10,Math,<2 hr X Post-Secondary,<2 hr X Secondary
+280,Gabriel Peireira,Male,17,Post-Secondary,Primary,home,<2 hr,no,yes,yes,8,8,8,Math,<2 hr X Post-Secondary,<2 hr X Primary
+281,Gabriel Peireira,Male,17,Secondary,Grade 5-9,home,<2 hr,no,no,yes,11,9,10,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+282,Gabriel Peireira,Female,18,Primary,Primary,reputation,>10 hr,yes,yes,yes,12,12,12,Math,>10 hr X Primary,>10 hr X Primary
+283,Gabriel Peireira,Female,18,Primary,Primary,home,2-5 hr,no,no,yes,8,9,10,Math,2-5 hr X Primary,2-5 hr X Primary
+284,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,10,9,11,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+285,Gabriel Peireira,Male,17,Primary,Primary,reputation,2-5 hr,no,yes,yes,12,10,11,Math,2-5 hr X Primary,2-5 hr X Primary
+286,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,other,5-10 hr,yes,yes,yes,18,18,19,Math,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+287,Gabriel Peireira,Female,17,Primary,Primary,reputation,5-10 hr,yes,yes,yes,13,12,12,Math,5-10 hr X Primary,5-10 hr X Primary
+288,Gabriel Peireira,Male,18,Grade 5-9,Primary,reputation,5-10 hr,no,yes,yes,15,14,14,Math,5-10 hr X Grade 5-9,5-10 hr X Primary
+289,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,yes,yes,15,13,15,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+290,Gabriel Peireira,Male,18,Post-Secondary,Grade 5-9,home,2-5 hr,yes,yes,yes,12,11,11,Math,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+291,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,5-10 hr,yes,yes,yes,15,15,15,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+292,Gabriel Peireira,Female,18,Grade 5-9,Primary,reputation,2-5 hr,no,no,yes,12,12,13,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+293,Gabriel Peireira,Female,17,Secondary,Primary,reputation,>10 hr,yes,yes,yes,18,18,18,Math,>10 hr X Secondary,>10 hr X Primary
+294,Gabriel Peireira,Male,18,Secondary,Grade 5-9,reputation,5-10 hr,yes,yes,yes,14,13,14,Math,5-10 hr X Secondary,5-10 hr X Grade 5-9
+295,Gabriel Peireira,Male,17,Secondary,Secondary,home,<2 hr,yes,yes,yes,14,12,11,Math,<2 hr X Secondary,<2 hr X Secondary
+296,Gabriel Peireira,Female,19,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,yes,yes,10,9,0,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+297,Gabriel Peireira,Female,18,Post-Secondary,Secondary,home,2-5 hr,yes,yes,yes,10,8,8,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+298,Gabriel Peireira,Female,18,Post-Secondary,Secondary,reputation,>10 hr,yes,yes,yes,14,13,14,Math,>10 hr X Post-Secondary,>10 hr X Secondary
+299,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,home,<2 hr,yes,yes,yes,16,15,16,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+300,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,12,10,11,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+301,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,home,<2 hr,no,yes,yes,11,11,10,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+302,Gabriel Peireira,Female,17,Post-Secondary,Grade 5-9,reputation,5-10 hr,yes,yes,yes,15,12,14,Math,5-10 hr X Post-Secondary,5-10 hr X Grade 5-9
+303,Gabriel Peireira,Female,17,Secondary,Grade 5-9,reputation,>10 hr,yes,yes,yes,17,17,18,Math,>10 hr X Secondary,>10 hr X Grade 5-9
+304,Gabriel Peireira,Male,19,Secondary,Secondary,home,2-5 hr,yes,no,yes,15,14,13,Math,2-5 hr X Secondary,2-5 hr X Secondary
+305,Gabriel Peireira,Female,18,Grade 5-9,Post-Secondary,reputation,2-5 hr,yes,yes,yes,14,12,12,Math,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+306,Gabriel Peireira,Male,20,Secondary,Grade 5-9,course,<2 hr,no,no,yes,17,18,18,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+307,Gabriel Peireira,Male,19,Post-Secondary,Post-Secondary,reputation,<2 hr,yes,yes,yes,8,9,8,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+308,Gabriel Peireira,Male,19,Secondary,Secondary,reputation,2-5 hr,no,no,yes,15,12,12,Math,2-5 hr X Secondary,2-5 hr X Secondary
+309,Gabriel Peireira,Female,19,Primary,Primary,reputation,2-5 hr,yes,no,yes,12,10,10,Math,2-5 hr X Primary,2-5 hr X Primary
+310,Gabriel Peireira,Female,19,Primary,Grade 5-9,home,2-5 hr,no,no,yes,9,9,0,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+311,Gabriel Peireira,Female,19,Grade 5-9,Primary,other,2-5 hr,yes,no,no,14,12,13,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+312,Gabriel Peireira,Male,19,Primary,Grade 5-9,course,2-5 hr,no,no,yes,13,11,11,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+313,Gabriel Peireira,Female,19,Secondary,Grade 5-9,reputation,2-5 hr,yes,yes,yes,13,10,11,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+314,Gabriel Peireira,Female,19,Primary,Primary,home,5-10 hr,no,no,yes,15,13,13,Math,5-10 hr X Primary,5-10 hr X Primary
+315,Gabriel Peireira,Female,19,Grade 5-9,Secondary,reputation,5-10 hr,no,no,yes,13,11,11,Math,5-10 hr X Grade 5-9,5-10 hr X Secondary
+316,Gabriel Peireira,Female,18,Grade 5-9,Primary,course,2-5 hr,yes,yes,yes,8,8,0,Math,2-5 hr X Grade 5-9,2-5 hr X Primary
+317,Gabriel Peireira,Female,18,Post-Secondary,Secondary,course,5-10 hr,yes,yes,yes,9,10,9,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+318,Gabriel Peireira,Female,17,Secondary,Post-Secondary,course,5-10 hr,yes,yes,yes,11,11,10,Math,5-10 hr X Secondary,5-10 hr X Post-Secondary
+319,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,course,2-5 hr,yes,yes,yes,11,11,11,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+320,Gabriel Peireira,Female,17,Post-Secondary,Secondary,course,2-5 hr,yes,yes,yes,13,13,13,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+321,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,11,9,9,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+322,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,5-10 hr,yes,yes,yes,11,11,11,Math,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+323,Gabriel Peireira,Female,17,Secondary,Primary,course,5-10 hr,yes,no,yes,12,14,15,Math,5-10 hr X Secondary,5-10 hr X Primary
+324,Gabriel Peireira,Female,17,None,Grade 5-9,home,5-10 hr,no,no,yes,16,15,15,Math,5-10 hr X None,5-10 hr X Grade 5-9
+325,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,course,5-10 hr,no,no,yes,9,12,11,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+326,Gabriel Peireira,Male,17,Secondary,Secondary,reputation,<2 hr,no,no,yes,14,15,16,Math,<2 hr X Secondary,<2 hr X Secondary
+327,Gabriel Peireira,Male,17,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,11,10,10,Math,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+328,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,5-10 hr,yes,yes,yes,10,9,9,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+329,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,5-10 hr,yes,yes,yes,14,14,14,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+330,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,course,>10 hr,yes,no,yes,9,8,8,Math,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+331,Gabriel Peireira,Female,17,Grade 5-9,Post-Secondary,course,5-10 hr,yes,no,yes,12,14,14,Math,5-10 hr X Grade 5-9,5-10 hr X Post-Secondary
+332,Gabriel Peireira,Female,18,Secondary,Secondary,home,2-5 hr,no,no,yes,7,0,0,Math,2-5 hr X Secondary,2-5 hr X Secondary
+333,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,8,8,0,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+334,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,course,>10 hr,no,no,yes,10,9,0,Math,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+335,Gabriel Peireira,Female,17,Secondary,Post-Secondary,course,5-10 hr,no,no,yes,16,15,15,Math,5-10 hr X Secondary,5-10 hr X Post-Secondary
+336,Gabriel Peireira,Female,19,Secondary,Primary,home,5-10 hr,no,yes,yes,14,13,13,Math,5-10 hr X Secondary,5-10 hr X Primary
+337,Gabriel Peireira,Female,17,Secondary,Grade 5-9,home,2-5 hr,yes,yes,yes,7,8,0,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+338,Gabriel Peireira,Female,18,Secondary,Secondary,home,>10 hr,yes,no,yes,16,15,17,Math,>10 hr X Secondary,>10 hr X Secondary
+339,Gabriel Peireira,Female,17,Secondary,Grade 5-9,home,2-5 hr,yes,yes,yes,9,10,10,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+340,Gabriel Peireira,Female,19,Grade 5-9,Primary,home,5-10 hr,no,yes,yes,11,12,11,Math,5-10 hr X Grade 5-9,5-10 hr X Primary
+341,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,10,10,0,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+342,Gabriel Peireira,Male,18,Secondary,Post-Secondary,home,2-5 hr,no,no,yes,16,15,15,Math,2-5 hr X Secondary,2-5 hr X Post-Secondary
+343,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,home,2-5 hr,yes,no,yes,9,8,0,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+344,Gabriel Peireira,Female,18,Grade 5-9,Secondary,course,5-10 hr,yes,no,yes,11,10,10,Math,5-10 hr X Grade 5-9,5-10 hr X Secondary
+345,Gabriel Peireira,Female,18,Secondary,Grade 5-9,other,5-10 hr,no,no,yes,13,13,14,Math,5-10 hr X Secondary,5-10 hr X Grade 5-9
+346,Gabriel Peireira,Male,18,Post-Secondary,Secondary,course,5-10 hr,no,no,yes,16,15,16,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+347,Gabriel Peireira,Male,18,Post-Secondary,Secondary,course,5-10 hr,yes,yes,yes,10,10,9,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+348,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,5-10 hr,yes,yes,yes,13,15,15,Math,5-10 hr X Post-Secondary,5-10 hr X Secondary
+349,Mousinho da Silveira,Male,18,Secondary,Grade 5-9,course,<2 hr,yes,no,yes,11,13,13,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+350,Mousinho da Silveira,Male,19,Primary,Primary,home,2-5 hr,no,no,yes,8,7,8,Math,2-5 hr X Primary,2-5 hr X Primary
+351,Mousinho da Silveira,Male,17,Secondary,Secondary,course,2-5 hr,yes,yes,yes,13,13,13,Math,2-5 hr X Secondary,2-5 hr X Secondary
+352,Mousinho da Silveira,Male,18,Primary,Secondary,course,<2 hr,no,no,no,8,7,8,Math,<2 hr X Primary,<2 hr X Secondary
+353,Mousinho da Silveira,Male,19,Primary,Primary,home,<2 hr,yes,no,yes,8,8,8,Math,<2 hr X Primary,<2 hr X Primary
+354,Mousinho da Silveira,Male,17,Post-Secondary,Secondary,home,2-5 hr,yes,yes,yes,13,11,11,Math,2-5 hr X Post-Secondary,2-5 hr X Secondary
+355,Mousinho da Silveira,Female,18,Secondary,Secondary,course,2-5 hr,yes,no,yes,10,9,9,Math,2-5 hr X Secondary,2-5 hr X Secondary
+356,Mousinho da Silveira,Female,17,Post-Secondary,Post-Secondary,other,2-5 hr,yes,yes,yes,12,13,13,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+357,Mousinho da Silveira,Female,17,Secondary,Grade 5-9,reputation,2-5 hr,no,no,yes,12,12,11,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+358,Mousinho da Silveira,Male,18,Primary,Primary,home,<2 hr,no,no,yes,10,10,10,Math,<2 hr X Primary,<2 hr X Primary
+359,Mousinho da Silveira,Female,18,Primary,Primary,course,5-10 hr,no,no,yes,18,16,16,Math,5-10 hr X Primary,5-10 hr X Primary
+360,Mousinho da Silveira,Female,18,Primary,Post-Secondary,course,2-5 hr,no,no,yes,13,13,13,Math,2-5 hr X Primary,2-5 hr X Post-Secondary
+361,Mousinho da Silveira,Male,18,Primary,Primary,other,2-5 hr,no,no,no,13,12,12,Math,2-5 hr X Primary,2-5 hr X Primary
+362,Mousinho da Silveira,Female,18,Secondary,Secondary,other,2-5 hr,yes,no,yes,11,11,10,Math,2-5 hr X Secondary,2-5 hr X Secondary
+363,Mousinho da Silveira,Female,17,Post-Secondary,Post-Secondary,course,2-5 hr,yes,yes,yes,16,15,15,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+364,Mousinho da Silveira,Female,17,Primary,Grade 5-9,course,2-5 hr,no,no,yes,12,11,12,Math,2-5 hr X Primary,2-5 hr X Grade 5-9
+365,Mousinho da Silveira,Male,18,Primary,Secondary,course,2-5 hr,yes,yes,yes,10,10,10,Math,2-5 hr X Primary,2-5 hr X Secondary
+366,Mousinho da Silveira,Male,18,Post-Secondary,Post-Secondary,other,5-10 hr,no,yes,yes,13,13,13,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+367,Mousinho da Silveira,Female,17,Primary,Primary,reputation,<2 hr,yes,yes,yes,7,6,0,Math,<2 hr X Primary,<2 hr X Primary
+368,Mousinho da Silveira,Female,18,Grade 5-9,Secondary,course,<2 hr,yes,yes,yes,11,10,10,Math,<2 hr X Grade 5-9,<2 hr X Secondary
+369,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,other,2-5 hr,yes,yes,yes,14,12,11,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+370,Mousinho da Silveira,Female,19,Secondary,Grade 5-9,home,2-5 hr,no,no,yes,7,7,9,Math,2-5 hr X Secondary,2-5 hr X Grade 5-9
+371,Mousinho da Silveira,Male,18,Primary,Grade 5-9,other,<2 hr,yes,yes,no,14,12,12,Math,<2 hr X Primary,<2 hr X Grade 5-9
+372,Mousinho da Silveira,Female,17,Grade 5-9,Grade 5-9,home,5-10 hr,no,no,yes,13,11,11,Math,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+373,Mousinho da Silveira,Female,17,Primary,Grade 5-9,course,<2 hr,no,no,yes,6,5,5,Math,<2 hr X Primary,<2 hr X Grade 5-9
+374,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,reputation,5-10 hr,no,no,yes,19,18,19,Math,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+375,Mousinho da Silveira,Female,18,Primary,Primary,home,5-10 hr,no,no,yes,8,8,10,Math,5-10 hr X Primary,5-10 hr X Primary
+376,Mousinho da Silveira,Female,20,Post-Secondary,Grade 5-9,course,5-10 hr,yes,yes,yes,15,14,15,Math,5-10 hr X Post-Secondary,5-10 hr X Grade 5-9
+377,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,course,2-5 hr,no,yes,yes,8,9,10,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+378,Mousinho da Silveira,Female,18,Secondary,Secondary,home,2-5 hr,no,yes,yes,15,15,15,Math,2-5 hr X Secondary,2-5 hr X Secondary
+379,Mousinho da Silveira,Female,17,Secondary,Primary,reputation,2-5 hr,yes,yes,yes,10,10,10,Math,2-5 hr X Secondary,2-5 hr X Primary
+380,Mousinho da Silveira,Male,18,Post-Secondary,Post-Secondary,home,2-5 hr,no,yes,yes,15,14,14,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+381,Mousinho da Silveira,Male,18,Grade 5-9,Primary,other,<2 hr,no,no,yes,7,6,7,Math,<2 hr X Grade 5-9,<2 hr X Primary
+382,Mousinho da Silveira,Male,17,Grade 5-9,Secondary,home,2-5 hr,no,no,yes,11,11,10,Math,2-5 hr X Grade 5-9,2-5 hr X Secondary
+383,Mousinho da Silveira,Male,19,Primary,Primary,other,<2 hr,no,no,yes,6,5,0,Math,<2 hr X Primary,<2 hr X Primary
+384,Mousinho da Silveira,Male,18,Post-Secondary,Grade 5-9,home,<2 hr,no,yes,yes,6,5,5,Math,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+385,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,other,5-10 hr,no,yes,yes,10,9,10,Math,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+386,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,reputation,<2 hr,yes,yes,yes,6,5,6,Math,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+387,Mousinho da Silveira,Female,19,Grade 5-9,Secondary,course,5-10 hr,no,no,yes,7,5,0,Math,5-10 hr X Grade 5-9,5-10 hr X Secondary
+388,Mousinho da Silveira,Female,18,Secondary,Primary,course,2-5 hr,yes,yes,yes,7,9,8,Math,2-5 hr X Secondary,2-5 hr X Primary
+389,Mousinho da Silveira,Female,18,Primary,Primary,course,2-5 hr,no,no,yes,6,5,0,Math,2-5 hr X Primary,2-5 hr X Primary
+390,Mousinho da Silveira,Male,20,Grade 5-9,Grade 5-9,course,2-5 hr,yes,yes,yes,9,9,9,Math,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+391,Mousinho da Silveira,Male,17,Secondary,Primary,course,<2 hr,no,no,yes,14,16,16,Math,<2 hr X Secondary,<2 hr X Primary
+392,Mousinho da Silveira,Male,21,Primary,Primary,course,<2 hr,no,no,yes,10,8,7,Math,<2 hr X Primary,<2 hr X Primary
+393,Mousinho da Silveira,Male,18,Secondary,Grade 5-9,course,<2 hr,no,no,yes,11,12,10,Math,<2 hr X Secondary,<2 hr X Grade 5-9
+394,Mousinho da Silveira,Male,19,Primary,Primary,course,<2 hr,no,no,yes,8,9,9,Math,<2 hr X Primary,<2 hr X Primary
+395,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,course,2-5 hr,no,no,yes,5,6,6,Math,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+396,Mousinho da Silveira,Male,19,Primary,Primary,other,<2 hr,no,no,yes,6,5,0,Math,<2 hr X Primary,<2 hr X Primary
+397,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,course,2-5 hr,no,no,yes,0,11,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+398,Gabriel Peireira,Female,17,Primary,Primary,course,2-5 hr,yes,no,yes,9,11,11,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+399,Gabriel Peireira,Female,15,Primary,Primary,other,2-5 hr,no,no,yes,12,13,12,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+400,Gabriel Peireira,Female,15,Post-Secondary,Grade 5-9,home,5-10 hr,yes,no,yes,14,14,14,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Grade 5-9
+401,Gabriel Peireira,Female,16,Secondary,Secondary,home,2-5 hr,yes,no,yes,11,13,13,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+402,Gabriel Peireira,Male,16,Post-Secondary,Secondary,reputation,2-5 hr,yes,no,yes,12,12,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+403,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,13,12,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+404,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,10,13,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+405,Gabriel Peireira,Male,15,Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,15,16,17,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+406,Gabriel Peireira,Male,15,Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,12,12,13,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+407,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,14,14,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+408,Gabriel Peireira,Female,15,Grade 5-9,Primary,reputation,5-10 hr,yes,no,yes,10,12,13,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Primary
+409,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,yes,12,13,12,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+410,Gabriel Peireira,Male,15,Post-Secondary,Secondary,course,2-5 hr,yes,no,yes,12,12,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+411,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,home,5-10 hr,yes,no,yes,14,14,15,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+412,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,home,<2 hr,yes,no,yes,17,17,17,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+413,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,reputation,5-10 hr,yes,no,yes,13,13,14,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+414,Gabriel Peireira,Female,16,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,13,14,14,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+415,Gabriel Peireira,Male,17,Secondary,Grade 5-9,course,<2 hr,yes,yes,yes,8,8,7,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+416,Gabriel Peireira,Male,16,Post-Secondary,Secondary,home,<2 hr,no,no,yes,12,12,12,Portuguese,<2 hr X Post-Secondary,<2 hr X Secondary
+417,Gabriel Peireira,Male,15,Post-Secondary,Secondary,reputation,2-5 hr,no,no,yes,12,13,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+418,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,other,<2 hr,yes,yes,yes,11,12,12,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+419,Gabriel Peireira,Male,16,Post-Secondary,Grade 5-9,course,2-5 hr,no,no,yes,12,13,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+420,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,no,yes,10,10,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+421,Gabriel Peireira,Female,15,Grade 5-9,Post-Secondary,course,5-10 hr,yes,no,yes,10,11,10,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Post-Secondary
+422,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,<2 hr,yes,no,yes,10,11,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+423,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,home,<2 hr,yes,no,yes,11,12,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+424,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,other,<2 hr,no,no,yes,11,11,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+425,Gabriel Peireira,Male,16,Secondary,Post-Secondary,home,2-5 hr,yes,yes,yes,12,12,13,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+426,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,home,2-5 hr,yes,yes,yes,12,11,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+427,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,home,2-5 hr,yes,yes,yes,10,11,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+428,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,15,15,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+429,Gabriel Peireira,Male,15,Post-Secondary,Secondary,course,2-5 hr,yes,no,yes,13,14,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+430,Gabriel Peireira,Male,15,Secondary,Secondary,course,2-5 hr,no,no,yes,13,12,12,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+431,Gabriel Peireira,Male,16,Secondary,Grade 5-9,home,<2 hr,yes,no,yes,12,12,12,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+432,Gabriel Peireira,Female,15,Grade 5-9,Secondary,other,<2 hr,yes,no,yes,11,11,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+433,Gabriel Peireira,Male,15,Post-Secondary,Secondary,home,5-10 hr,yes,no,yes,14,14,14,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+434,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,reputation,5-10 hr,yes,no,yes,13,13,13,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+435,Gabriel Peireira,Female,15,Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,11,12,12,Portuguese,5-10 hr X Secondary,5-10 hr X Post-Secondary
+436,Gabriel Peireira,Female,15,Grade 5-9,Grade 5-9,reputation,<2 hr,yes,no,yes,14,13,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+437,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,2-5 hr,yes,no,yes,11,11,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+438,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,home,<2 hr,yes,no,yes,10,11,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+439,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,14,15,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+440,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,9,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+441,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,no,no,yes,10,11,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+442,Gabriel Peireira,Female,15,Post-Secondary,Secondary,course,2-5 hr,yes,yes,yes,10,11,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+443,Gabriel Peireira,Female,16,Secondary,Secondary,home,2-5 hr,yes,no,yes,13,12,13,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+444,Gabriel Peireira,Male,16,Post-Secondary,Secondary,reputation,>10 hr,no,no,yes,17,17,17,Portuguese,>10 hr X Post-Secondary,>10 hr X Secondary
+445,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,11,12,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+446,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,other,2-5 hr,yes,no,yes,13,12,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+447,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,14,13,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+448,Gabriel Peireira,Female,15,Post-Secondary,Grade 5-9,other,2-5 hr,yes,no,yes,16,14,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+449,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,other,<2 hr,no,no,yes,10,9,9,Portuguese,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+450,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,yes,13,12,12,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+451,Gabriel Peireira,Female,15,Secondary,Secondary,other,<2 hr,no,no,yes,13,12,13,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+452,Gabriel Peireira,Female,16,Grade 5-9,Primary,other,2-5 hr,no,no,yes,12,13,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+453,Gabriel Peireira,Female,15,Post-Secondary,Secondary,reputation,2-5 hr,yes,no,yes,15,14,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+454,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,15,15,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+455,Gabriel Peireira,Male,15,Primary,Grade 5-9,home,2-5 hr,yes,no,yes,14,13,14,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+456,Gabriel Peireira,Female,16,Post-Secondary,Grade 5-9,course,2-5 hr,yes,yes,yes,16,15,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+457,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,other,2-5 hr,yes,no,yes,17,16,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+458,Gabriel Peireira,Female,16,Primary,Primary,course,<2 hr,yes,no,yes,10,10,16,Portuguese,<2 hr X Primary,<2 hr X Primary
+459,Gabriel Peireira,Female,16,Primary,Grade 5-9,reputation,2-5 hr,no,no,yes,13,13,10,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+460,Gabriel Peireira,Female,16,Post-Secondary,Secondary,home,5-10 hr,yes,no,yes,14,13,13,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+461,Gabriel Peireira,Female,15,Post-Secondary,Secondary,reputation,2-5 hr,no,no,yes,13,12,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+462,Gabriel Peireira,Female,16,Post-Secondary,Secondary,course,2-5 hr,yes,no,yes,16,15,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+463,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,reputation,>10 hr,yes,no,yes,11,12,12,Portuguese,>10 hr X Post-Secondary,>10 hr X Post-Secondary
+464,Gabriel Peireira,Female,16,Secondary,Primary,course,>10 hr,yes,no,yes,10,9,10,Portuguese,>10 hr X Secondary,>10 hr X Primary
+465,Gabriel Peireira,Female,15,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,no,yes,11,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+466,Gabriel Peireira,Female,15,Secondary,Primary,reputation,>10 hr,yes,no,yes,15,15,15,Portuguese,>10 hr X Secondary,>10 hr X Primary
+467,Gabriel Peireira,Male,16,Secondary,Primary,reputation,>10 hr,yes,no,yes,13,11,11,Portuguese,>10 hr X Secondary,>10 hr X Primary
+468,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,course,>10 hr,no,no,yes,11,9,10,Portuguese,>10 hr X Post-Secondary,>10 hr X Grade 5-9
+469,Gabriel Peireira,Female,15,Primary,Primary,reputation,2-5 hr,yes,no,yes,13,11,11,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+470,Gabriel Peireira,Male,16,Secondary,Primary,reputation,<2 hr,no,no,yes,13,13,14,Portuguese,<2 hr X Secondary,<2 hr X Primary
+471,Gabriel Peireira,Female,16,Secondary,Secondary,home,2-5 hr,yes,no,yes,11,11,11,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+472,Gabriel Peireira,Male,15,Post-Secondary,Secondary,home,2-5 hr,yes,no,yes,11,11,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+473,Gabriel Peireira,Male,15,Post-Secondary,None,course,>10 hr,no,no,yes,12,11,11,Portuguese,>10 hr X Post-Secondary,>10 hr X None
+474,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,reputation,>10 hr,no,no,yes,13,13,13,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+475,Gabriel Peireira,Male,17,Grade 5-9,Primary,home,<2 hr,yes,no,no,9,9,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+476,Gabriel Peireira,Female,16,Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,12,11,11,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+477,Gabriel Peireira,Male,15,Grade 5-9,Secondary,course,<2 hr,yes,no,yes,11,11,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+478,Gabriel Peireira,Male,15,Grade 5-9,Secondary,home,5-10 hr,no,no,yes,10,9,9,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Secondary
+479,Gabriel Peireira,Female,15,Secondary,Grade 5-9,reputation,2-5 hr,yes,no,yes,12,11,11,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+480,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,home,2-5 hr,no,yes,yes,13,12,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+481,Gabriel Peireira,Female,15,Primary,Primary,home,2-5 hr,yes,no,yes,13,12,12,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+482,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,no,no,yes,12,11,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+483,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,13,11,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+484,Gabriel Peireira,Female,15,Post-Secondary,Grade 5-9,reputation,5-10 hr,yes,no,yes,15,15,15,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Grade 5-9
+485,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,reputation,2-5 hr,no,no,yes,12,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+486,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,9,9,10,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+487,Gabriel Peireira,Female,16,Secondary,Secondary,home,5-10 hr,yes,no,yes,9,11,11,Portuguese,5-10 hr X Secondary,5-10 hr X Secondary
+488,Gabriel Peireira,Female,15,Post-Secondary,Secondary,reputation,<2 hr,no,no,yes,14,13,13,Portuguese,<2 hr X Post-Secondary,<2 hr X Secondary
+489,Gabriel Peireira,Female,16,Secondary,Primary,home,2-5 hr,yes,no,yes,12,13,12,Portuguese,2-5 hr X Secondary,2-5 hr X Primary
+490,Gabriel Peireira,Female,16,Post-Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,13,14,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+491,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,reputation,>10 hr,yes,no,yes,11,12,12,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+492,Gabriel Peireira,Female,15,Primary,Primary,home,>10 hr,yes,yes,yes,13,13,13,Portuguese,>10 hr X Primary,>10 hr X Primary
+493,Gabriel Peireira,Male,16,Post-Secondary,Secondary,reputation,<2 hr,yes,yes,yes,9,11,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Secondary
+494,Gabriel Peireira,Female,16,Grade 5-9,Primary,course,2-5 hr,yes,no,yes,13,12,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+495,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,reputation,<2 hr,no,no,yes,12,13,13,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+496,Gabriel Peireira,Female,16,Post-Secondary,Secondary,course,5-10 hr,yes,no,yes,12,13,13,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+497,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,other,<2 hr,yes,no,yes,9,9,8,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+498,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,other,5-10 hr,yes,no,yes,16,16,16,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+499,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,course,<2 hr,yes,yes,yes,12,13,12,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+500,Gabriel Peireira,Female,15,Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,11,10,10,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+501,Gabriel Peireira,Male,15,Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,16,16,16,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+502,Gabriel Peireira,Female,15,Secondary,Secondary,reputation,>10 hr,no,no,yes,10,10,10,Portuguese,>10 hr X Secondary,>10 hr X Secondary
+503,Gabriel Peireira,Female,15,Grade 5-9,Grade 5-9,course,>10 hr,yes,no,yes,10,10,10,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+504,Gabriel Peireira,Male,16,Secondary,Secondary,home,5-10 hr,yes,no,yes,13,14,14,Portuguese,5-10 hr X Secondary,5-10 hr X Secondary
+505,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,home,>10 hr,yes,no,yes,12,10,11,Portuguese,>10 hr X Post-Secondary,>10 hr X Post-Secondary
+506,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,other,5-10 hr,yes,no,yes,15,15,14,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+507,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,13,14,14,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+508,Gabriel Peireira,Female,16,Secondary,Secondary,reputation,5-10 hr,yes,no,yes,11,11,11,Portuguese,5-10 hr X Secondary,5-10 hr X Secondary
+509,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,8,10,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+510,Gabriel Peireira,Male,15,Post-Secondary,Grade 5-9,course,<2 hr,no,no,yes,18,17,18,Portuguese,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+511,Gabriel Peireira,Male,15,Grade 5-9,Primary,reputation,2-5 hr,no,no,yes,10,9,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+512,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,16,14,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+513,Gabriel Peireira,Male,15,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,16,15,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+514,Gabriel Peireira,Male,16,Secondary,Secondary,home,<2 hr,no,no,yes,14,14,15,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+515,Gabriel Peireira,Male,17,Primary,Secondary,course,2-5 hr,yes,no,yes,12,11,11,Portuguese,2-5 hr X Primary,2-5 hr X Secondary
+516,Gabriel Peireira,Male,15,Secondary,Post-Secondary,reputation,<2 hr,no,no,yes,14,13,14,Portuguese,<2 hr X Secondary,<2 hr X Post-Secondary
+517,Gabriel Peireira,Female,15,Primary,Grade 5-9,course,2-5 hr,no,no,yes,14,14,14,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+518,Gabriel Peireira,Male,15,Grade 5-9,Grade 5-9,home,>10 hr,yes,no,yes,14,13,13,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+519,Gabriel Peireira,Female,16,Grade 5-9,Post-Secondary,course,2-5 hr,yes,no,yes,14,12,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+520,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,yes,12,13,13,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+521,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,12,11,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+522,Gabriel Peireira,Male,15,Secondary,Post-Secondary,home,<2 hr,no,no,yes,9,9,9,Portuguese,<2 hr X Secondary,<2 hr X Post-Secondary
+523,Gabriel Peireira,Female,15,Secondary,Post-Secondary,home,2-5 hr,no,no,yes,10,11,11,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+524,Gabriel Peireira,Female,19,None,Primary,course,2-5 hr,yes,no,no,9,10,11,Portuguese,2-5 hr X None,2-5 hr X Primary
+525,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,14,14,15,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+526,Gabriel Peireira,Male,16,Grade 5-9,Secondary,course,5-10 hr,yes,no,yes,13,12,13,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Secondary
+527,Gabriel Peireira,Female,15,Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,10,11,12,Portuguese,5-10 hr X Secondary,5-10 hr X Post-Secondary
+528,Gabriel Peireira,Female,18,Grade 5-9,Primary,reputation,2-5 hr,yes,no,no,10,9,8,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+529,Gabriel Peireira,Female,17,Grade 5-9,Primary,course,<2 hr,yes,no,yes,11,10,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+530,Gabriel Peireira,Female,15,Primary,Primary,course,<2 hr,yes,no,yes,11,12,13,Portuguese,<2 hr X Primary,<2 hr X Primary
+531,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,13,12,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+532,Gabriel Peireira,Female,16,Secondary,Post-Secondary,course,<2 hr,no,no,yes,15,13,14,Portuguese,<2 hr X Secondary,<2 hr X Post-Secondary
+533,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,<2 hr,no,no,yes,9,9,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+534,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,<2 hr,no,no,yes,13,11,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+535,Gabriel Peireira,Male,15,Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,12,11,11,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+536,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,13,14,15,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+537,Gabriel Peireira,Male,17,Secondary,Post-Secondary,course,2-5 hr,no,no,yes,10,9,10,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+538,Gabriel Peireira,Female,16,Primary,Primary,course,2-5 hr,yes,no,yes,14,13,13,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+539,Gabriel Peireira,Male,18,Secondary,Primary,course,<2 hr,no,no,yes,11,11,12,Portuguese,<2 hr X Secondary,<2 hr X Primary
+540,Gabriel Peireira,Female,18,Secondary,Grade 5-9,course,5-10 hr,yes,no,yes,12,11,11,Portuguese,5-10 hr X Secondary,5-10 hr X Grade 5-9
+541,Gabriel Peireira,Female,16,Primary,Primary,reputation,<2 hr,yes,no,yes,12,11,11,Portuguese,<2 hr X Primary,<2 hr X Primary
+542,Gabriel Peireira,Female,16,Secondary,Secondary,course,<2 hr,yes,no,yes,9,9,10,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+543,Gabriel Peireira,Male,16,Primary,Primary,course,2-5 hr,no,no,yes,10,10,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+544,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,13,14,14,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+545,Gabriel Peireira,Female,15,Primary,Primary,course,<2 hr,no,no,yes,8,9,9,Portuguese,<2 hr X Primary,<2 hr X Primary
+546,Gabriel Peireira,Male,15,Post-Secondary,Secondary,course,>10 hr,yes,no,yes,9,11,11,Portuguese,>10 hr X Post-Secondary,>10 hr X Secondary
+547,Gabriel Peireira,Female,15,Secondary,Secondary,home,2-5 hr,no,no,yes,9,8,9,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+548,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,15,13,13,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+549,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,reputation,<2 hr,yes,no,yes,12,11,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+550,Gabriel Peireira,Female,15,Post-Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,13,13,13,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+551,Gabriel Peireira,Female,16,Primary,Primary,course,<2 hr,no,no,yes,10,11,11,Portuguese,<2 hr X Primary,<2 hr X Primary
+552,Gabriel Peireira,Male,17,Grade 5-9,Primary,home,<2 hr,yes,no,yes,9,7,6,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+553,Gabriel Peireira,Female,15,Primary,Primary,course,2-5 hr,yes,no,yes,12,12,12,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+554,Gabriel Peireira,Female,15,Grade 5-9,Primary,home,<2 hr,yes,no,no,11,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+555,Gabriel Peireira,Female,15,Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,11,11,11,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+556,Gabriel Peireira,Female,15,Primary,Grade 5-9,course,2-5 hr,yes,no,yes,13,12,13,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+557,Gabriel Peireira,Female,15,Primary,Grade 5-9,course,2-5 hr,no,no,yes,11,11,11,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+558,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,no,9,9,8,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+559,Gabriel Peireira,Male,15,Grade 5-9,Primary,course,<2 hr,no,no,yes,12,11,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+560,Gabriel Peireira,Male,18,Primary,Primary,course,<2 hr,no,no,no,11,9,0,Portuguese,<2 hr X Primary,<2 hr X Primary
+561,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,<2 hr,no,no,yes,9,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+562,Gabriel Peireira,Female,15,Secondary,Secondary,reputation,5-10 hr,yes,yes,yes,13,13,13,Portuguese,5-10 hr X Secondary,5-10 hr X Secondary
+563,Gabriel Peireira,Male,19,Secondary,Grade 5-9,home,<2 hr,yes,no,no,11,9,11,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+564,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,yes,13,13,13,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+565,Gabriel Peireira,Male,15,Grade 5-9,Secondary,course,2-5 hr,no,yes,yes,7,8,8,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+566,Gabriel Peireira,Male,17,Primary,Grade 5-9,reputation,<2 hr,no,no,yes,9,8,10,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+567,Gabriel Peireira,Female,18,Primary,Primary,course,<2 hr,yes,no,yes,11,10,11,Portuguese,<2 hr X Primary,<2 hr X Primary
+568,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,course,<2 hr,no,no,yes,12,10,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+569,Gabriel Peireira,Male,16,Secondary,Secondary,course,2-5 hr,yes,no,yes,10,10,1,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+570,Gabriel Peireira,Male,16,Primary,Grade 5-9,course,<2 hr,no,no,yes,9,8,10,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+571,Gabriel Peireira,Male,17,Grade 5-9,Primary,course,<2 hr,no,yes,no,8,8,9,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+572,Gabriel Peireira,Male,17,Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,7,6,8,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+573,Gabriel Peireira,Male,15,Primary,Grade 5-9,course,<2 hr,no,no,yes,8,9,10,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+574,Gabriel Peireira,Male,16,Primary,Secondary,course,<2 hr,no,no,no,9,8,8,Portuguese,<2 hr X Primary,<2 hr X Secondary
+575,Gabriel Peireira,Male,17,Primary,Primary,course,2-5 hr,no,no,no,8,8,8,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+576,Gabriel Peireira,Male,17,Secondary,Grade 5-9,course,<2 hr,yes,no,no,8,7,8,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+577,Gabriel Peireira,Male,16,Grade 5-9,Grade 5-9,course,2-5 hr,no,no,no,9,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+578,Gabriel Peireira,Female,16,Post-Secondary,Grade 5-9,home,2-5 hr,no,no,yes,17,17,18,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+579,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,home,2-5 hr,yes,no,yes,12,12,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+580,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,16,16,17,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+581,Gabriel Peireira,Male,16,Secondary,Post-Secondary,course,<2 hr,yes,no,yes,9,9,10,Portuguese,<2 hr X Secondary,<2 hr X Post-Secondary
+582,Gabriel Peireira,Male,16,Primary,None,reputation,2-5 hr,yes,no,yes,16,17,18,Portuguese,2-5 hr X Primary,2-5 hr X None
+583,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,11,9,10,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+584,Gabriel Peireira,Female,16,Primary,Secondary,home,2-5 hr,no,no,yes,14,13,13,Portuguese,2-5 hr X Primary,2-5 hr X Secondary
+585,Gabriel Peireira,Female,16,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,14,14,15,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+586,Gabriel Peireira,Male,17,Post-Secondary,Secondary,course,2-5 hr,no,no,yes,10,11,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+587,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,reputation,2-5 hr,no,no,yes,13,12,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+588,Gabriel Peireira,Male,17,Secondary,Secondary,reputation,2-5 hr,no,no,yes,11,9,10,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+589,Gabriel Peireira,Male,16,Post-Secondary,Grade 5-9,other,<2 hr,yes,no,yes,10,9,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+590,Gabriel Peireira,Male,17,Post-Secondary,Secondary,course,2-5 hr,yes,yes,yes,11,11,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+591,Gabriel Peireira,Male,16,Post-Secondary,Secondary,home,2-5 hr,yes,yes,yes,11,10,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+592,Gabriel Peireira,Male,16,Secondary,Secondary,home,2-5 hr,no,no,yes,11,12,13,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+593,Gabriel Peireira,Female,17,Grade 5-9,Post-Secondary,reputation,2-5 hr,yes,no,yes,17,18,17,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+594,Gabriel Peireira,Female,17,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,14,13,14,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+595,Gabriel Peireira,Female,16,Secondary,Grade 5-9,reputation,2-5 hr,yes,no,yes,14,15,16,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+596,Gabriel Peireira,Male,17,Secondary,Secondary,other,2-5 hr,yes,no,yes,11,13,14,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+597,Gabriel Peireira,Male,16,Primary,Grade 5-9,other,<2 hr,yes,no,yes,10,9,11,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+598,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,2-5 hr,no,no,yes,13,14,16,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+599,Gabriel Peireira,Female,17,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,12,13,14,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+600,Gabriel Peireira,Male,17,Primary,Grade 5-9,home,2-5 hr,no,no,yes,9,9,10,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+601,Gabriel Peireira,Female,16,Grade 5-9,Secondary,course,2-5 hr,no,no,yes,12,12,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+602,Gabriel Peireira,Female,17,Primary,Primary,course,2-5 hr,no,no,yes,12,11,12,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+603,Gabriel Peireira,Male,17,Primary,Grade 5-9,other,2-5 hr,no,no,yes,10,11,12,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+604,Gabriel Peireira,Male,16,Secondary,Secondary,reputation,<2 hr,yes,no,yes,11,10,10,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+605,Gabriel Peireira,Male,16,Grade 5-9,Secondary,home,<2 hr,no,no,yes,13,12,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+606,Gabriel Peireira,Female,17,Grade 5-9,Post-Secondary,course,2-5 hr,no,no,yes,14,15,16,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+607,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,home,<2 hr,no,no,yes,13,13,14,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+608,Gabriel Peireira,Male,16,Secondary,Secondary,home,<2 hr,yes,no,yes,10,11,12,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+609,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,home,<2 hr,yes,no,yes,14,15,16,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+610,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,11,10,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+611,Gabriel Peireira,Female,16,Post-Secondary,Secondary,home,2-5 hr,yes,no,yes,14,14,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+612,Gabriel Peireira,Female,16,Grade 5-9,Secondary,reputation,2-5 hr,yes,no,yes,11,12,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+613,Gabriel Peireira,Female,17,Primary,Primary,course,2-5 hr,yes,no,yes,14,15,15,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+614,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,reputation,<2 hr,yes,no,yes,13,13,13,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+615,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,reputation,>10 hr,yes,no,yes,13,13,13,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+616,Gabriel Peireira,Female,17,Secondary,Post-Secondary,home,5-10 hr,yes,yes,yes,8,9,8,Portuguese,5-10 hr X Secondary,5-10 hr X Post-Secondary
+617,Gabriel Peireira,Female,16,Secondary,Primary,course,2-5 hr,yes,no,yes,11,11,12,Portuguese,2-5 hr X Secondary,2-5 hr X Primary
+618,Gabriel Peireira,Female,16,Post-Secondary,Secondary,other,2-5 hr,no,no,yes,14,15,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+619,Gabriel Peireira,Female,16,Primary,Primary,home,<2 hr,yes,no,yes,12,13,13,Portuguese,<2 hr X Primary,<2 hr X Primary
+620,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,5-10 hr,yes,no,yes,11,12,12,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+621,Gabriel Peireira,Female,19,Secondary,Secondary,reputation,>10 hr,yes,no,yes,12,12,12,Portuguese,>10 hr X Secondary,>10 hr X Secondary
+622,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,13,12,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+623,Gabriel Peireira,Female,16,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,no,yes,13,13,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+624,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,home,2-5 hr,yes,no,yes,12,11,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+625,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,other,<2 hr,yes,no,yes,12,11,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+626,Gabriel Peireira,Female,17,Secondary,Grade 5-9,reputation,2-5 hr,no,no,yes,14,16,15,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+627,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,2-5 hr,no,no,yes,11,9,10,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+628,Gabriel Peireira,Male,18,Secondary,Secondary,home,2-5 hr,yes,no,yes,10,10,10,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+629,Gabriel Peireira,Female,17,Grade 5-9,Secondary,home,<2 hr,yes,no,yes,12,13,13,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+630,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,5-10 hr,yes,no,yes,12,12,13,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+631,Gabriel Peireira,Female,17,Grade 5-9,Primary,reputation,2-5 hr,yes,no,yes,11,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+632,Gabriel Peireira,Female,17,Primary,Primary,reputation,5-10 hr,yes,no,yes,12,12,12,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+633,Gabriel Peireira,Female,16,Grade 5-9,Secondary,other,2-5 hr,no,no,yes,13,13,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+634,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,home,2-5 hr,yes,yes,yes,10,9,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+635,Gabriel Peireira,Female,16,Post-Secondary,Post-Secondary,home,5-10 hr,yes,no,yes,15,16,16,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+636,Gabriel Peireira,Female,18,Secondary,Primary,reputation,2-5 hr,no,no,yes,8,8,8,Portuguese,2-5 hr X Secondary,2-5 hr X Primary
+637,Gabriel Peireira,Female,17,Secondary,Grade 5-9,course,2-5 hr,no,no,yes,17,18,17,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+638,Gabriel Peireira,Male,17,Grade 5-9,Secondary,reputation,2-5 hr,yes,no,yes,10,11,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+639,Gabriel Peireira,Male,18,Grade 5-9,Primary,course,2-5 hr,yes,no,yes,9,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+640,Gabriel Peireira,Female,17,Grade 5-9,Primary,course,5-10 hr,no,no,yes,15,15,16,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Primary
+641,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,2-5 hr,no,no,yes,14,12,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+642,Gabriel Peireira,Male,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,12,13,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+643,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,13,13,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+644,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,13,13,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+645,Gabriel Peireira,Male,16,Primary,Primary,home,2-5 hr,yes,no,yes,9,9,9,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+646,Gabriel Peireira,Male,16,Secondary,Grade 5-9,reputation,5-10 hr,no,no,yes,12,12,12,Portuguese,5-10 hr X Secondary,5-10 hr X Grade 5-9
+647,Gabriel Peireira,Male,17,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,16,16,16,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+648,Gabriel Peireira,Female,16,Grade 5-9,Primary,home,<2 hr,no,no,yes,9,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+649,Gabriel Peireira,Female,16,Post-Secondary,Primary,home,2-5 hr,no,no,yes,14,13,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Primary
+650,Gabriel Peireira,Female,18,Grade 5-9,Post-Secondary,course,2-5 hr,yes,no,yes,10,10,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+651,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,9,8,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+652,Gabriel Peireira,Female,18,Secondary,Secondary,course,<2 hr,no,no,no,8,7,7,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+653,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,no,7,8,8,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+654,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,course,<2 hr,yes,no,yes,10,8,9,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+655,Gabriel Peireira,Female,17,Secondary,Grade 5-9,course,2-5 hr,no,no,yes,14,14,15,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+656,Gabriel Peireira,Female,17,Primary,Primary,course,5-10 hr,yes,no,yes,11,10,10,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+657,Gabriel Peireira,Female,16,Primary,Grade 5-9,course,<2 hr,no,no,no,12,11,11,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+658,Gabriel Peireira,Female,17,Grade 5-9,Primary,course,2-5 hr,no,no,yes,13,13,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+659,Gabriel Peireira,Female,17,Primary,Post-Secondary,course,<2 hr,yes,no,yes,9,9,8,Portuguese,<2 hr X Primary,<2 hr X Post-Secondary
+660,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,reputation,2-5 hr,no,no,no,8,7,8,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+661,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,home,<2 hr,yes,no,no,11,9,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+662,Gabriel Peireira,Female,17,Primary,Primary,course,5-10 hr,no,no,yes,15,14,15,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+663,Gabriel Peireira,Female,17,Post-Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,15,14,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+664,Gabriel Peireira,Male,17,Post-Secondary,Secondary,course,2-5 hr,no,no,yes,15,15,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+665,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,12,12,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+666,Gabriel Peireira,Male,16,Post-Secondary,Secondary,course,<2 hr,no,no,yes,14,14,15,Portuguese,<2 hr X Post-Secondary,<2 hr X Secondary
+667,Gabriel Peireira,Male,16,Post-Secondary,Post-Secondary,course,<2 hr,no,yes,yes,14,15,15,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+668,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,2-5 hr,yes,yes,yes,11,11,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+669,Gabriel Peireira,Male,17,Primary,Primary,home,5-10 hr,no,no,yes,13,14,15,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+670,Gabriel Peireira,Female,17,Secondary,Secondary,home,5-10 hr,yes,no,yes,11,11,11,Portuguese,5-10 hr X Secondary,5-10 hr X Secondary
+671,Gabriel Peireira,Female,17,Primary,Primary,course,2-5 hr,no,no,yes,10,9,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+672,Gabriel Peireira,Female,18,Grade 5-9,Primary,course,5-10 hr,yes,no,yes,12,10,11,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Primary
+673,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,<2 hr,no,no,yes,15,16,16,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+674,Gabriel Peireira,Female,17,Primary,Primary,course,2-5 hr,yes,no,yes,11,10,11,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+675,Gabriel Peireira,Male,17,Grade 5-9,Secondary,course,<2 hr,no,no,yes,9,12,13,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+676,Gabriel Peireira,Male,22,Secondary,Primary,other,<2 hr,no,no,no,7,8,5,Portuguese,<2 hr X Secondary,<2 hr X Primary
+677,Gabriel Peireira,Male,18,Secondary,Secondary,course,2-5 hr,yes,no,yes,10,9,10,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+678,Gabriel Peireira,Male,16,None,Grade 5-9,other,<2 hr,no,no,yes,11,12,11,Portuguese,<2 hr X None,<2 hr X Grade 5-9
+679,Gabriel Peireira,Male,18,Secondary,Grade 5-9,course,<2 hr,no,no,no,7,8,7,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+680,Gabriel Peireira,Male,16,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,9,11,10,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+681,Gabriel Peireira,Male,18,Grade 5-9,Primary,other,<2 hr,no,no,no,7,8,6,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+682,Gabriel Peireira,Male,16,Grade 5-9,Primary,course,<2 hr,no,no,yes,14,13,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+683,Gabriel Peireira,Male,17,Grade 5-9,Primary,course,<2 hr,no,no,yes,12,12,13,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+684,Gabriel Peireira,Male,17,Primary,Primary,course,<2 hr,yes,no,yes,9,10,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+685,Gabriel Peireira,Female,18,Grade 5-9,Primary,course,2-5 hr,yes,no,yes,12,12,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+686,Gabriel Peireira,Female,17,Post-Secondary,Grade 5-9,reputation,>10 hr,yes,no,yes,14,15,17,Portuguese,>10 hr X Post-Secondary,>10 hr X Grade 5-9
+687,Gabriel Peireira,Female,19,Grade 5-9,Grade 5-9,home,2-5 hr,yes,no,yes,10,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+688,Gabriel Peireira,Male,18,Grade 5-9,Primary,course,2-5 hr,no,no,no,11,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+689,Gabriel Peireira,Female,17,Post-Secondary,Grade 5-9,course,5-10 hr,yes,no,yes,11,12,14,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Grade 5-9
+690,Gabriel Peireira,Female,18,Primary,Primary,home,5-10 hr,yes,no,yes,11,12,14,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+691,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,11,11,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+692,Gabriel Peireira,Male,19,Post-Secondary,Secondary,reputation,2-5 hr,yes,no,yes,11,13,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+693,Gabriel Peireira,Male,18,Grade 5-9,Primary,home,2-5 hr,no,no,yes,16,16,16,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+694,Gabriel Peireira,Male,17,Grade 5-9,Grade 5-9,other,<2 hr,no,no,no,9,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+695,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,>10 hr,no,no,yes,10,11,12,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+696,Gabriel Peireira,Female,20,Grade 5-9,Primary,course,2-5 hr,yes,yes,no,10,12,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+697,Gabriel Peireira,Female,18,Post-Secondary,Secondary,home,2-5 hr,yes,no,yes,15,15,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+698,Gabriel Peireira,Male,18,Post-Secondary,Secondary,course,2-5 hr,yes,no,yes,10,10,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+699,Gabriel Peireira,Male,18,Secondary,Grade 5-9,course,5-10 hr,no,no,yes,10,11,12,Portuguese,5-10 hr X Secondary,5-10 hr X Grade 5-9
+700,Gabriel Peireira,Female,17,Secondary,Secondary,home,5-10 hr,no,no,yes,15,12,13,Portuguese,5-10 hr X Secondary,5-10 hr X Secondary
+701,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,home,5-10 hr,yes,no,yes,11,12,13,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+702,Gabriel Peireira,Male,17,Grade 5-9,Grade 5-9,home,<2 hr,no,no,no,8,8,9,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+703,Gabriel Peireira,Male,18,Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,15,16,16,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+704,Gabriel Peireira,Male,17,Secondary,Primary,other,2-5 hr,no,no,yes,11,11,14,Portuguese,2-5 hr X Secondary,2-5 hr X Primary
+705,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,reputation,2-5 hr,no,no,yes,10,11,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+706,Gabriel Peireira,Male,18,Post-Secondary,Grade 5-9,reputation,2-5 hr,yes,no,yes,10,12,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+707,Gabriel Peireira,Female,18,Grade 5-9,Primary,reputation,2-5 hr,yes,no,no,8,9,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+708,Gabriel Peireira,Female,19,Secondary,Secondary,home,2-5 hr,yes,no,yes,11,12,12,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+709,Gabriel Peireira,Female,18,Grade 5-9,Secondary,reputation,>10 hr,yes,no,yes,16,16,16,Portuguese,>10 hr X Grade 5-9,>10 hr X Secondary
+710,Gabriel Peireira,Female,18,Primary,Primary,home,2-5 hr,yes,no,yes,13,13,13,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+711,Gabriel Peireira,Male,17,Primary,Grade 5-9,home,2-5 hr,yes,no,yes,16,17,18,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+712,Gabriel Peireira,Female,18,Grade 5-9,Primary,home,2-5 hr,yes,no,yes,14,14,15,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+713,Gabriel Peireira,Female,17,Grade 5-9,Post-Secondary,reputation,2-5 hr,yes,no,yes,15,16,16,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+714,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,12,12,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+715,Gabriel Peireira,Female,18,Secondary,Grade 5-9,home,2-5 hr,no,no,no,12,9,10,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+716,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,home,<2 hr,no,no,yes,11,12,12,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+717,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,14,12,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+718,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,reputation,5-10 hr,yes,no,yes,13,15,15,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+719,Gabriel Peireira,Female,19,Secondary,Grade 5-9,reputation,2-5 hr,yes,no,no,9,8,10,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+720,Gabriel Peireira,Male,18,Post-Secondary,Secondary,course,<2 hr,no,no,yes,10,10,10,Portuguese,<2 hr X Post-Secondary,<2 hr X Secondary
+721,Gabriel Peireira,Male,18,Primary,Grade 5-9,home,<2 hr,no,no,no,10,10,11,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+722,Gabriel Peireira,Male,17,Post-Secondary,Primary,home,<2 hr,no,no,yes,11,11,10,Portuguese,<2 hr X Post-Secondary,<2 hr X Primary
+723,Gabriel Peireira,Male,17,Secondary,Grade 5-9,home,<2 hr,no,no,yes,13,13,13,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+724,Gabriel Peireira,Female,18,Primary,Primary,reputation,>10 hr,yes,no,yes,17,17,18,Portuguese,>10 hr X Primary,>10 hr X Primary
+725,Gabriel Peireira,Female,18,Primary,Primary,home,2-5 hr,no,no,yes,12,13,13,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+726,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,12,12,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+727,Gabriel Peireira,Female,18,Grade 5-9,Primary,reputation,2-5 hr,no,no,yes,12,13,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+728,Gabriel Peireira,Male,17,Primary,Primary,reputation,2-5 hr,no,no,yes,12,12,12,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+729,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,other,5-10 hr,yes,no,yes,18,18,18,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+730,Gabriel Peireira,Female,17,Primary,Primary,reputation,5-10 hr,yes,no,yes,13,13,14,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+731,Gabriel Peireira,Male,18,Grade 5-9,Primary,reputation,5-10 hr,no,no,yes,14,15,15,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Primary
+732,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,17,17,17,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+733,Gabriel Peireira,Male,18,Post-Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,15,16,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+734,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,5-10 hr,yes,no,yes,17,18,18,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+735,Gabriel Peireira,Female,17,Secondary,Primary,reputation,>10 hr,yes,no,yes,18,19,19,Portuguese,>10 hr X Secondary,>10 hr X Primary
+736,Gabriel Peireira,Male,18,Secondary,Grade 5-9,reputation,5-10 hr,yes,no,yes,14,15,15,Portuguese,5-10 hr X Secondary,5-10 hr X Grade 5-9
+737,Gabriel Peireira,Male,17,Secondary,Secondary,home,<2 hr,yes,no,yes,14,15,15,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+738,Gabriel Peireira,Female,19,Post-Secondary,Post-Secondary,reputation,2-5 hr,yes,no,yes,14,13,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+739,Gabriel Peireira,Female,18,Post-Secondary,Secondary,home,2-5 hr,yes,no,yes,13,14,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+740,Gabriel Peireira,Female,18,Post-Secondary,Secondary,reputation,>10 hr,yes,no,yes,16,17,17,Portuguese,>10 hr X Post-Secondary,>10 hr X Secondary
+741,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,home,<2 hr,yes,no,yes,18,18,17,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+742,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,home,2-5 hr,yes,yes,yes,14,15,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+743,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,home,<2 hr,no,no,yes,12,13,13,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+744,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,reputation,5-10 hr,yes,no,yes,7,7,8,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+745,Gabriel Peireira,Female,17,Post-Secondary,Grade 5-9,reputation,5-10 hr,yes,no,yes,16,16,16,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Grade 5-9
+746,Gabriel Peireira,Female,17,Secondary,Grade 5-9,reputation,>10 hr,yes,no,yes,18,18,18,Portuguese,>10 hr X Secondary,>10 hr X Grade 5-9
+747,Gabriel Peireira,Male,19,Grade 5-9,Primary,course,5-10 hr,no,no,yes,9,10,11,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Primary
+748,Gabriel Peireira,Male,20,Secondary,Grade 5-9,course,<2 hr,no,no,yes,14,15,15,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+749,Gabriel Peireira,Male,19,Secondary,Secondary,reputation,2-5 hr,no,no,yes,10,10,11,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+750,Gabriel Peireira,Female,18,Primary,Post-Secondary,home,2-5 hr,yes,no,yes,10,10,11,Portuguese,2-5 hr X Primary,2-5 hr X Post-Secondary
+751,Gabriel Peireira,Female,18,Grade 5-9,Primary,course,2-5 hr,yes,no,yes,12,12,15,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+752,Gabriel Peireira,Female,17,Grade 5-9,Secondary,course,2-5 hr,no,no,yes,11,12,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+753,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,15,16,17,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+754,Gabriel Peireira,Female,18,Post-Secondary,Secondary,course,5-10 hr,yes,no,yes,14,15,17,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+755,Gabriel Peireira,Female,18,Post-Secondary,Secondary,course,<2 hr,yes,no,yes,12,12,15,Portuguese,<2 hr X Post-Secondary,<2 hr X Secondary
+756,Gabriel Peireira,Female,17,Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,15,15,17,Portuguese,5-10 hr X Secondary,5-10 hr X Post-Secondary
+757,Gabriel Peireira,Female,18,Secondary,Secondary,course,2-5 hr,yes,no,yes,11,12,14,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+758,Gabriel Peireira,Male,19,Post-Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,11,10,10,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+759,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,12,11,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+760,Gabriel Peireira,Female,18,Secondary,Post-Secondary,course,<2 hr,yes,no,yes,11,12,14,Portuguese,<2 hr X Secondary,<2 hr X Post-Secondary
+761,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,14,15,17,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+762,Gabriel Peireira,Female,17,Post-Secondary,Secondary,course,2-5 hr,yes,no,yes,15,14,17,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+763,Gabriel Peireira,Female,17,Secondary,Secondary,home,2-5 hr,yes,no,yes,12,12,13,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+764,Gabriel Peireira,Female,17,Grade 5-9,Primary,home,2-5 hr,no,no,yes,11,12,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+765,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,reputation,<2 hr,yes,no,yes,8,9,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+766,Gabriel Peireira,Female,19,Primary,Primary,course,5-10 hr,no,no,no,10,10,11,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+767,Gabriel Peireira,Female,19,Primary,Primary,course,2-5 hr,yes,no,yes,8,8,9,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+768,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,10,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+769,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,14,13,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+770,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,course,5-10 hr,yes,no,yes,11,11,10,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+771,Gabriel Peireira,Female,17,Secondary,Primary,course,5-10 hr,yes,no,yes,17,18,17,Portuguese,5-10 hr X Secondary,5-10 hr X Primary
+772,Gabriel Peireira,Female,17,None,Grade 5-9,home,5-10 hr,no,no,yes,14,14,15,Portuguese,5-10 hr X None,5-10 hr X Grade 5-9
+773,Gabriel Peireira,Female,18,Primary,Primary,home,5-10 hr,no,no,yes,14,14,14,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+774,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,course,5-10 hr,no,no,yes,13,14,13,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+775,Gabriel Peireira,Male,17,Secondary,Secondary,reputation,<2 hr,no,no,yes,17,18,17,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+776,Gabriel Peireira,Male,17,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,11,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+777,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,13,12,13,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+778,Gabriel Peireira,Female,17,Post-Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,15,14,15,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+779,Gabriel Peireira,Female,17,Secondary,Secondary,course,<2 hr,yes,yes,yes,11,12,11,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+780,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,course,>10 hr,yes,yes,yes,11,11,12,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+781,Gabriel Peireira,Male,19,Secondary,Grade 5-9,home,<2 hr,yes,no,yes,11,10,10,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+782,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,course,2-5 hr,no,no,yes,10,9,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+783,Gabriel Peireira,Female,17,Grade 5-9,Post-Secondary,course,5-10 hr,yes,no,yes,15,15,15,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Post-Secondary
+784,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,reputation,<2 hr,no,no,yes,15,14,15,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+785,Gabriel Peireira,Female,18,Secondary,Secondary,home,2-5 hr,no,no,yes,10,11,12,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+786,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,home,2-5 hr,no,no,yes,10,9,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+787,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,course,>10 hr,no,no,yes,14,13,14,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+788,Gabriel Peireira,Female,17,Secondary,Post-Secondary,course,5-10 hr,no,no,yes,11,13,14,Portuguese,5-10 hr X Secondary,5-10 hr X Post-Secondary
+789,Gabriel Peireira,Female,17,Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,12,13,15,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+790,Gabriel Peireira,Female,18,Secondary,Secondary,home,>10 hr,yes,no,yes,14,14,15,Portuguese,>10 hr X Secondary,>10 hr X Secondary
+791,Gabriel Peireira,Female,17,Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,14,14,16,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+792,Gabriel Peireira,Male,18,Post-Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,12,12,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+793,Gabriel Peireira,Male,18,Secondary,Post-Secondary,home,2-5 hr,no,no,yes,16,16,17,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+794,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,home,2-5 hr,yes,no,yes,10,12,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+795,Gabriel Peireira,Female,18,Grade 5-9,Secondary,course,5-10 hr,yes,no,yes,11,12,14,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Secondary
+796,Gabriel Peireira,Female,18,Secondary,Grade 5-9,other,5-10 hr,no,no,yes,14,16,17,Portuguese,5-10 hr X Secondary,5-10 hr X Grade 5-9
+797,Gabriel Peireira,Male,18,Post-Secondary,Secondary,course,5-10 hr,no,no,yes,15,14,17,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+798,Gabriel Peireira,Male,18,Post-Secondary,Secondary,course,5-10 hr,yes,no,yes,14,13,14,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+799,Gabriel Peireira,Female,17,Post-Secondary,Secondary,reputation,5-10 hr,yes,no,yes,11,12,13,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Secondary
+800,Gabriel Peireira,Female,17,Grade 5-9,Primary,course,2-5 hr,yes,no,yes,12,15,15,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+801,Gabriel Peireira,Female,17,Grade 5-9,Primary,reputation,2-5 hr,yes,no,yes,12,16,16,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+802,Gabriel Peireira,Female,19,Grade 5-9,Secondary,home,<2 hr,no,no,no,10,11,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+803,Gabriel Peireira,Female,17,Secondary,Primary,home,<2 hr,yes,yes,yes,10,13,13,Portuguese,<2 hr X Secondary,<2 hr X Primary
+804,Gabriel Peireira,Female,21,Post-Secondary,Post-Secondary,reputation,5-10 hr,no,yes,yes,9,12,12,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+805,Gabriel Peireira,Male,18,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,no,no,9,11,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+806,Gabriel Peireira,Male,18,Secondary,Post-Secondary,reputation,2-5 hr,no,no,yes,13,14,15,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+807,Gabriel Peireira,Female,17,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,no,yes,13,17,17,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+808,Gabriel Peireira,Male,17,Post-Secondary,Post-Secondary,reputation,5-10 hr,yes,no,yes,12,15,15,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+809,Gabriel Peireira,Female,18,Post-Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,14,17,17,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+810,Gabriel Peireira,Male,21,Primary,Primary,course,2-5 hr,yes,no,no,9,10,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+811,Gabriel Peireira,Female,20,Primary,Primary,reputation,5-10 hr,no,no,yes,11,15,15,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+812,Gabriel Peireira,Female,19,Post-Secondary,Post-Secondary,home,<2 hr,yes,no,yes,9,10,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+813,Gabriel Peireira,Male,17,Secondary,Grade 5-9,reputation,2-5 hr,yes,no,yes,16,18,18,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+814,Gabriel Peireira,Female,18,Secondary,Grade 5-9,reputation,5-10 hr,yes,no,yes,14,17,17,Portuguese,5-10 hr X Secondary,5-10 hr X Grade 5-9
+815,Gabriel Peireira,Male,18,Grade 5-9,Secondary,reputation,<2 hr,no,no,yes,13,14,14,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+816,Gabriel Peireira,Male,19,Grade 5-9,Primary,reputation,<2 hr,no,no,yes,7,11,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+817,Gabriel Peireira,Female,18,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,no,yes,14,17,17,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+818,Gabriel Peireira,Female,20,Primary,None,reputation,<2 hr,no,no,yes,8,10,10,Portuguese,<2 hr X Primary,<2 hr X None
+819,Gabriel Peireira,Female,18,Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,10,13,13,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+820,Mousinho da Silveira,Female,16,Primary,Secondary,other,<2 hr,yes,no,no,10,11,11,Portuguese,<2 hr X Primary,<2 hr X Secondary
+821,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,12,12,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+822,Mousinho da Silveira,Female,15,Primary,Primary,other,<2 hr,yes,no,yes,10,10,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+823,Mousinho da Silveira,Female,15,Secondary,Secondary,course,<2 hr,yes,no,yes,10,10,11,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+824,Mousinho da Silveira,Female,16,Grade 5-9,Secondary,course,2-5 hr,no,no,yes,16,17,17,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+825,Mousinho da Silveira,Female,15,Grade 5-9,Primary,home,<2 hr,no,no,no,6,8,9,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+826,Mousinho da Silveira,Male,16,Post-Secondary,Post-Secondary,home,2-5 hr,yes,no,yes,10,11,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+827,Mousinho da Silveira,Male,16,Primary,Grade 5-9,other,5-10 hr,no,no,yes,10,11,11,Portuguese,5-10 hr X Primary,5-10 hr X Grade 5-9
+828,Mousinho da Silveira,Female,17,Secondary,Grade 5-9,course,2-5 hr,no,no,yes,10,10,10,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+829,Mousinho da Silveira,Female,17,Primary,Primary,other,<2 hr,yes,no,no,6,6,7,Portuguese,<2 hr X Primary,<2 hr X Primary
+830,Mousinho da Silveira,Female,15,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,13,14,14,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+831,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,reputation,>10 hr,no,no,no,10,9,11,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+832,Mousinho da Silveira,Female,15,Primary,Primary,reputation,2-5 hr,yes,no,yes,10,10,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+833,Mousinho da Silveira,Female,15,Primary,Primary,course,<2 hr,yes,no,yes,6,7,8,Portuguese,<2 hr X Primary,<2 hr X Primary
+834,Mousinho da Silveira,Female,16,None,Grade 5-9,other,<2 hr,yes,no,yes,12,11,12,Portuguese,<2 hr X None,<2 hr X Grade 5-9
+835,Mousinho da Silveira,Female,17,Grade 5-9,Secondary,course,<2 hr,yes,no,yes,10,11,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+836,Mousinho da Silveira,Female,15,Secondary,Secondary,course,<2 hr,no,no,yes,14,16,16,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+837,Mousinho da Silveira,Male,16,Primary,Primary,home,2-5 hr,yes,no,yes,7,0,0,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+838,Mousinho da Silveira,Male,17,Primary,Primary,home,2-5 hr,no,yes,yes,8,9,9,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+839,Mousinho da Silveira,Male,15,Post-Secondary,Primary,reputation,2-5 hr,yes,no,yes,12,13,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Primary
+840,Mousinho da Silveira,Male,15,Post-Secondary,Primary,reputation,2-5 hr,yes,no,yes,7,9,8,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Primary
+841,Mousinho da Silveira,Male,16,Secondary,Post-Secondary,other,2-5 hr,no,no,yes,9,10,11,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+842,Mousinho da Silveira,Male,15,Primary,Primary,course,2-5 hr,yes,no,yes,7,9,9,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+843,Mousinho da Silveira,Male,15,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,11,11,11,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+844,Mousinho da Silveira,Male,17,Grade 5-9,Primary,other,<2 hr,no,no,no,8,10,9,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+845,Mousinho da Silveira,Female,16,Post-Secondary,Post-Secondary,course,5-10 hr,no,no,yes,16,16,17,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+846,Mousinho da Silveira,Female,15,Primary,Grade 5-9,course,<2 hr,no,no,yes,11,13,13,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+847,Mousinho da Silveira,Female,16,Grade 5-9,Secondary,course,2-5 hr,yes,no,yes,15,15,15,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+848,Mousinho da Silveira,Male,16,Primary,Grade 5-9,course,2-5 hr,no,no,yes,10,11,11,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+849,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,9,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+850,Mousinho da Silveira,Female,16,Primary,Grade 5-9,course,5-10 hr,yes,no,yes,10,8,8,Portuguese,5-10 hr X Primary,5-10 hr X Grade 5-9
+851,Mousinho da Silveira,Female,16,Primary,Grade 5-9,course,5-10 hr,yes,no,yes,9,8,8,Portuguese,5-10 hr X Primary,5-10 hr X Grade 5-9
+852,Mousinho da Silveira,Female,15,Grade 5-9,Primary,home,2-5 hr,yes,no,yes,9,10,9,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+853,Mousinho da Silveira,Female,16,Primary,Primary,course,2-5 hr,yes,no,yes,13,14,15,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+854,Mousinho da Silveira,Male,17,Primary,Grade 5-9,reputation,<2 hr,yes,no,yes,10,11,11,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+855,Mousinho da Silveira,Female,16,Primary,Primary,home,>10 hr,yes,no,yes,13,10,13,Portuguese,>10 hr X Primary,>10 hr X Primary
+856,Mousinho da Silveira,Female,16,Primary,Primary,other,5-10 hr,yes,no,yes,10,9,10,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+857,Mousinho da Silveira,Female,15,Primary,Primary,home,2-5 hr,yes,no,yes,11,10,11,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+858,Mousinho da Silveira,Female,16,Primary,Primary,other,<2 hr,no,no,yes,13,12,14,Portuguese,<2 hr X Primary,<2 hr X Primary
+859,Mousinho da Silveira,Female,15,Primary,Primary,course,2-5 hr,yes,no,yes,13,14,14,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+860,Mousinho da Silveira,Female,15,Grade 5-9,Grade 5-9,other,5-10 hr,yes,no,yes,14,11,12,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+861,Mousinho da Silveira,Male,16,Primary,Primary,other,<2 hr,no,no,yes,11,11,11,Portuguese,<2 hr X Primary,<2 hr X Primary
+862,Mousinho da Silveira,Female,18,Primary,Grade 5-9,course,2-5 hr,yes,no,yes,9,8,8,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+863,Mousinho da Silveira,Male,15,Secondary,Primary,home,<2 hr,yes,no,yes,10,9,11,Portuguese,<2 hr X Secondary,<2 hr X Primary
+864,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,14,13,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+865,Mousinho da Silveira,Male,15,Grade 5-9,Grade 5-9,reputation,<2 hr,no,no,yes,13,12,13,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+866,Mousinho da Silveira,Male,16,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,13,12,13,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+867,Mousinho da Silveira,Female,15,Secondary,Secondary,reputation,2-5 hr,yes,no,yes,13,12,12,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+868,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,12,11,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+869,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,home,<2 hr,yes,no,yes,14,14,16,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+870,Mousinho da Silveira,Male,16,Grade 5-9,Primary,course,<2 hr,yes,no,yes,10,8,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+871,Mousinho da Silveira,Male,15,Primary,Secondary,reputation,<2 hr,yes,no,yes,10,11,11,Portuguese,<2 hr X Primary,<2 hr X Secondary
+872,Mousinho da Silveira,Female,15,Grade 5-9,Grade 5-9,course,5-10 hr,yes,no,yes,12,13,14,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+873,Mousinho da Silveira,Female,16,Grade 5-9,Primary,home,<2 hr,yes,no,yes,10,8,8,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+874,Mousinho da Silveira,Male,15,Secondary,Secondary,course,<2 hr,yes,no,yes,12,10,11,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+875,Mousinho da Silveira,Female,16,Primary,Primary,course,2-5 hr,yes,no,yes,7,7,8,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+876,Mousinho da Silveira,Female,17,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,no,9,9,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+877,Mousinho da Silveira,Female,19,Grade 5-9,Secondary,course,<2 hr,no,no,no,9,9,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+878,Mousinho da Silveira,Female,17,Grade 5-9,Primary,course,<2 hr,yes,no,no,9,10,11,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+879,Mousinho da Silveira,Female,15,Primary,Primary,course,<2 hr,yes,no,no,9,10,9,Portuguese,<2 hr X Primary,<2 hr X Primary
+880,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,no,9,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+881,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,home,<2 hr,yes,no,no,7,7,8,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+882,Mousinho da Silveira,Female,17,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,11,10,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+883,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,<2 hr,yes,yes,yes,9,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+884,Mousinho da Silveira,Female,18,Secondary,Grade 5-9,course,5-10 hr,yes,no,no,7,9,10,Portuguese,5-10 hr X Secondary,5-10 hr X Grade 5-9
+885,Mousinho da Silveira,Female,19,Primary,Primary,course,5-10 hr,no,no,no,7,9,9,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+886,Mousinho da Silveira,Male,18,Primary,Primary,home,<2 hr,no,no,no,8,9,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+887,Mousinho da Silveira,Female,18,Primary,Primary,course,<2 hr,no,no,no,9,11,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+888,Mousinho da Silveira,Female,19,Primary,Primary,course,2-5 hr,yes,no,yes,7,8,9,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+889,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,no,no,yes,8,10,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+890,Mousinho da Silveira,Female,17,None,Primary,course,<2 hr,no,no,yes,9,9,10,Portuguese,<2 hr X None,<2 hr X Primary
+891,Mousinho da Silveira,Female,16,Primary,Grade 5-9,course,2-5 hr,no,no,no,8,9,9,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+892,Mousinho da Silveira,Female,16,Secondary,Secondary,reputation,<2 hr,no,no,no,14,13,13,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+893,Mousinho da Silveira,Female,16,Primary,Primary,home,<2 hr,yes,no,yes,14,14,14,Portuguese,<2 hr X Primary,<2 hr X Primary
+894,Mousinho da Silveira,Male,17,Secondary,Secondary,course,>10 hr,yes,yes,yes,10,11,10,Portuguese,>10 hr X Secondary,>10 hr X Secondary
+895,Mousinho da Silveira,Female,16,Grade 5-9,Primary,course,2-5 hr,yes,no,yes,14,13,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+896,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,<2 hr,yes,yes,yes,17,16,16,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+897,Mousinho da Silveira,Male,17,Primary,Grade 5-9,course,<2 hr,yes,no,no,6,7,7,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+898,Mousinho da Silveira,Male,16,Post-Secondary,Secondary,course,<2 hr,no,no,yes,14,12,13,Portuguese,<2 hr X Post-Secondary,<2 hr X Secondary
+899,Mousinho da Silveira,Male,17,Grade 5-9,Grade 5-9,other,>10 hr,yes,no,yes,10,8,9,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+900,Mousinho da Silveira,Female,16,Primary,Primary,course,>10 hr,yes,no,yes,14,14,14,Portuguese,>10 hr X Primary,>10 hr X Primary
+901,Mousinho da Silveira,Female,19,Grade 5-9,Grade 5-9,home,5-10 hr,no,no,yes,12,13,13,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+902,Mousinho da Silveira,Female,17,Primary,Primary,reputation,<2 hr,yes,no,yes,11,11,11,Portuguese,<2 hr X Primary,<2 hr X Primary
+903,Mousinho da Silveira,Female,20,Secondary,Secondary,other,2-5 hr,no,no,yes,11,9,10,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+904,Mousinho da Silveira,Female,17,Primary,Primary,course,5-10 hr,yes,no,yes,11,11,10,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+905,Mousinho da Silveira,Male,17,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,10,9,9,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+906,Mousinho da Silveira,Female,16,Primary,Primary,course,2-5 hr,yes,no,yes,16,17,18,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+907,Mousinho da Silveira,Female,17,Grade 5-9,Grade 5-9,reputation,2-5 hr,yes,no,yes,15,17,17,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+908,Mousinho da Silveira,Female,17,Primary,None,other,2-5 hr,no,no,yes,11,9,10,Portuguese,2-5 hr X Primary,2-5 hr X None
+909,Mousinho da Silveira,Female,18,Primary,Primary,other,2-5 hr,yes,no,yes,7,7,7,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+910,Mousinho da Silveira,Female,16,Secondary,Primary,course,<2 hr,no,no,yes,8,6,8,Portuguese,<2 hr X Secondary,<2 hr X Primary
+911,Mousinho da Silveira,Female,16,Secondary,Grade 5-9,course,<2 hr,no,no,yes,7,6,7,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+912,Mousinho da Silveira,Female,18,Primary,Primary,reputation,2-5 hr,no,no,yes,9,8,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+913,Mousinho da Silveira,Female,16,Post-Secondary,Post-Secondary,reputation,2-5 hr,no,no,yes,14,16,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+914,Mousinho da Silveira,Female,16,Primary,Grade 5-9,reputation,<2 hr,no,no,yes,14,14,15,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+915,Mousinho da Silveira,Female,18,Grade 5-9,Post-Secondary,reputation,2-5 hr,yes,no,yes,8,5,8,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Post-Secondary
+916,Mousinho da Silveira,Male,16,Grade 5-9,Primary,reputation,2-5 hr,no,no,yes,8,7,0,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+917,Mousinho da Silveira,Female,16,Primary,Primary,other,2-5 hr,yes,no,yes,6,8,8,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+918,Mousinho da Silveira,Female,16,Grade 5-9,Secondary,other,2-5 hr,yes,no,yes,8,10,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+919,Mousinho da Silveira,Female,16,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,8,8,8,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+920,Mousinho da Silveira,Male,18,Post-Secondary,Post-Secondary,home,>10 hr,yes,no,no,5,6,6,Portuguese,>10 hr X Post-Secondary,>10 hr X Post-Secondary
+921,Mousinho da Silveira,Female,16,Secondary,Post-Secondary,other,2-5 hr,yes,no,yes,7,9,8,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+922,Mousinho da Silveira,Male,17,Post-Secondary,Post-Secondary,home,5-10 hr,yes,no,yes,15,14,16,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+923,Mousinho da Silveira,Female,17,Post-Secondary,Primary,other,<2 hr,no,no,yes,13,14,14,Portuguese,<2 hr X Post-Secondary,<2 hr X Primary
+924,Mousinho da Silveira,Male,16,Grade 5-9,Grade 5-9,other,5-10 hr,no,no,yes,10,9,10,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+925,Mousinho da Silveira,Female,17,Grade 5-9,Grade 5-9,other,<2 hr,yes,yes,yes,9,9,9,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+926,Mousinho da Silveira,Female,16,Post-Secondary,Post-Secondary,other,<2 hr,yes,no,yes,11,11,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+927,Mousinho da Silveira,Male,17,Secondary,Secondary,home,<2 hr,yes,no,yes,7,10,9,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+928,Mousinho da Silveira,Male,17,Primary,Primary,other,2-5 hr,no,no,yes,10,10,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+929,Mousinho da Silveira,Male,16,Grade 5-9,Primary,other,2-5 hr,no,no,yes,9,7,8,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+930,Mousinho da Silveira,Female,16,Grade 5-9,Primary,other,2-5 hr,no,no,yes,14,15,16,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+931,Mousinho da Silveira,Male,16,Post-Secondary,Post-Secondary,other,<2 hr,yes,no,yes,11,12,12,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+932,Mousinho da Silveira,Male,15,Primary,Grade 5-9,course,2-5 hr,yes,no,yes,9,11,10,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+933,Mousinho da Silveira,Male,15,Grade 5-9,Grade 5-9,reputation,>10 hr,yes,no,yes,13,14,14,Portuguese,>10 hr X Grade 5-9,>10 hr X Grade 5-9
+934,Mousinho da Silveira,Male,15,Grade 5-9,Primary,course,<2 hr,no,no,yes,12,13,12,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+935,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,5-10 hr,yes,no,yes,11,11,11,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+936,Mousinho da Silveira,Female,16,Post-Secondary,Primary,home,2-5 hr,yes,no,yes,9,10,10,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Primary
+937,Mousinho da Silveira,Female,17,Secondary,Grade 5-9,home,<2 hr,no,no,yes,9,11,11,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+938,Mousinho da Silveira,Female,17,Grade 5-9,Grade 5-9,other,2-5 hr,no,yes,yes,11,9,11,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+939,Mousinho da Silveira,Female,16,Post-Secondary,Post-Secondary,course,5-10 hr,yes,no,yes,10,11,12,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+940,Mousinho da Silveira,Male,17,Post-Secondary,Post-Secondary,course,<2 hr,no,no,yes,9,9,8,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+941,Mousinho da Silveira,Male,17,Primary,Secondary,course,<2 hr,no,no,yes,12,11,12,Portuguese,<2 hr X Primary,<2 hr X Secondary
+942,Mousinho da Silveira,Male,17,Secondary,Post-Secondary,other,2-5 hr,yes,no,yes,8,9,8,Portuguese,2-5 hr X Secondary,2-5 hr X Post-Secondary
+943,Mousinho da Silveira,Female,17,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,13,15,16,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+944,Mousinho da Silveira,Male,16,Post-Secondary,Primary,other,<2 hr,no,no,yes,10,11,11,Portuguese,<2 hr X Post-Secondary,<2 hr X Primary
+945,Mousinho da Silveira,Female,17,Primary,Primary,other,2-5 hr,no,no,yes,11,10,11,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+946,Mousinho da Silveira,Female,17,Post-Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,17,18,18,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+947,Mousinho da Silveira,Male,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,12,13,13,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+948,Mousinho da Silveira,Male,17,Secondary,Grade 5-9,other,2-5 hr,yes,yes,yes,13,14,13,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+949,Mousinho da Silveira,Male,19,Primary,Primary,other,2-5 hr,yes,no,no,9,9,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+950,Mousinho da Silveira,Male,17,Primary,None,home,<2 hr,no,no,yes,11,11,12,Portuguese,<2 hr X Primary,<2 hr X None
+951,Mousinho da Silveira,Female,17,Primary,Primary,course,<2 hr,yes,no,no,10,11,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+952,Mousinho da Silveira,Female,16,Primary,Grade 5-9,home,5-10 hr,yes,no,yes,13,14,13,Portuguese,5-10 hr X Primary,5-10 hr X Grade 5-9
+953,Mousinho da Silveira,Male,16,Primary,Grade 5-9,course,<2 hr,no,no,yes,9,10,11,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+954,Mousinho da Silveira,Female,17,Secondary,Primary,course,2-5 hr,yes,no,yes,7,9,10,Portuguese,2-5 hr X Secondary,2-5 hr X Primary
+955,Mousinho da Silveira,Male,17,Grade 5-9,Grade 5-9,course,<2 hr,no,no,no,8,13,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+956,Mousinho da Silveira,Male,18,Primary,None,course,<2 hr,yes,no,yes,12,12,13,Portuguese,<2 hr X Primary,<2 hr X None
+957,Mousinho da Silveira,Male,17,Primary,Primary,course,<2 hr,yes,no,yes,10,9,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+958,Mousinho da Silveira,Male,18,Primary,Primary,course,2-5 hr,yes,no,yes,10,9,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+959,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,no,no,yes,11,13,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+960,Mousinho da Silveira,Male,17,Grade 5-9,Grade 5-9,course,<2 hr,no,no,yes,7,0,0,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+961,Mousinho da Silveira,Male,16,Secondary,Grade 5-9,course,<2 hr,no,no,yes,11,9,10,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+962,Mousinho da Silveira,Male,16,Primary,Primary,course,<2 hr,no,no,yes,10,10,9,Portuguese,<2 hr X Primary,<2 hr X Primary
+963,Mousinho da Silveira,Male,18,Primary,Primary,course,<2 hr,yes,no,no,9,7,9,Portuguese,<2 hr X Primary,<2 hr X Primary
+964,Mousinho da Silveira,Male,18,Secondary,Grade 5-9,course,<2 hr,no,no,no,4,0,0,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+965,Mousinho da Silveira,Male,19,Secondary,Grade 5-9,course,<2 hr,no,no,yes,6,11,9,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+966,Mousinho da Silveira,Male,18,Secondary,Secondary,course,2-5 hr,yes,no,no,4,8,8,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+967,Mousinho da Silveira,Male,16,Grade 5-9,Grade 5-9,course,<2 hr,yes,no,yes,7,8,8,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+968,Mousinho da Silveira,Male,19,Grade 5-9,Primary,course,<2 hr,no,no,no,8,9,9,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+969,Mousinho da Silveira,Female,16,Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,5,5,7,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+970,Mousinho da Silveira,Female,17,Primary,Primary,course,<2 hr,yes,no,yes,7,9,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+971,Mousinho da Silveira,Male,20,Primary,Primary,course,<2 hr,yes,no,no,8,11,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+972,Mousinho da Silveira,Female,18,Post-Secondary,Secondary,course,<2 hr,yes,no,yes,10,11,10,Portuguese,<2 hr X Post-Secondary,<2 hr X Secondary
+973,Mousinho da Silveira,Male,18,Secondary,Grade 5-9,course,<2 hr,yes,no,yes,9,10,11,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+974,Mousinho da Silveira,Male,19,Primary,Primary,home,2-5 hr,no,no,yes,10,9,11,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+975,Mousinho da Silveira,Male,17,Secondary,Secondary,course,2-5 hr,yes,no,yes,8,9,10,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+976,Mousinho da Silveira,Male,18,Primary,Secondary,course,<2 hr,no,no,no,9,10,9,Portuguese,<2 hr X Primary,<2 hr X Secondary
+977,Mousinho da Silveira,Male,19,Primary,Primary,home,<2 hr,yes,no,yes,8,9,10,Portuguese,<2 hr X Primary,<2 hr X Primary
+978,Mousinho da Silveira,Female,18,Primary,Grade 5-9,course,2-5 hr,yes,no,yes,6,8,8,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+979,Mousinho da Silveira,Female,19,Primary,Primary,course,<2 hr,yes,no,no,6,8,7,Portuguese,<2 hr X Primary,<2 hr X Primary
+980,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,other,<2 hr,no,no,no,8,6,0,Portuguese,<2 hr X Grade 5-9,<2 hr X Grade 5-9
+981,Mousinho da Silveira,Female,17,None,None,course,<2 hr,yes,no,yes,10,11,11,Portuguese,<2 hr X None,<2 hr X None
+982,Mousinho da Silveira,Female,17,Secondary,Primary,course,5-10 hr,yes,yes,no,8,7,8,Portuguese,5-10 hr X Secondary,5-10 hr X Primary
+983,Mousinho da Silveira,Female,17,Post-Secondary,Grade 5-9,home,2-5 hr,yes,no,yes,8,8,0,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+984,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,7,6,8,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+985,Mousinho da Silveira,Female,17,Post-Secondary,Primary,course,<2 hr,yes,no,yes,8,10,9,Portuguese,<2 hr X Post-Secondary,<2 hr X Primary
+986,Mousinho da Silveira,Female,17,Primary,Grade 5-9,course,<2 hr,no,no,yes,7,10,10,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+987,Mousinho da Silveira,Female,18,Primary,Primary,course,2-5 hr,no,no,yes,7,8,7,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+988,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,reputation,2-5 hr,no,no,yes,12,13,14,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+989,Mousinho da Silveira,Female,17,Secondary,Secondary,course,<2 hr,yes,no,yes,11,12,13,Portuguese,<2 hr X Secondary,<2 hr X Secondary
+990,Mousinho da Silveira,Female,18,Primary,Grade 5-9,reputation,2-5 hr,no,no,yes,12,13,14,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+991,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,reputation,2-5 hr,no,no,yes,18,18,18,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+992,Mousinho da Silveira,Male,18,Post-Secondary,Post-Secondary,reputation,<2 hr,yes,no,yes,17,17,17,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+993,Mousinho da Silveira,Female,17,Post-Secondary,Grade 5-9,course,2-5 hr,yes,no,yes,17,18,18,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+994,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,course,2-5 hr,no,no,yes,9,0,0,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+995,Mousinho da Silveira,Male,18,Primary,Grade 5-9,home,<2 hr,yes,no,yes,10,11,11,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+996,Mousinho da Silveira,Male,18,Post-Secondary,Post-Secondary,other,<2 hr,yes,yes,yes,12,13,14,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+997,Mousinho da Silveira,Male,17,Primary,Primary,other,<2 hr,no,no,no,12,13,14,Portuguese,<2 hr X Primary,<2 hr X Primary
+998,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,8,8,10,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
+999,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,course,5-10 hr,no,no,yes,11,12,13,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+1000,Mousinho da Silveira,Female,18,Post-Secondary,Grade 5-9,reputation,2-5 hr,no,no,yes,5,0,0,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Grade 5-9
+1001,Mousinho da Silveira,Female,18,Primary,Primary,course,2-5 hr,no,no,no,9,10,10,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+1002,Mousinho da Silveira,Female,19,Primary,Primary,other,<2 hr,no,no,no,5,0,0,Portuguese,<2 hr X Primary,<2 hr X Primary
+1003,Mousinho da Silveira,Female,17,Post-Secondary,Grade 5-9,course,>10 hr,no,no,yes,18,18,18,Portuguese,>10 hr X Post-Secondary,>10 hr X Grade 5-9
+1004,Mousinho da Silveira,Female,17,Grade 5-9,Primary,reputation,2-5 hr,no,no,yes,11,11,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Primary
+1005,Mousinho da Silveira,Female,18,Primary,Primary,course,2-5 hr,no,no,yes,8,10,11,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+1006,Mousinho da Silveira,Female,18,Primary,Grade 5-9,course,2-5 hr,yes,no,no,11,11,12,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+1007,Mousinho da Silveira,Female,19,Primary,Primary,course,2-5 hr,yes,no,no,8,0,0,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+1008,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,home,5-10 hr,no,no,yes,14,14,15,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+1009,Mousinho da Silveira,Male,17,Post-Secondary,Secondary,home,2-5 hr,yes,yes,yes,10,11,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+1010,Mousinho da Silveira,Female,18,Secondary,Secondary,course,2-5 hr,yes,no,yes,10,10,10,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+1011,Mousinho da Silveira,Female,17,Post-Secondary,Post-Secondary,other,2-5 hr,yes,yes,yes,12,12,12,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+1012,Mousinho da Silveira,Female,17,Secondary,Grade 5-9,reputation,2-5 hr,no,no,yes,15,14,15,Portuguese,2-5 hr X Secondary,2-5 hr X Grade 5-9
+1013,Mousinho da Silveira,Male,18,Primary,Primary,home,<2 hr,no,no,yes,14,13,14,Portuguese,<2 hr X Primary,<2 hr X Primary
+1014,Mousinho da Silveira,Female,18,Primary,Primary,course,5-10 hr,no,no,yes,19,17,18,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+1015,Mousinho da Silveira,Female,18,Primary,Grade 5-9,course,2-5 hr,no,no,yes,16,15,15,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+1016,Mousinho da Silveira,Female,18,Secondary,Secondary,other,2-5 hr,yes,no,yes,13,12,13,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+1017,Mousinho da Silveira,Female,17,Post-Secondary,Post-Secondary,course,2-5 hr,yes,no,yes,15,14,15,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+1018,Mousinho da Silveira,Female,17,Primary,Grade 5-9,course,2-5 hr,no,no,yes,13,13,13,Portuguese,2-5 hr X Primary,2-5 hr X Grade 5-9
+1019,Mousinho da Silveira,Male,18,Primary,Secondary,course,2-5 hr,yes,yes,yes,8,10,9,Portuguese,2-5 hr X Primary,2-5 hr X Secondary
+1020,Mousinho da Silveira,Male,18,Post-Secondary,Post-Secondary,other,5-10 hr,no,no,yes,15,16,16,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+1021,Mousinho da Silveira,Female,17,Primary,Primary,reputation,<2 hr,yes,no,yes,8,8,9,Portuguese,<2 hr X Primary,<2 hr X Primary
+1022,Mousinho da Silveira,Female,18,Grade 5-9,Secondary,course,<2 hr,yes,no,yes,10,10,10,Portuguese,<2 hr X Grade 5-9,<2 hr X Secondary
+1023,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,other,2-5 hr,yes,no,yes,7,5,0,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+1024,Mousinho da Silveira,Male,18,Primary,Grade 5-9,other,<2 hr,yes,no,no,9,10,10,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+1025,Mousinho da Silveira,Female,17,Grade 5-9,Grade 5-9,home,5-10 hr,no,no,yes,10,11,12,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+1026,Mousinho da Silveira,Female,17,Primary,Grade 5-9,course,<2 hr,no,no,yes,7,8,9,Portuguese,<2 hr X Primary,<2 hr X Grade 5-9
+1027,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,reputation,5-10 hr,no,no,yes,15,17,17,Portuguese,5-10 hr X Post-Secondary,5-10 hr X Post-Secondary
+1028,Mousinho da Silveira,Female,18,Primary,Primary,home,5-10 hr,no,no,yes,10,11,12,Portuguese,5-10 hr X Primary,5-10 hr X Primary
+1029,Mousinho da Silveira,Female,19,Primary,Primary,course,2-5 hr,yes,no,yes,7,8,9,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+1030,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,course,2-5 hr,no,no,yes,13,14,14,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+1031,Mousinho da Silveira,Female,18,Secondary,Secondary,home,2-5 hr,no,no,yes,16,16,16,Portuguese,2-5 hr X Secondary,2-5 hr X Secondary
+1032,Mousinho da Silveira,Female,17,Secondary,Primary,reputation,2-5 hr,yes,no,yes,8,9,9,Portuguese,2-5 hr X Secondary,2-5 hr X Primary
+1033,Mousinho da Silveira,Male,18,Post-Secondary,Post-Secondary,home,2-5 hr,no,no,yes,17,18,19,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+1034,Mousinho da Silveira,Male,18,Grade 5-9,Primary,other,<2 hr,no,no,yes,7,7,0,Portuguese,<2 hr X Grade 5-9,<2 hr X Primary
+1035,Mousinho da Silveira,Male,17,Grade 5-9,Secondary,home,2-5 hr,no,no,yes,14,15,16,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Secondary
+1036,Mousinho da Silveira,Male,19,Primary,Primary,other,<2 hr,no,no,yes,5,8,0,Portuguese,<2 hr X Primary,<2 hr X Primary
+1037,Mousinho da Silveira,Male,18,Post-Secondary,Grade 5-9,home,<2 hr,no,yes,yes,7,7,0,Portuguese,<2 hr X Post-Secondary,<2 hr X Grade 5-9
+1038,Mousinho da Silveira,Female,18,Grade 5-9,Grade 5-9,other,5-10 hr,no,no,yes,14,17,15,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Grade 5-9
+1039,Mousinho da Silveira,Female,17,Post-Secondary,Secondary,other,2-5 hr,no,no,yes,6,9,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Secondary
+1040,Mousinho da Silveira,Female,18,Post-Secondary,Post-Secondary,reputation,<2 hr,yes,no,yes,7,9,10,Portuguese,<2 hr X Post-Secondary,<2 hr X Post-Secondary
+1041,Mousinho da Silveira,Female,19,Grade 5-9,Secondary,course,5-10 hr,no,no,yes,10,11,10,Portuguese,5-10 hr X Grade 5-9,5-10 hr X Secondary
+1042,Mousinho da Silveira,Female,18,Secondary,Primary,course,2-5 hr,yes,no,yes,15,15,16,Portuguese,2-5 hr X Secondary,2-5 hr X Primary
+1043,Mousinho da Silveira,Female,18,Primary,Primary,course,2-5 hr,no,no,yes,11,12,9,Portuguese,2-5 hr X Primary,2-5 hr X Primary
+1044,Mousinho da Silveira,Male,17,Secondary,Primary,course,<2 hr,no,no,yes,10,10,10,Portuguese,<2 hr X Secondary,<2 hr X Primary
+1045,Mousinho da Silveira,Male,18,Secondary,Grade 5-9,course,<2 hr,no,no,yes,10,11,11,Portuguese,<2 hr X Secondary,<2 hr X Grade 5-9
+1046,Gabriel Peireira,Female,18,Post-Secondary,Post-Secondary,course,2-5 hr,no,no,yes,0,11,11,Portuguese,2-5 hr X Post-Secondary,2-5 hr X Post-Secondary
+1047,Mousinho da Silveira,Female,16,Grade 5-9,Grade 5-9,course,2-5 hr,yes,no,yes,12,12,12,Portuguese,2-5 hr X Grade 5-9,2-5 hr X Grade 5-9
