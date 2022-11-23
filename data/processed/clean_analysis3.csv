@@ -1,0 +1,1049 @@
+,School,Sex,Age,Study_Time,Freetime,Go_Out,Daily_Alc_Consumption,Weekend_Alc_Consumption,Health,Absences,Period_1_Grade,Period_2_Grade,Final_Grade,Weekly_Drinking_AVG,Use_Of_Freetime,subject
+0,Mousinho Da Silveira,Male,18,1,5,5,5,5,5,10,11,13,13,7.5,7.666666666666667,Math
+1,Gabriel Pereira,Female,16,1,5,5,5,5,5,6,10,8,11,7.5,7.666666666666667,Math
+2,Gabriel Pereira,Male,16,1,5,5,5,5,4,14,7,7,5,7.5,7.666666666666667,Math
+3,Gabriel Pereira,Male,17,2,4,2,5,5,4,4,14,13,13,7.5,6.666666666666667,Math
+4,Gabriel Pereira,Male,16,2,4,5,5,5,5,16,10,12,11,7.5,7.666666666666667,Math
+5,Gabriel Pereira,Male,17,1,4,5,5,5,4,8,11,10,10,7.5,6.666666666666667,Math
+6,Gabriel Pereira,Male,22,1,4,5,5,5,1,16,6,8,8,7.5,6.666666666666667,Math
+7,Gabriel Pereira,Male,18,2,3,3,5,5,4,0,12,13,13,7.5,6.0,Math
+8,Gabriel Pereira,Male,15,4,3,3,5,5,3,4,13,13,12,7.5,8.0,Math
+9,Mousinho Da Silveira,Male,20,2,5,4,4,5,4,11,9,9,9,7.0,8.333333333333334,Math
+10,Gabriel Pereira,Male,17,2,4,4,4,5,5,12,7,8,8,7.0,7.333333333333333,Math
+11,Gabriel Pereira,Male,17,2,3,5,4,5,3,13,12,12,13,7.0,6.666666666666667,Math
+12,Gabriel Pereira,Male,18,2,3,2,4,5,3,14,10,8,9,7.0,5.666666666666667,Math
+13,Gabriel Pereira,Male,18,2,5,4,3,5,2,0,7,7,0,6.5,8.333333333333334,Math
+14,Gabriel Pereira,Male,16,1,4,4,3,5,5,6,12,13,14,6.5,6.333333333333333,Math
+15,Gabriel Pereira,Male,17,1,3,5,3,5,5,3,14,15,16,6.5,5.666666666666667,Math
+16,Gabriel Pereira,Male,15,4,3,5,3,5,1,6,10,13,13,6.5,8.666666666666666,Math
+17,Gabriel Pereira,Male,16,1,3,4,3,5,3,8,9,9,10,6.5,5.333333333333333,Math
+18,Gabriel Pereira,Male,16,2,1,3,3,5,5,18,8,6,7,6.5,4.0,Math
+19,Gabriel Pereira,Male,16,1,5,5,2,5,4,8,18,18,18,6.0,7.666666666666667,Math
+20,Gabriel Pereira,Male,15,1,5,5,2,5,5,0,8,9,10,6.0,7.666666666666667,Math
+21,Gabriel Pereira,Female,17,3,3,4,2,5,5,0,11,11,10,6.0,7.333333333333333,Math
+22,Gabriel Pereira,Male,18,1,3,5,2,5,4,0,6,5,0,6.0,5.666666666666667,Math
+23,Gabriel Pereira,Male,18,1,2,5,2,5,5,4,6,9,8,6.0,4.666666666666667,Math
+24,Gabriel Pereira,Female,16,2,3,5,1,5,2,2,16,16,16,5.5,6.666666666666667,Math
+25,Gabriel Pereira,Male,17,2,3,5,1,5,5,0,5,8,7,5.5,6.666666666666667,Math
+26,Gabriel Pereira,Female,18,1,2,5,1,5,4,6,9,8,10,5.5,4.666666666666667,Math
+27,Gabriel Pereira,Male,17,2,1,3,1,5,3,4,8,9,10,5.5,4.0,Math
+28,Gabriel Pereira,Male,16,2,5,5,4,4,5,4,10,12,12,6.0,8.666666666666666,Math
+29,Gabriel Pereira,Male,17,2,4,4,4,4,4,4,10,9,9,6.0,7.333333333333333,Math
+30,Gabriel Pereira,Female,15,1,3,4,4,4,1,6,10,13,13,6.0,5.333333333333333,Math
+31,Gabriel Pereira,Male,15,1,5,5,3,4,5,6,11,11,10,5.5,7.666666666666667,Math
+32,Mousinho Da Silveira,Male,17,1,4,5,3,4,2,3,14,16,16,5.5,6.666666666666667,Math
+33,Gabriel Pereira,Male,15,2,4,2,3,4,5,0,9,11,12,5.5,6.666666666666667,Math
+34,Gabriel Pereira,Male,17,2,4,4,3,4,5,2,9,9,10,5.5,7.333333333333333,Math
+35,Gabriel Pereira,Male,17,1,4,4,3,4,3,19,11,9,10,5.5,6.333333333333333,Math
+36,Mousinho Da Silveira,Female,18,2,4,3,3,4,2,4,8,9,10,5.5,7.0,Math
+37,Mousinho Da Silveira,Male,18,1,4,1,3,4,5,0,11,12,10,5.5,5.333333333333333,Math
+38,Gabriel Pereira,Female,17,3,4,3,3,4,5,28,10,9,9,5.5,8.0,Math
+39,Gabriel Pereira,Male,16,1,3,2,3,4,5,8,8,9,10,5.5,4.666666666666667,Math
+40,Gabriel Pereira,Male,16,1,3,3,3,4,3,10,10,8,9,5.5,5.0,Math
+41,Gabriel Pereira,Male,18,2,2,5,3,4,1,13,17,17,17,5.5,5.666666666666667,Math
+42,Gabriel Pereira,Male,17,1,5,4,2,4,5,30,8,8,8,5.0,7.333333333333333,Math
+43,Gabriel Pereira,Male,18,4,5,5,2,4,5,2,9,8,8,5.0,10.666666666666666,Math
+44,Gabriel Pereira,Male,17,1,5,5,2,4,5,16,6,5,5,5.0,7.666666666666667,Math
+45,Gabriel Pereira,Male,16,2,4,4,2,4,5,0,13,13,12,5.0,7.333333333333333,Math
+46,Gabriel Pereira,Male,15,1,4,3,2,4,5,8,12,12,12,5.0,6.0,Math
+47,Gabriel Pereira,Male,17,1,4,2,2,4,5,0,8,12,12,5.0,5.666666666666667,Math
+48,Gabriel Pereira,Female,15,2,4,4,2,4,2,0,10,10,10,5.0,7.333333333333333,Math
+49,Gabriel Pereira,Female,16,3,4,4,2,4,4,2,10,9,9,5.0,8.333333333333334,Math
+50,Gabriel Pereira,Male,18,2,4,4,2,4,5,15,6,7,8,5.0,7.333333333333333,Math
+51,Gabriel Pereira,Male,18,1,4,5,2,4,5,0,6,8,8,5.0,6.666666666666667,Math
+52,Gabriel Pereira,Female,17,2,4,5,2,4,1,22,6,6,4,5.0,7.666666666666667,Math
+53,Gabriel Pereira,Male,17,2,4,5,2,4,5,0,10,0,0,5.0,7.666666666666667,Math
+54,Gabriel Pereira,Male,16,1,4,4,2,4,5,0,7,0,0,5.0,6.333333333333333,Math
+55,Gabriel Pereira,Male,16,1,4,5,2,4,2,0,6,5,0,5.0,6.666666666666667,Math
+56,Gabriel Pereira,Male,16,1,3,2,2,4,5,0,13,15,15,5.0,4.666666666666667,Math
+57,Gabriel Pereira,Female,16,2,3,3,2,4,5,54,11,12,11,5.0,6.0,Math
+58,Gabriel Pereira,Male,16,2,3,5,2,4,4,4,10,10,10,5.0,6.666666666666667,Math
+59,Mousinho Da Silveira,Male,18,2,3,4,2,4,3,4,10,10,10,5.0,6.333333333333333,Math
+60,Gabriel Pereira,Female,15,2,3,4,2,4,5,2,8,6,5,5.0,6.333333333333333,Math
+61,Gabriel Pereira,Male,15,1,2,4,2,4,1,4,15,16,15,5.0,4.333333333333333,Math
+62,Gabriel Pereira,Male,16,2,2,4,2,4,1,2,14,13,13,5.0,5.333333333333333,Math
+63,Gabriel Pereira,Male,18,2,2,4,2,4,4,13,6,6,8,5.0,5.333333333333333,Math
+64,Gabriel Pereira,Male,17,2,5,5,1,4,5,14,12,12,12,4.5,8.666666666666666,Math
+65,Gabriel Pereira,Male,16,1,4,4,1,4,5,18,14,11,13,4.5,6.333333333333333,Math
+66,Gabriel Pereira,Female,16,2,4,4,1,4,5,2,13,13,11,4.5,7.333333333333333,Math
+67,Gabriel Pereira,Male,15,2,4,4,1,4,3,6,5,9,7,4.5,7.333333333333333,Math
+68,Mousinho Da Silveira,Female,18,2,3,4,1,4,5,0,13,13,13,4.5,6.333333333333333,Math
+69,Gabriel Pereira,Female,16,2,3,5,1,4,3,12,11,12,11,4.5,6.666666666666667,Math
+70,Gabriel Pereira,Male,18,2,3,2,1,4,5,11,12,11,11,4.5,5.666666666666667,Math
+71,Gabriel Pereira,Male,17,1,3,3,1,4,2,2,10,10,10,4.5,5.0,Math
+72,Gabriel Pereira,Female,16,1,3,2,1,4,5,6,9,9,10,4.5,4.666666666666667,Math
+73,Gabriel Pereira,Female,17,1,3,3,1,4,3,3,7,7,8,4.5,5.0,Math
+74,Gabriel Pereira,Male,17,2,3,4,1,4,4,4,6,5,6,4.5,6.333333333333333,Math
+75,Mousinho Da Silveira,Male,18,2,2,4,1,4,2,4,15,14,14,4.5,5.333333333333333,Math
+76,Gabriel Pereira,Female,16,1,2,1,1,4,5,16,12,11,11,4.5,3.3333333333333335,Math
+77,Gabriel Pereira,Male,18,1,2,4,1,4,3,22,9,9,9,4.5,4.333333333333333,Math
+78,Gabriel Pereira,Male,17,2,2,4,1,4,5,20,9,7,8,4.5,5.333333333333333,Math
+79,Mousinho Da Silveira,Male,18,1,4,3,4,3,3,14,6,5,5,5.0,6.0,Math
+80,Mousinho Da Silveira,Male,21,1,5,3,3,3,3,3,10,8,7,4.5,7.0,Math
+81,Gabriel Pereira,Female,16,1,4,4,3,3,1,2,14,14,13,4.5,6.333333333333333,Math
+82,Gabriel Pereira,Female,18,2,4,4,3,3,5,2,11,11,11,4.5,7.333333333333333,Math
+83,Mousinho Da Silveira,Male,19,2,4,4,3,3,2,8,8,7,8,4.5,7.333333333333333,Math
+84,Mousinho Da Silveira,Male,19,1,4,4,3,3,5,4,8,8,8,4.5,6.333333333333333,Math
+85,Gabriel Pereira,Female,19,2,3,5,3,3,5,15,9,9,9,4.5,6.666666666666667,Math
+86,Gabriel Pereira,Male,17,1,2,2,3,3,5,8,16,12,13,4.5,3.6666666666666665,Math
+87,Mousinho Da Silveira,Male,19,1,2,3,3,3,5,5,8,9,9,4.5,4.0,Math
+88,Mousinho Da Silveira,Male,17,2,5,4,2,3,3,2,13,13,13,4.0,8.333333333333334,Math
+89,Mousinho Da Silveira,Female,17,2,5,4,2,3,1,17,10,10,10,4.0,8.333333333333334,Math
+90,Gabriel Pereira,Female,17,2,4,2,2,3,5,0,16,17,17,4.0,6.666666666666667,Math
+91,Gabriel Pereira,Female,15,4,4,2,2,3,3,12,16,16,16,4.0,8.666666666666666,Math
+92,Gabriel Pereira,Female,17,3,4,3,2,3,5,1,12,14,15,4.0,8.0,Math
+93,Gabriel Pereira,Female,18,3,4,3,2,3,1,7,13,13,14,4.0,8.0,Math
+94,Gabriel Pereira,Female,17,2,4,4,2,3,5,6,12,12,12,4.0,7.333333333333333,Math
+95,Mousinho Da Silveira,Male,18,2,4,3,2,3,5,2,13,12,12,4.0,7.0,Math
+96,Gabriel Pereira,Female,16,2,4,4,2,3,4,6,10,11,11,4.0,7.333333333333333,Math
+97,Gabriel Pereira,Male,18,3,4,5,2,3,5,0,10,10,9,4.0,8.666666666666666,Math
+98,Gabriel Pereira,Female,15,2,4,4,2,3,5,6,7,9,8,4.0,7.333333333333333,Math
+99,Gabriel Pereira,Male,16,2,4,3,2,3,3,10,9,8,8,4.0,7.0,Math
+100,Gabriel Pereira,Female,17,3,3,3,2,3,2,0,16,15,15,4.0,7.0,Math
+101,Gabriel Pereira,Female,16,2,3,3,2,3,4,2,12,13,13,4.0,6.0,Math
+102,Gabriel Pereira,Male,17,2,3,3,2,3,4,2,10,11,12,4.0,6.0,Math
+103,Mousinho Da Silveira,Male,18,1,3,3,2,3,3,3,14,12,12,4.0,5.0,Math
+104,Gabriel Pereira,Female,15,1,3,4,2,3,5,0,8,10,11,4.0,5.333333333333333,Math
+105,Gabriel Pereira,Male,17,2,3,4,2,3,4,12,12,12,11,4.0,6.333333333333333,Math
+106,Gabriel Pereira,Female,15,2,3,2,2,3,3,10,7,8,10,4.0,5.666666666666667,Math
+107,Gabriel Pereira,Male,15,2,3,3,2,3,5,6,9,9,10,4.0,6.0,Math
+108,Gabriel Pereira,Female,15,2,3,2,2,3,4,2,9,10,10,4.0,5.666666666666667,Math
+109,Gabriel Pereira,Female,17,2,3,3,2,3,2,4,9,10,10,4.0,6.0,Math
+110,Gabriel Pereira,Female,17,2,3,3,2,3,1,56,9,9,8,4.0,6.0,Math
+111,Mousinho Da Silveira,Male,18,1,3,3,2,3,3,7,8,7,8,4.0,5.0,Math
+112,Gabriel Pereira,Female,16,2,3,3,2,3,2,4,7,6,6,4.0,6.0,Math
+113,Gabriel Pereira,Female,19,2,3,4,2,3,2,0,10,9,0,4.0,6.333333333333333,Math
+114,Gabriel Pereira,Female,17,2,3,2,2,3,2,0,7,8,0,4.0,5.666666666666667,Math
+115,Gabriel Pereira,Female,17,1,2,4,2,3,2,24,18,18,18,4.0,4.333333333333333,Math
+116,Gabriel Pereira,Female,15,3,2,1,2,3,3,8,10,10,10,4.0,5.333333333333333,Math
+117,Gabriel Pereira,Female,15,1,5,5,1,3,1,4,16,17,18,3.5,7.666666666666667,Math
+118,Gabriel Pereira,Male,16,2,5,1,1,3,5,2,15,15,16,3.5,7.333333333333333,Math
+119,Gabriel Pereira,Female,18,4,5,5,1,3,2,4,15,14,14,3.5,10.666666666666666,Math
+120,Mousinho Da Silveira,Male,17,2,5,5,1,3,2,4,13,11,11,3.5,8.666666666666666,Math
+121,Gabriel Pereira,Male,17,2,5,5,1,3,2,14,11,9,9,3.5,8.666666666666666,Math
+122,Mousinho Da Silveira,Female,17,1,5,5,1,3,1,14,6,5,5,3.5,7.666666666666667,Math
+123,Gabriel Pereira,Female,17,2,4,4,1,3,1,2,14,15,15,3.5,7.333333333333333,Math
+124,Gabriel Pereira,Female,17,3,4,5,1,3,5,16,16,15,15,3.5,8.666666666666666,Math
+125,Gabriel Pereira,Female,17,3,4,3,1,3,4,0,13,15,15,3.5,8.0,Math
+126,Gabriel Pereira,Female,17,1,4,4,1,3,5,12,10,13,12,3.5,6.333333333333333,Math
+127,Gabriel Pereira,Male,16,2,4,4,1,3,5,0,14,12,12,3.5,7.333333333333333,Math
+128,Gabriel Pereira,Male,17,1,4,3,1,3,5,4,14,12,11,3.5,6.0,Math
+129,Gabriel Pereira,Male,17,2,4,4,1,3,5,0,13,11,10,3.5,7.333333333333333,Math
+130,Gabriel Pereira,Female,16,2,4,3,1,3,4,6,8,10,10,3.5,7.0,Math
+131,Gabriel Pereira,Female,17,2,4,4,1,3,1,4,9,9,10,3.5,7.333333333333333,Math
+132,Gabriel Pereira,Male,18,2,4,5,1,3,5,10,10,9,10,3.5,7.666666666666667,Math
+133,Gabriel Pereira,Female,19,2,4,3,1,3,3,18,12,10,10,3.5,7.0,Math
+134,Gabriel Pereira,Female,17,3,4,4,1,3,4,7,10,9,9,3.5,8.333333333333334,Math
+135,Mousinho Da Silveira,Male,18,1,4,3,1,3,5,5,7,6,7,3.5,6.0,Math
+136,Gabriel Pereira,Male,15,2,3,3,1,3,4,4,15,15,15,3.5,6.0,Math
+137,Gabriel Pereira,Female,17,2,3,4,1,3,3,10,16,15,15,3.5,6.333333333333333,Math
+138,Gabriel Pereira,Male,18,2,3,3,1,3,5,11,16,15,15,3.5,6.0,Math
+139,Gabriel Pereira,Male,15,1,3,3,1,3,5,2,14,14,14,3.5,5.0,Math
+140,Gabriel Pereira,Female,15,3,3,3,1,3,1,4,13,14,14,3.5,7.0,Math
+141,Gabriel Pereira,Male,17,2,3,3,1,3,3,2,12,11,12,3.5,6.0,Math
+142,Gabriel Pereira,Female,19,3,3,4,1,3,3,4,11,12,11,3.5,7.333333333333333,Math
+143,Gabriel Pereira,Male,16,3,3,3,1,3,2,10,11,9,10,3.5,7.0,Math
+144,Gabriel Pereira,Male,16,2,3,3,1,3,2,6,7,10,10,3.5,6.0,Math
+145,Mousinho Da Silveira,Female,18,2,3,2,1,3,3,0,11,11,10,3.5,5.666666666666667,Math
+146,Mousinho Da Silveira,Female,18,3,3,3,1,3,4,2,10,9,10,3.5,7.0,Math
+147,Gabriel Pereira,Female,17,2,3,3,1,3,3,6,8,7,9,3.5,6.0,Math
+148,Gabriel Pereira,Female,16,3,3,3,1,3,4,0,7,7,8,3.5,7.0,Math
+149,Gabriel Pereira,Male,16,1,3,2,1,3,3,0,8,9,8,3.5,4.666666666666667,Math
+150,Gabriel Pereira,Male,18,2,3,3,1,3,5,8,3,5,5,3.5,6.0,Math
+151,Mousinho Da Silveira,Male,19,1,3,2,1,3,5,0,6,5,0,3.5,4.666666666666667,Math
+152,Mousinho Da Silveira,Male,19,1,3,2,1,3,5,0,6,5,0,3.5,4.666666666666667,Math
+153,Gabriel Pereira,Male,18,3,2,4,1,3,2,6,15,14,14,3.5,6.333333333333333,Math
+154,Gabriel Pereira,Male,15,1,2,2,1,3,3,2,10,12,12,3.5,3.6666666666666665,Math
+155,Gabriel Pereira,Female,16,4,2,3,1,3,3,0,11,11,11,3.5,7.0,Math
+156,Gabriel Pereira,Female,16,1,2,2,1,3,5,14,6,9,8,3.5,3.6666666666666665,Math
+157,Gabriel Pereira,Female,18,2,1,2,1,3,2,21,17,18,18,3.5,3.6666666666666665,Math
+158,Gabriel Pereira,Male,16,1,1,3,1,3,5,4,8,10,10,3.5,3.0,Math
+159,Gabriel Pereira,Female,15,2,1,3,1,3,4,2,8,9,8,3.5,4.0,Math
+160,Mousinho Da Silveira,Female,18,2,2,2,4,2,5,10,14,12,11,4.0,4.666666666666667,Math
+161,Gabriel Pereira,Male,15,1,5,5,3,2,5,0,13,13,12,3.5,7.666666666666667,Math
+162,Gabriel Pereira,Male,17,2,5,2,2,2,1,2,15,14,14,3.0,7.666666666666667,Math
+163,Gabriel Pereira,Male,19,2,5,2,2,2,4,3,13,11,11,3.0,7.666666666666667,Math
+164,Gabriel Pereira,Male,18,1,4,2,2,2,1,5,16,15,16,3.0,5.666666666666667,Math
+165,Mousinho Da Silveira,Female,18,1,4,3,2,2,5,7,6,5,6,3.0,6.0,Math
+166,Gabriel Pereira,Male,15,2,3,3,2,2,5,2,15,15,14,3.0,6.0,Math
+167,Gabriel Pereira,Male,16,1,3,2,2,2,5,2,12,12,14,3.0,4.666666666666667,Math
+168,Gabriel Pereira,Female,18,2,3,4,2,2,4,8,12,10,11,3.0,6.333333333333333,Math
+169,Gabriel Pereira,Female,17,3,3,2,2,2,3,3,11,11,11,3.0,6.666666666666667,Math
+170,Gabriel Pereira,Male,18,3,3,3,2,2,3,3,9,12,11,3.0,7.0,Math
+171,Gabriel Pereira,Female,16,2,3,3,2,2,5,14,10,10,9,3.0,6.0,Math
+172,Gabriel Pereira,Male,16,1,3,3,2,2,2,8,9,9,9,3.0,5.0,Math
+173,Gabriel Pereira,Female,16,2,3,3,2,2,4,5,7,7,7,3.0,6.0,Math
+174,Gabriel Pereira,Male,17,1,3,2,2,2,5,0,7,6,0,3.0,4.666666666666667,Math
+175,Gabriel Pereira,Male,18,2,3,3,2,2,2,0,10,10,0,3.0,6.0,Math
+176,Mousinho Da Silveira,Male,18,3,2,2,2,2,5,0,13,13,13,3.0,5.666666666666667,Math
+177,Gabriel Pereira,Female,15,3,2,2,2,2,5,0,12,0,0,3.0,5.666666666666667,Math
+178,Gabriel Pereira,Female,19,2,2,4,2,2,3,0,9,9,0,3.0,5.333333333333333,Math
+179,Gabriel Pereira,Male,17,1,1,1,2,2,5,0,11,11,10,3.0,2.3333333333333335,Math
+180,Gabriel Pereira,Male,15,4,5,4,1,2,5,6,16,14,15,2.5,10.333333333333334,Math
+181,Gabriel Pereira,Male,19,2,5,3,1,2,5,0,15,12,12,2.5,8.0,Math
+182,Gabriel Pereira,Female,16,2,5,2,1,2,3,0,9,9,10,2.5,7.666666666666667,Math
+183,Gabriel Pereira,Male,16,2,4,4,1,2,5,2,15,15,16,2.5,7.333333333333333,Math
+184,Gabriel Pereira,Male,16,2,4,2,1,2,5,10,15,15,15,2.5,6.666666666666667,Math
+185,Gabriel Pereira,Female,16,2,4,3,1,2,1,2,16,15,15,2.5,7.0,Math
+186,Gabriel Pereira,Female,16,1,4,4,1,2,2,4,14,14,14,2.5,6.333333333333333,Math
+187,Gabriel Pereira,Male,15,1,4,3,1,2,4,6,14,13,13,2.5,6.0,Math
+188,Gabriel Pereira,Female,19,3,4,3,1,2,5,12,14,13,13,2.5,8.0,Math
+189,Gabriel Pereira,Male,15,2,4,3,1,2,3,2,10,10,11,2.5,7.0,Math
+190,Gabriel Pereira,Female,15,2,4,2,1,2,5,0,8,11,11,2.5,6.666666666666667,Math
+191,Gabriel Pereira,Female,17,2,4,5,1,2,5,4,10,9,11,2.5,7.666666666666667,Math
+192,Gabriel Pereira,Male,17,1,4,4,1,2,5,2,7,9,8,2.5,6.333333333333333,Math
+193,Gabriel Pereira,Female,18,2,4,5,1,2,2,10,10,8,8,2.5,7.666666666666667,Math
+194,Gabriel Pereira,Female,16,2,4,3,1,2,3,12,5,5,5,2.5,7.0,Math
+195,Gabriel Pereira,Male,17,1,4,5,1,2,5,0,5,0,0,2.5,6.666666666666667,Math
+196,Mousinho Da Silveira,Female,19,3,4,2,1,2,5,0,7,5,0,2.5,7.666666666666667,Math
+197,Gabriel Pereira,Female,18,3,3,3,1,2,2,5,18,18,19,2.5,7.0,Math
+198,Gabriel Pereira,Male,18,3,3,2,1,2,4,9,16,15,16,2.5,6.666666666666667,Math
+199,Gabriel Pereira,Female,16,1,3,4,1,2,1,6,11,14,14,2.5,5.333333333333333,Math
+200,Gabriel Pereira,Female,17,3,3,3,1,2,4,4,14,14,14,2.5,7.0,Math
+201,Mousinho Da Silveira,Female,17,2,3,3,1,2,5,4,12,13,13,2.5,6.0,Math
+202,Gabriel Pereira,Male,16,1,3,2,1,2,5,0,13,12,12,2.5,4.666666666666667,Math
+203,Gabriel Pereira,Female,16,2,3,3,1,2,3,25,7,10,11,2.5,6.0,Math
+204,Gabriel Pereira,Male,15,3,3,2,1,2,5,4,11,10,11,2.5,6.666666666666667,Math
+205,Gabriel Pereira,Male,16,1,3,3,1,2,3,2,11,12,11,2.5,5.0,Math
+206,Gabriel Pereira,Male,17,2,3,3,1,2,4,2,12,10,11,2.5,6.0,Math
+207,Gabriel Pereira,Female,16,2,3,2,1,2,5,4,6,10,10,2.5,5.666666666666667,Math
+208,Gabriel Pereira,Female,18,3,3,3,1,2,3,4,11,10,10,2.5,7.0,Math
+209,Mousinho Da Silveira,Male,18,1,3,2,1,2,3,4,10,10,10,2.5,4.666666666666667,Math
+210,Mousinho Da Silveira,Female,18,3,3,2,1,2,4,2,8,8,10,2.5,6.666666666666667,Math
+211,Gabriel Pereira,Female,15,2,3,3,1,2,2,0,10,8,9,2.5,6.0,Math
+212,Gabriel Pereira,Female,19,4,3,3,1,2,3,10,8,8,8,2.5,8.0,Math
+213,Gabriel Pereira,Female,16,4,3,3,1,2,5,4,7,7,6,2.5,8.0,Math
+214,Gabriel Pereira,Female,16,2,3,4,1,2,2,4,8,7,6,2.5,6.333333333333333,Math
+215,Gabriel Pereira,Female,17,1,3,2,1,2,3,18,7,6,6,2.5,4.666666666666667,Math
+216,Gabriel Pereira,Male,18,1,3,3,1,2,4,0,7,4,0,2.5,5.0,Math
+217,Gabriel Pereira,Female,15,1,3,3,1,2,4,0,8,0,0,2.5,5.0,Math
+218,Gabriel Pereira,Female,18,2,3,5,1,2,3,0,6,0,0,2.5,6.666666666666667,Math
+219,Gabriel Pereira,Female,18,2,3,3,1,2,1,0,8,8,0,2.5,6.0,Math
+220,Gabriel Pereira,Female,17,2,3,1,1,2,4,0,9,8,0,2.5,5.333333333333333,Math
+221,Gabriel Pereira,Female,17,4,2,2,1,2,5,0,17,17,18,2.5,6.666666666666667,Math
+222,Gabriel Pereira,Male,17,1,2,3,1,2,5,4,17,15,16,2.5,4.0,Math
+223,Gabriel Pereira,Female,15,2,2,3,1,2,1,2,16,15,15,2.5,5.0,Math
+224,Gabriel Pereira,Male,16,1,2,2,1,2,3,2,17,15,15,2.5,3.6666666666666665,Math
+225,Gabriel Pereira,Male,16,2,2,3,1,2,5,0,15,15,15,2.5,5.0,Math
+226,Gabriel Pereira,Female,17,3,2,2,1,2,3,0,15,15,15,2.5,5.666666666666667,Math
+227,Gabriel Pereira,Female,16,3,2,3,1,2,2,6,13,14,14,2.5,6.0,Math
+228,Gabriel Pereira,Female,17,2,2,3,1,2,3,14,13,13,14,2.5,5.0,Math
+229,Gabriel Pereira,Male,18,2,2,4,1,2,4,8,15,14,14,2.5,5.333333333333333,Math
+230,Gabriel Pereira,Female,16,2,2,2,1,2,5,2,13,13,13,2.5,4.666666666666667,Math
+231,Gabriel Pereira,Female,17,2,2,2,1,2,5,23,13,13,13,2.5,4.666666666666667,Math
+232,Gabriel Pereira,Male,16,2,2,3,1,2,3,2,12,13,12,2.5,5.0,Math
+233,Gabriel Pereira,Female,16,2,2,2,1,2,1,14,12,13,12,2.5,4.666666666666667,Math
+234,Gabriel Pereira,Female,17,3,2,3,1,2,3,10,12,10,12,2.5,6.0,Math
+235,Mousinho Da Silveira,Female,17,2,2,2,1,2,3,0,12,11,12,2.5,4.666666666666667,Math
+236,Gabriel Pereira,Male,15,1,2,2,1,2,5,2,12,12,11,2.5,3.6666666666666665,Math
+237,Gabriel Pereira,Female,19,2,2,2,1,2,1,22,13,10,11,2.5,4.666666666666667,Math
+238,Mousinho Da Silveira,Female,17,2,2,3,1,2,5,2,12,12,11,2.5,5.0,Math
+239,Gabriel Pereira,Female,17,1,2,1,1,2,3,12,8,10,10,2.5,3.3333333333333335,Math
+240,Gabriel Pereira,Male,18,1,2,3,1,2,1,8,10,11,10,2.5,4.0,Math
+241,Mousinho Da Silveira,Female,18,1,2,3,1,2,4,0,11,10,10,2.5,4.0,Math
+242,Gabriel Pereira,Female,17,2,2,5,1,2,5,2,6,6,6,2.5,5.666666666666667,Math
+243,Mousinho Da Silveira,Female,17,1,2,1,1,2,1,0,7,6,0,2.5,3.3333333333333335,Math
+244,Mousinho Da Silveira,Female,18,2,1,3,1,2,1,0,15,15,15,2.5,4.0,Math
+245,Gabriel Pereira,Male,16,1,3,2,2,1,5,0,7,6,0,2.0,4.666666666666667,Math
+246,Gabriel Pereira,Male,15,1,5,3,1,1,4,6,18,19,19,1.5,7.0,Math
+247,Gabriel Pereira,Male,15,1,5,2,1,1,3,10,18,19,19,1.5,6.666666666666667,Math
+248,Gabriel Pereira,Male,20,1,5,3,1,1,5,0,17,18,18,1.5,7.0,Math
+249,Gabriel Pereira,Male,15,3,5,2,1,1,3,0,14,16,16,1.5,8.666666666666666,Math
+250,Gabriel Pereira,Male,15,2,5,2,1,1,5,0,17,16,16,1.5,7.666666666666667,Math
+251,Gabriel Pereira,Male,15,2,5,1,1,1,5,0,14,15,15,1.5,7.333333333333333,Math
+252,Gabriel Pereira,Male,16,1,5,2,1,1,2,16,12,11,12,1.5,6.666666666666667,Math
+253,Gabriel Pereira,Female,16,1,5,2,1,1,5,20,13,12,12,1.5,6.666666666666667,Math
+254,Gabriel Pereira,Male,17,2,5,2,1,1,1,4,11,11,11,1.5,7.666666666666667,Math
+255,Gabriel Pereira,Male,17,1,5,1,1,1,3,2,8,8,10,1.5,6.333333333333333,Math
+256,Gabriel Pereira,Female,15,1,5,1,1,1,5,0,8,7,6,1.5,6.333333333333333,Math
+257,Gabriel Pereira,Male,19,1,5,4,1,1,4,0,5,0,0,1.5,7.333333333333333,Math
+258,Mousinho Da Silveira,Female,18,3,4,4,1,1,1,0,19,18,19,1.5,8.333333333333334,Math
+259,Gabriel Pereira,Male,15,3,4,3,1,1,4,2,15,16,18,1.5,8.0,Math
+260,Gabriel Pereira,Male,15,2,4,4,1,1,1,0,16,18,18,1.5,7.333333333333333,Math
+261,Gabriel Pereira,Male,16,3,4,3,1,1,4,0,16,17,17,1.5,8.0,Math
+262,Gabriel Pereira,Female,16,3,4,5,1,1,4,4,14,15,16,1.5,8.666666666666666,Math
+263,Gabriel Pereira,Male,15,2,4,1,1,1,1,0,13,14,15,1.5,6.333333333333333,Math
+264,Gabriel Pereira,Male,15,1,4,2,1,1,5,0,12,15,15,1.5,5.666666666666667,Math
+265,Gabriel Pereira,Male,16,1,4,3,1,1,5,0,12,14,15,1.5,6.0,Math
+266,Gabriel Pereira,Male,16,3,4,3,1,1,5,7,15,16,15,1.5,8.0,Math
+267,Gabriel Pereira,Male,18,2,4,3,1,1,2,9,15,13,15,1.5,7.0,Math
+268,Mousinho Da Silveira,Female,20,3,4,3,1,1,3,4,15,14,15,1.5,8.0,Math
+269,Gabriel Pereira,Male,15,2,4,3,1,1,2,2,11,13,14,1.5,7.0,Math
+270,Gabriel Pereira,Female,16,2,4,2,1,1,3,0,14,14,14,1.5,6.666666666666667,Math
+271,Gabriel Pereira,Male,18,3,4,2,1,1,4,8,14,13,14,1.5,7.666666666666667,Math
+272,Gabriel Pereira,Female,17,3,4,3,1,1,5,7,12,14,14,1.5,8.0,Math
+273,Gabriel Pereira,Male,16,1,4,2,1,1,5,0,13,14,13,1.5,5.666666666666667,Math
+274,Gabriel Pereira,Female,18,2,4,3,1,1,5,12,12,12,13,1.5,7.0,Math
+275,Gabriel Pereira,Male,19,2,4,4,1,1,3,20,15,14,13,1.5,7.333333333333333,Math
+276,Gabriel Pereira,Female,19,2,4,1,1,1,2,20,14,12,13,1.5,6.333333333333333,Math
+277,Gabriel Pereira,Female,18,2,4,3,1,1,3,8,14,12,12,1.5,7.0,Math
+278,Gabriel Pereira,Male,16,2,4,4,1,1,3,0,12,12,11,1.5,7.333333333333333,Math
+279,Gabriel Pereira,Male,15,1,4,1,1,1,1,0,8,8,11,1.5,5.333333333333333,Math
+280,Gabriel Pereira,Female,18,2,4,3,1,1,3,2,11,11,11,1.5,7.0,Math
+281,Mousinho Da Silveira,Female,17,3,4,3,1,1,3,8,13,11,11,1.5,8.0,Math
+282,Gabriel Pereira,Male,15,4,4,3,1,1,1,8,11,11,10,1.5,9.0,Math
+283,Gabriel Pereira,Male,16,2,4,2,1,1,3,12,11,10,10,1.5,6.666666666666667,Math
+284,Gabriel Pereira,Female,18,2,4,4,1,1,4,4,8,9,10,1.5,7.333333333333333,Math
+285,Mousinho Da Silveira,Male,17,2,4,3,1,1,3,2,11,11,10,1.5,7.0,Math
+286,Gabriel Pereira,Female,16,2,4,3,1,1,1,4,8,10,9,1.5,7.0,Math
+287,Gabriel Pereira,Male,15,2,4,2,1,1,5,8,9,9,9,1.5,6.666666666666667,Math
+288,Gabriel Pereira,Female,19,2,4,2,1,1,5,2,7,8,9,1.5,6.666666666666667,Math
+289,Gabriel Pereira,Female,16,2,4,5,1,1,4,4,10,11,9,1.5,7.666666666666667,Math
+290,Gabriel Pereira,Female,16,2,4,4,1,1,5,0,8,7,8,1.5,7.333333333333333,Math
+291,Gabriel Pereira,Male,15,2,4,4,1,1,1,2,11,8,8,1.5,7.333333333333333,Math
+292,Gabriel Pereira,Female,18,2,4,4,1,1,4,15,9,8,8,1.5,7.333333333333333,Math
+293,Gabriel Pereira,Female,15,2,4,4,1,1,3,2,7,7,7,1.5,7.333333333333333,Math
+294,Gabriel Pereira,Female,17,3,4,2,1,1,4,6,7,7,7,1.5,7.666666666666667,Math
+295,Gabriel Pereira,Female,15,2,4,4,1,1,5,10,7,6,6,1.5,7.333333333333333,Math
+296,Gabriel Pereira,Male,16,2,4,2,1,1,5,18,9,7,6,1.5,6.666666666666667,Math
+297,Gabriel Pereira,Male,16,1,4,5,1,1,3,0,6,0,0,1.5,6.666666666666667,Math
+298,Gabriel Pereira,Female,18,3,4,4,1,1,3,0,7,0,0,1.5,8.333333333333334,Math
+299,Gabriel Pereira,Female,17,4,4,1,1,1,2,0,10,9,0,1.5,8.333333333333334,Math
+300,Gabriel Pereira,Female,18,4,4,4,1,1,4,0,10,9,0,1.5,9.333333333333334,Math
+301,Gabriel Pereira,Male,15,2,3,3,1,1,5,2,19,18,18,1.5,6.0,Math
+302,Gabriel Pereira,Male,16,3,3,3,1,1,5,2,16,18,18,1.5,7.0,Math
+303,Gabriel Pereira,Male,16,1,3,3,1,1,4,6,18,18,18,1.5,5.0,Math
+304,Gabriel Pereira,Male,15,2,3,1,1,1,5,0,17,16,17,1.5,5.333333333333333,Math
+305,Gabriel Pereira,Female,16,2,3,1,1,1,3,2,16,16,17,1.5,5.333333333333333,Math
+306,Gabriel Pereira,Female,18,4,3,3,1,1,1,7,16,15,17,1.5,8.0,Math
+307,Gabriel Pereira,Male,16,2,3,2,1,1,3,2,13,15,16,1.5,5.666666666666667,Math
+308,Mousinho Da Silveira,Female,18,3,3,2,1,1,4,0,18,16,16,1.5,6.666666666666667,Math
+309,Gabriel Pereira,Female,15,2,3,2,1,1,1,0,14,15,15,1.5,5.666666666666667,Math
+310,Gabriel Pereira,Male,16,4,3,2,1,1,5,0,13,15,15,1.5,7.666666666666667,Math
+311,Gabriel Pereira,Male,16,1,3,3,1,1,4,2,11,15,15,1.5,5.0,Math
+312,Gabriel Pereira,Female,15,1,3,2,1,1,5,0,16,16,15,1.5,4.666666666666667,Math
+313,Gabriel Pereira,Female,17,2,3,2,1,1,5,0,14,15,15,1.5,5.666666666666667,Math
+314,Mousinho Da Silveira,Female,17,2,3,4,1,1,1,0,16,15,15,1.5,6.333333333333333,Math
+315,Gabriel Pereira,Male,15,4,3,4,1,1,4,6,11,13,14,1.5,8.333333333333334,Math
+316,Gabriel Pereira,Male,15,1,3,3,1,1,5,4,10,13,14,1.5,5.0,Math
+317,Gabriel Pereira,Male,16,1,3,3,1,1,3,0,13,14,14,1.5,5.0,Math
+318,Gabriel Pereira,Female,16,2,3,4,1,1,4,0,12,13,14,1.5,6.333333333333333,Math
+319,Gabriel Pereira,Female,16,3,3,2,1,1,5,0,13,13,14,1.5,6.666666666666667,Math
+320,Gabriel Pereira,Female,18,4,3,3,1,1,3,0,14,13,14,1.5,8.0,Math
+321,Gabriel Pereira,Female,17,3,3,3,1,1,3,0,15,12,14,1.5,7.0,Math
+322,Gabriel Pereira,Female,15,1,3,1,1,1,2,8,14,13,13,1.5,4.333333333333333,Math
+323,Gabriel Pereira,Female,15,2,3,3,1,1,5,2,11,13,13,1.5,6.0,Math
+324,Gabriel Pereira,Female,16,2,3,3,1,1,2,10,11,12,13,1.5,6.0,Math
+325,Gabriel Pereira,Female,16,2,3,2,1,1,1,10,11,12,13,1.5,5.666666666666667,Math
+326,Gabriel Pereira,Male,15,2,3,2,1,1,2,0,8,10,12,1.5,5.666666666666667,Math
+327,Gabriel Pereira,Male,18,3,3,2,1,1,3,1,13,12,12,1.5,6.666666666666667,Math
+328,Gabriel Pereira,Female,17,3,3,3,1,1,3,6,13,12,12,1.5,7.0,Math
+329,Gabriel Pereira,Male,16,2,3,3,1,1,5,4,11,11,11,1.5,6.0,Math
+330,Gabriel Pereira,Female,15,3,3,2,1,1,5,2,12,12,11,1.5,6.666666666666667,Math
+331,Gabriel Pereira,Female,15,4,3,3,1,1,4,10,10,11,11,1.5,8.0,Math
+332,Gabriel Pereira,Female,15,2,3,2,1,1,1,0,7,10,11,1.5,5.666666666666667,Math
+333,Gabriel Pereira,Female,15,2,3,2,1,1,5,2,10,11,11,1.5,5.666666666666667,Math
+334,Gabriel Pereira,Female,16,4,3,5,1,1,5,6,10,10,11,1.5,8.666666666666666,Math
+335,Gabriel Pereira,Male,19,2,3,1,1,1,1,12,11,11,11,1.5,5.333333333333333,Math
+336,Gabriel Pereira,Female,16,2,3,2,1,1,4,4,8,10,10,1.5,5.666666666666667,Math
+337,Gabriel Pereira,Female,16,2,3,4,1,1,2,8,8,9,10,1.5,6.333333333333333,Math
+338,Gabriel Pereira,Male,15,4,3,3,1,1,3,0,10,10,10,1.5,8.0,Math
+339,Gabriel Pereira,Female,16,2,3,3,1,1,1,0,11,10,10,1.5,6.0,Math
+340,Gabriel Pereira,Female,16,2,3,5,1,1,5,2,8,9,10,1.5,6.666666666666667,Math
+341,Gabriel Pereira,Female,17,3,3,3,1,1,4,4,9,10,10,1.5,7.0,Math
+342,Gabriel Pereira,Female,17,2,3,3,1,1,1,2,10,10,10,1.5,6.0,Math
+343,Gabriel Pereira,Male,15,2,3,2,1,1,5,2,9,10,9,1.5,5.666666666666667,Math
+344,Gabriel Pereira,Female,17,2,3,3,1,1,3,0,8,8,9,1.5,6.0,Math
+345,Gabriel Pereira,Female,18,3,3,4,1,1,5,9,9,10,9,1.5,7.333333333333333,Math
+346,Mousinho Da Silveira,Female,18,2,3,4,1,1,5,0,10,9,9,1.5,6.333333333333333,Math
+347,Gabriel Pereira,Female,15,3,3,2,1,1,5,2,10,9,8,1.5,6.666666666666667,Math
+348,Gabriel Pereira,Female,16,3,3,5,1,1,3,0,7,9,8,1.5,7.666666666666667,Math
+349,Gabriel Pereira,Male,18,2,3,2,1,1,3,2,8,8,8,1.5,5.666666666666667,Math
+350,Gabriel Pereira,Male,19,1,3,4,1,1,4,38,8,9,8,1.5,5.333333333333333,Math
+351,Mousinho Da Silveira,Female,18,2,3,4,1,1,1,0,7,9,8,1.5,6.333333333333333,Math
+352,Gabriel Pereira,Female,18,2,3,3,1,1,4,16,9,8,7,1.5,6.0,Math
+353,Gabriel Pereira,Female,18,2,3,4,1,1,3,6,5,6,6,1.5,6.333333333333333,Math
+354,Gabriel Pereira,Female,17,2,3,3,1,1,3,4,5,5,6,1.5,6.0,Math
+355,Gabriel Pereira,Female,15,2,3,5,1,1,2,26,7,6,6,1.5,6.666666666666667,Math
+356,Gabriel Pereira,Female,18,2,3,4,1,1,3,6,5,6,6,1.5,6.333333333333333,Math
+357,Gabriel Pereira,Male,15,2,3,3,1,1,5,0,9,0,0,1.5,6.0,Math
+358,Gabriel Pereira,Female,15,3,3,3,1,1,5,0,11,0,0,1.5,7.0,Math
+359,Gabriel Pereira,Female,16,1,3,2,1,1,5,0,4,0,0,1.5,4.666666666666667,Math
+360,Gabriel Pereira,Female,15,2,3,2,1,1,3,0,6,7,0,1.5,5.666666666666667,Math
+361,Gabriel Pereira,Female,16,2,3,5,1,1,3,0,8,7,0,1.5,6.666666666666667,Math
+362,Gabriel Pereira,Female,17,3,3,4,1,1,5,0,6,5,0,1.5,7.333333333333333,Math
+363,Gabriel Pereira,Female,18,3,3,3,1,1,3,0,9,10,0,1.5,7.0,Math
+364,Gabriel Pereira,Female,18,2,3,4,1,1,4,0,7,0,0,1.5,6.333333333333333,Math
+365,Gabriel Pereira,Female,18,2,3,3,1,1,2,0,8,8,0,1.5,6.0,Math
+366,Gabriel Pereira,Male,16,4,2,2,1,1,2,4,19,19,20,1.5,6.666666666666667,Math
+367,Gabriel Pereira,Male,15,2,2,2,1,1,1,0,16,18,19,1.5,4.666666666666667,Math
+368,Gabriel Pereira,Female,16,2,2,3,1,1,5,2,15,16,16,1.5,5.0,Math
+369,Gabriel Pereira,Female,16,2,2,3,1,1,3,0,14,15,16,1.5,5.0,Math
+370,Gabriel Pereira,Female,15,3,2,2,1,1,5,2,15,14,15,1.5,5.666666666666667,Math
+371,Gabriel Pereira,Male,15,2,2,2,1,1,5,4,14,15,15,1.5,4.666666666666667,Math
+372,Gabriel Pereira,Male,17,1,2,2,1,1,2,4,12,12,13,1.5,3.6666666666666665,Math
+373,Gabriel Pereira,Female,17,4,2,3,1,1,4,6,14,12,13,1.5,7.0,Math
+374,Gabriel Pereira,Female,15,3,2,2,1,1,4,4,10,12,12,1.5,5.666666666666667,Math
+375,Gabriel Pereira,Female,17,1,2,1,1,1,4,0,11,11,12,1.5,3.3333333333333335,Math
+376,Gabriel Pereira,Female,18,4,2,2,1,1,3,1,12,12,12,1.5,6.666666666666667,Math
+377,Gabriel Pereira,Female,15,3,2,2,1,1,5,2,9,11,11,1.5,5.666666666666667,Math
+378,Gabriel Pereira,Male,17,2,2,3,1,1,2,4,10,10,11,1.5,5.0,Math
+379,Gabriel Pereira,Female,18,2,2,4,1,1,4,14,12,10,11,1.5,5.333333333333333,Math
+380,Gabriel Pereira,Female,17,3,2,3,1,1,4,4,10,9,9,1.5,6.0,Math
+381,Gabriel Pereira,Female,17,2,2,2,1,1,3,12,11,9,9,1.5,4.666666666666667,Math
+382,Mousinho Da Silveira,Female,19,2,2,2,1,1,3,4,7,7,9,1.5,4.666666666666667,Math
+383,Gabriel Pereira,Female,15,2,2,2,1,1,5,8,8,8,6,1.5,4.666666666666667,Math
+384,Gabriel Pereira,Male,15,4,2,2,1,1,3,0,7,9,0,1.5,6.666666666666667,Math
+385,Gabriel Pereira,Female,17,4,1,2,1,1,3,6,18,18,18,1.5,5.666666666666667,Math
+386,Gabriel Pereira,Female,16,2,1,2,1,1,5,6,10,13,13,1.5,3.6666666666666665,Math
+387,Gabriel Pereira,Female,19,3,1,2,1,1,3,14,15,13,13,1.5,4.666666666666667,Math
+388,Gabriel Pereira,Female,17,2,1,1,1,1,3,2,13,11,11,1.5,3.3333333333333335,Math
+389,Gabriel Pereira,Female,19,3,1,2,1,1,3,40,13,11,11,1.5,4.666666666666667,Math
+390,Gabriel Pereira,Female,15,4,1,2,1,1,1,2,7,10,10,1.5,5.666666666666667,Math
+391,Gabriel Pereira,Female,16,3,1,2,1,1,2,0,7,10,10,1.5,4.666666666666667,Math
+392,Gabriel Pereira,Female,18,2,1,1,1,1,5,75,10,9,9,1.5,3.3333333333333335,Math
+393,Gabriel Pereira,Female,15,4,1,2,1,1,3,8,7,8,8,1.5,5.666666666666667,Math
+394,Gabriel Pereira,Female,17,2,1,4,1,1,1,6,6,5,6,1.5,4.333333333333333,Math
+395,Gabriel Pereira,Female,16,2,1,5,1,1,4,0,6,7,0,1.5,4.666666666666667,Math
+396,Mousinho Da Silveira,Female,18,2,1,1,1,1,5,0,6,5,0,1.5,3.3333333333333335,Math
+397,Gabriel Pereira,Female,16,1,5,5,5,5,5,0,10,10,16,7.5,7.666666666666667,Portuguese
+398,Mousinho Da Silveira,Male,17,1,5,5,5,5,3,4,10,11,11,7.5,7.666666666666667,Portuguese
+399,Mousinho Da Silveira,Male,18,1,5,5,5,5,5,8,9,10,11,7.5,7.666666666666667,Portuguese
+400,Mousinho Da Silveira,Male,17,1,5,5,5,5,3,8,8,10,9,7.5,7.666666666666667,Portuguese
+401,Gabriel Pereira,Male,16,1,5,5,5,5,4,12,9,9,8,7.5,7.666666666666667,Portuguese
+402,Mousinho Da Silveira,Male,18,4,5,5,5,5,5,2,5,6,6,7.5,10.666666666666666,Portuguese
+403,Gabriel Pereira,Male,17,2,4,2,5,5,4,0,16,16,16,7.5,6.666666666666667,Portuguese
+404,Gabriel Pereira,Male,16,2,4,5,5,5,5,4,12,11,12,7.5,7.666666666666667,Portuguese
+405,Gabriel Pereira,Male,17,1,4,5,5,5,4,2,11,10,10,7.5,6.666666666666667,Portuguese
+406,Gabriel Pereira,Male,22,1,4,5,5,5,1,12,7,8,5,7.5,6.666666666666667,Portuguese
+407,Gabriel Pereira,Male,15,4,3,3,5,5,3,0,11,12,12,7.5,8.0,Portuguese
+408,Gabriel Pereira,Male,18,2,3,3,5,5,4,9,10,9,10,7.5,6.0,Portuguese
+409,Mousinho Da Silveira,Male,17,1,3,5,5,5,1,12,6,7,7,7.5,5.666666666666667,Portuguese
+410,Mousinho Da Silveira,Male,18,1,1,4,5,5,1,8,10,11,11,7.5,3.333333333333333,Portuguese
+411,Mousinho Da Silveira,Male,17,1,1,4,5,5,3,8,7,10,9,7.5,3.333333333333333,Portuguese
+412,Gabriel Pereira,Male,17,2,4,4,4,5,5,16,10,11,12,7.0,7.333333333333333,Portuguese
+413,Mousinho Da Silveira,Male,16,2,4,5,4,5,3,0,7,0,0,7.0,7.666666666666667,Portuguese
+414,Gabriel Pereira,Male,18,1,3,4,4,5,4,2,11,11,12,7.0,5.333333333333333,Portuguese
+415,Gabriel Pereira,Male,17,2,3,5,4,5,3,15,13,12,12,7.0,6.666666666666667,Portuguese
+416,Gabriel Pereira,Male,18,2,3,2,4,5,3,2,9,10,11,7.0,5.666666666666667,Portuguese
+417,Gabriel Pereira,Male,18,1,1,3,4,5,4,13,13,14,14,7.0,3.0,Portuguese
+418,Mousinho Da Silveira,Female,15,1,5,1,3,5,5,0,13,14,14,6.5,6.333333333333333,Portuguese
+419,Mousinho Da Silveira,Male,17,1,5,5,3,5,5,0,8,13,10,6.5,7.666666666666667,Portuguese
+420,Gabriel Pereira,Male,18,2,5,4,3,5,2,16,8,7,8,6.5,8.333333333333334,Portuguese
+421,Gabriel Pereira,Male,16,1,4,4,3,5,5,6,9,10,10,6.5,6.333333333333333,Portuguese
+422,Gabriel Pereira,Male,16,1,4,5,3,5,5,0,9,8,10,6.5,6.666666666666667,Portuguese
+423,Mousinho Da Silveira,Female,17,1,4,4,3,5,5,5,9,9,10,6.5,6.333333333333333,Portuguese
+424,Gabriel Pereira,Male,17,1,3,5,3,5,5,0,17,18,17,6.5,5.666666666666667,Portuguese
+425,Gabriel Pereira,Male,16,1,3,4,3,5,3,16,10,11,12,6.5,5.333333333333333,Portuguese
+426,Gabriel Pereira,Male,15,4,3,5,3,5,1,8,12,10,11,6.5,8.666666666666666,Portuguese
+427,Mousinho Da Silveira,Male,17,4,3,5,3,5,3,2,10,8,9,6.5,8.666666666666666,Portuguese
+428,Mousinho Da Silveira,Male,15,1,2,4,3,5,3,2,10,11,11,6.5,4.333333333333333,Portuguese
+429,Gabriel Pereira,Male,16,2,1,3,3,5,5,6,9,9,10,6.5,4.0,Portuguese
+430,Gabriel Pereira,Male,16,1,5,5,2,5,4,8,14,14,15,6.0,7.666666666666667,Portuguese
+431,Gabriel Pereira,Male,15,1,5,5,2,5,5,0,12,11,11,6.0,7.666666666666667,Portuguese
+432,Gabriel Pereira,Female,17,3,3,4,2,5,5,2,15,15,17,6.0,7.333333333333333,Portuguese
+433,Gabriel Pereira,Male,18,1,3,5,2,5,4,0,11,9,0,6.0,5.666666666666667,Portuguese
+434,Gabriel Pereira,Female,17,1,2,5,2,5,5,2,11,12,11,6.0,4.666666666666667,Portuguese
+435,Gabriel Pereira,Male,18,1,2,5,2,5,5,4,7,8,6,6.0,4.666666666666667,Portuguese
+436,Mousinho Da Silveira,Male,16,1,1,2,2,5,5,0,11,12,12,6.0,2.6666666666666665,Portuguese
+437,Gabriel Pereira,Female,16,2,3,5,1,5,2,2,14,14,15,5.5,6.666666666666667,Portuguese
+438,Gabriel Pereira,Male,17,2,3,5,1,5,5,0,8,8,8,5.5,6.666666666666667,Portuguese
+439,Mousinho Da Silveira,Male,16,1,2,5,1,5,5,8,14,12,13,5.5,4.666666666666667,Portuguese
+440,Gabriel Pereira,Female,18,1,2,5,1,5,4,6,11,10,11,5.5,4.666666666666667,Portuguese
+441,Gabriel Pereira,Male,17,2,1,3,1,5,3,6,9,9,10,5.5,4.0,Portuguese
+442,Gabriel Pereira,Male,16,2,5,5,4,4,5,0,10,10,1,6.0,8.666666666666666,Portuguese
+443,Gabriel Pereira,Male,17,2,4,4,4,4,4,0,10,11,11,6.0,7.333333333333333,Portuguese
+444,Gabriel Pereira,Male,18,2,4,5,4,4,5,4,11,10,11,6.0,7.666666666666667,Portuguese
+445,Gabriel Pereira,Female,15,1,3,4,4,4,1,0,13,12,13,6.0,5.333333333333333,Portuguese
+446,Gabriel Pereira,Female,19,1,2,5,4,4,5,5,9,10,11,6.0,4.666666666666667,Portuguese
+447,Gabriel Pereira,Male,15,1,5,5,3,4,5,4,10,9,9,5.5,7.666666666666667,Portuguese
+448,Gabriel Pereira,Male,17,2,4,4,3,4,5,0,11,11,14,5.5,7.333333333333333,Portuguese
+449,Mousinho Da Silveira,Female,18,2,4,3,3,4,2,1,13,14,14,5.5,7.0,Portuguese
+450,Gabriel Pereira,Male,17,1,4,4,3,4,3,18,13,13,13,5.5,6.333333333333333,Portuguese
+451,Gabriel Pereira,Male,15,2,4,2,3,4,5,0,10,11,11,5.5,6.666666666666667,Portuguese
+452,Mousinho Da Silveira,Male,16,1,4,4,3,4,5,6,11,11,11,5.5,6.333333333333333,Portuguese
+453,Mousinho Da Silveira,Male,18,1,4,1,3,4,5,4,10,11,11,5.5,5.333333333333333,Portuguese
+454,Mousinho Da Silveira,Male,18,1,4,3,3,4,4,0,8,9,10,5.5,6.0,Portuguese
+455,Mousinho Da Silveira,Male,17,4,4,5,3,4,5,0,10,11,10,5.5,9.666666666666666,Portuguese
+456,Mousinho Da Silveira,Male,19,2,4,3,3,4,4,2,9,9,10,5.5,7.0,Portuguese
+457,Mousinho Da Silveira,Female,18,1,4,4,3,4,2,8,10,11,10,5.5,6.333333333333333,Portuguese
+458,Mousinho Da Silveira,Male,17,1,4,5,3,4,2,6,10,10,10,5.5,6.666666666666667,Portuguese
+459,Gabriel Pereira,Female,17,3,4,3,3,4,5,14,8,9,8,5.5,8.0,Portuguese
+460,Mousinho Da Silveira,Male,17,2,4,4,3,4,5,8,8,9,8,5.5,7.333333333333333,Portuguese
+461,Gabriel Pereira,Male,16,1,3,3,3,4,3,8,10,9,11,5.5,5.0,Portuguese
+462,Gabriel Pereira,Male,16,1,3,2,3,4,5,0,11,10,10,5.5,4.666666666666667,Portuguese
+463,Gabriel Pereira,Male,18,2,2,5,3,4,1,6,15,16,16,5.5,5.666666666666667,Portuguese
+464,Mousinho Da Silveira,Male,17,1,2,3,3,4,4,4,12,13,14,5.5,4.0,Portuguese
+465,Gabriel Pereira,Male,18,1,2,5,3,4,5,2,8,9,11,5.5,4.666666666666667,Portuguese
+466,Gabriel Pereira,Female,19,1,2,3,3,4,5,16,10,11,11,5.5,4.0,Portuguese
+467,Gabriel Pereira,Male,18,4,5,5,2,4,5,0,11,11,12,5.0,10.666666666666666,Portuguese
+468,Gabriel Pereira,Male,17,1,5,4,2,4,5,22,11,11,10,5.0,7.333333333333333,Portuguese
+469,Mousinho Da Silveira,Male,16,1,5,5,2,4,5,0,10,10,9,5.0,7.666666666666667,Portuguese
+470,Gabriel Pereira,Male,17,1,5,5,2,4,5,2,8,8,7,5.0,7.666666666666667,Portuguese
+471,Gabriel Pereira,Female,16,3,4,4,2,4,4,0,14,13,13,5.0,8.333333333333334,Portuguese
+472,Gabriel Pereira,Male,17,1,4,2,2,4,5,0,12,12,13,5.0,5.666666666666667,Portuguese
+473,Gabriel Pereira,Female,15,2,4,4,2,4,2,0,13,12,12,5.0,7.333333333333333,Portuguese
+474,Gabriel Pereira,Male,15,1,4,3,2,4,5,8,10,11,11,5.0,6.0,Portuguese
+475,Gabriel Pereira,Male,18,2,4,4,2,4,5,10,12,11,11,5.0,7.333333333333333,Portuguese
+476,Gabriel Pereira,Male,18,1,4,4,2,4,4,10,10,10,11,5.0,6.333333333333333,Portuguese
+477,Mousinho Da Silveira,Male,16,1,4,4,2,4,5,4,9,10,11,5.0,6.333333333333333,Portuguese
+478,Gabriel Pereira,Male,16,2,4,4,2,4,5,2,10,10,10,5.0,7.333333333333333,Portuguese
+479,Gabriel Pereira,Male,17,2,4,5,2,4,5,2,10,9,10,5.0,7.666666666666667,Portuguese
+480,Gabriel Pereira,Male,15,1,4,4,2,4,5,2,8,9,10,5.0,6.333333333333333,Portuguese
+481,Gabriel Pereira,Male,16,1,4,5,2,4,2,4,9,9,10,5.0,6.666666666666667,Portuguese
+482,Gabriel Pereira,Female,17,2,4,5,2,4,1,16,11,9,10,5.0,7.666666666666667,Portuguese
+483,Mousinho Da Silveira,Male,20,1,4,3,2,4,4,12,8,11,10,5.0,6.0,Portuguese
+484,Mousinho Da Silveira,Male,17,2,4,3,2,4,5,4,8,9,9,5.0,7.0,Portuguese
+485,Mousinho Da Silveira,Male,15,2,4,5,2,4,4,8,7,9,9,5.0,7.666666666666667,Portuguese
+486,Mousinho Da Silveira,Male,16,1,4,3,2,4,4,6,7,8,8,5.0,6.0,Portuguese
+487,Gabriel Pereira,Male,18,1,4,5,2,4,5,8,7,8,7,5.0,6.666666666666667,Portuguese
+488,Gabriel Pereira,Female,17,2,3,5,2,4,4,4,12,16,16,5.0,6.666666666666667,Portuguese
+489,Gabriel Pereira,Female,15,2,3,4,2,4,5,2,13,11,11,5.0,6.333333333333333,Portuguese
+490,Gabriel Pereira,Female,16,2,3,3,2,4,5,4,11,11,11,5.0,6.0,Portuguese
+491,Gabriel Pereira,Female,15,2,3,4,2,4,1,6,11,11,11,5.0,6.333333333333333,Portuguese
+492,Gabriel Pereira,Male,16,2,3,5,2,4,4,0,9,10,11,5.0,6.666666666666667,Portuguese
+493,Gabriel Pereira,Male,16,1,3,2,2,4,5,0,11,12,11,5.0,4.666666666666667,Portuguese
+494,Mousinho Da Silveira,Male,15,1,3,3,2,4,3,11,12,10,11,5.0,5.0,Portuguese
+495,Gabriel Pereira,Female,18,1,3,5,2,4,5,2,10,10,10,5.0,5.666666666666667,Portuguese
+496,Mousinho Da Silveira,Female,20,2,3,4,2,4,3,8,11,9,10,5.0,6.333333333333333,Portuguese
+497,Mousinho Da Silveira,Male,18,2,3,4,2,4,3,0,8,10,9,5.0,6.333333333333333,Portuguese
+498,Gabriel Pereira,Male,16,2,2,4,2,4,1,0,13,13,14,5.0,5.333333333333333,Portuguese
+499,Gabriel Pereira,Male,15,1,2,4,2,4,1,0,11,11,11,5.0,4.333333333333333,Portuguese
+500,Gabriel Pereira,Male,18,2,2,4,2,4,4,10,10,10,10,5.0,5.333333333333333,Portuguese
+501,Gabriel Pereira,Male,17,2,5,5,1,4,5,8,15,15,15,4.5,8.666666666666666,Portuguese
+502,Mousinho Da Silveira,Female,19,2,5,4,1,4,1,0,8,0,0,4.5,8.333333333333334,Portuguese
+503,Mousinho Da Silveira,Female,16,1,4,5,1,4,2,0,14,14,15,4.5,6.666666666666667,Portuguese
+504,Gabriel Pereira,Female,16,2,4,4,1,4,5,0,13,12,14,4.5,7.333333333333333,Portuguese
+505,Gabriel Pereira,Male,16,1,4,4,1,4,5,4,12,13,13,4.5,6.333333333333333,Portuguese
+506,Mousinho Da Silveira,Female,18,3,4,5,1,4,3,0,11,12,13,4.5,8.666666666666666,Portuguese
+507,Mousinho Da Silveira,Female,16,1,4,3,1,4,3,1,9,10,10,4.5,6.0,Portuguese
+508,Gabriel Pereira,Male,17,2,4,4,1,4,3,4,7,6,8,4.5,7.333333333333333,Portuguese
+509,Gabriel Pereira,Male,18,2,3,2,1,4,5,2,15,16,16,4.5,5.666666666666667,Portuguese
+510,Gabriel Pereira,Male,18,2,3,5,1,4,2,9,13,14,15,4.5,6.666666666666667,Portuguese
+511,Mousinho Da Silveira,Female,18,2,3,4,1,4,5,0,16,15,15,4.5,6.333333333333333,Portuguese
+512,Gabriel Pereira,Female,16,2,3,5,1,4,3,6,13,12,13,4.5,6.666666666666667,Portuguese
+513,Gabriel Pereira,Female,16,1,3,2,1,4,5,2,12,13,13,4.5,4.666666666666667,Portuguese
+514,Gabriel Pereira,Female,17,1,3,3,1,4,3,4,12,13,13,4.5,5.0,Portuguese
+515,Gabriel Pereira,Female,17,2,3,1,1,4,5,2,11,11,12,4.5,5.333333333333333,Portuguese
+516,Mousinho Da Silveira,Female,16,3,3,5,1,4,5,1,10,11,12,4.5,7.666666666666667,Portuguese
+517,Gabriel Pereira,Male,19,1,3,4,1,4,4,10,7,11,11,4.5,5.333333333333333,Portuguese
+518,Gabriel Pereira,Male,17,2,3,4,1,4,4,4,11,9,10,4.5,6.333333333333333,Portuguese
+519,Mousinho Da Silveira,Female,18,2,3,5,1,4,3,8,9,8,10,4.5,6.666666666666667,Portuguese
+520,Mousinho Da Silveira,Male,18,2,3,3,1,4,5,6,10,9,10,4.5,6.0,Portuguese
+521,Gabriel Pereira,Male,16,1,3,3,1,4,2,2,9,8,8,4.5,5.0,Portuguese
+522,Mousinho Da Silveira,Male,18,2,2,4,1,4,2,4,17,18,19,4.5,5.333333333333333,Portuguese
+523,Gabriel Pereira,Female,18,1,2,4,1,4,1,8,12,12,15,4.5,4.333333333333333,Portuguese
+524,Gabriel Pereira,Female,16,1,2,1,1,4,5,12,15,13,14,4.5,3.3333333333333335,Portuguese
+525,Gabriel Pereira,Male,18,1,2,4,1,4,3,6,11,12,12,4.5,4.333333333333333,Portuguese
+526,Gabriel Pereira,Male,17,2,2,4,1,4,5,14,12,11,11,4.5,5.333333333333333,Portuguese
+527,Mousinho Da Silveira,Male,16,2,2,2,1,4,5,2,9,7,8,4.5,4.666666666666667,Portuguese
+528,Mousinho Da Silveira,Female,16,1,1,3,1,4,3,2,7,6,7,4.5,3.0,Portuguese
+529,Gabriel Pereira,Female,19,3,5,5,4,3,5,12,10,10,11,5.0,9.666666666666666,Portuguese
+530,Mousinho Da Silveira,Male,18,1,4,3,4,3,3,0,7,7,0,5.0,6.0,Portuguese
+531,Gabriel Pereira,Female,19,2,3,3,4,3,3,0,9,8,10,5.0,6.0,Portuguese
+532,Mousinho Da Silveira,Female,16,1,2,2,4,3,2,0,13,12,14,5.0,3.6666666666666665,Portuguese
+533,Gabriel Pereira,Female,18,2,4,4,3,3,5,0,12,11,13,4.5,7.333333333333333,Portuguese
+534,Gabriel Pereira,Female,16,1,4,4,3,3,1,4,10,11,11,4.5,6.333333333333333,Portuguese
+535,Mousinho Da Silveira,Male,19,2,4,4,3,3,2,8,10,9,11,4.5,7.333333333333333,Portuguese
+536,Mousinho Da Silveira,Male,19,1,4,4,3,3,5,4,8,9,10,4.5,6.333333333333333,Portuguese
+537,Mousinho Da Silveira,Female,15,2,4,2,3,3,2,0,9,10,9,4.5,6.666666666666667,Portuguese
+538,Gabriel Pereira,Female,19,2,3,5,3,3,5,16,11,12,12,4.5,6.666666666666667,Portuguese
+539,Gabriel Pereira,Male,17,1,2,2,3,3,5,14,9,8,10,4.5,3.6666666666666665,Portuguese
+540,Mousinho Da Silveira,Male,17,1,1,2,3,3,5,2,12,11,12,4.5,2.6666666666666665,Portuguese
+541,Mousinho Da Silveira,Male,17,2,1,3,3,3,1,0,10,10,10,4.5,4.0,Portuguese
+542,Mousinho Da Silveira,Male,16,1,5,5,2,3,5,2,11,9,10,4.0,7.666666666666667,Portuguese
+543,Mousinho Da Silveira,Male,17,2,5,4,2,3,3,4,8,9,10,4.0,8.333333333333334,Portuguese
+544,Mousinho Da Silveira,Female,17,2,5,4,2,3,1,10,8,9,9,4.0,8.333333333333334,Portuguese
+545,Mousinho Da Silveira,Female,19,1,5,5,2,3,2,0,5,0,0,4.0,7.666666666666667,Portuguese
+546,Gabriel Pereira,Female,17,2,4,2,2,3,5,0,17,18,17,4.0,6.666666666666667,Portuguese
+547,Gabriel Pereira,Female,17,3,4,3,2,3,5,0,17,18,17,4.0,8.0,Portuguese
+548,Gabriel Pereira,Female,18,3,4,3,2,3,1,4,14,16,17,4.0,8.0,Portuguese
+549,Gabriel Pereira,Female,16,2,4,4,2,3,4,0,17,16,16,4.0,7.333333333333333,Portuguese
+550,Gabriel Pereira,Female,15,4,4,2,2,3,3,6,15,15,15,4.0,8.666666666666666,Portuguese
+551,Gabriel Pereira,Female,18,3,4,3,2,3,3,4,11,12,14,4.0,8.0,Portuguese
+552,Gabriel Pereira,Male,18,3,4,5,2,3,5,0,14,13,14,4.0,8.666666666666666,Portuguese
+553,Mousinho Da Silveira,Male,15,4,4,5,2,3,5,8,13,14,14,4.0,9.666666666666666,Portuguese
+554,Gabriel Pereira,Female,15,2,4,4,2,3,5,4,12,11,12,4.0,7.333333333333333,Portuguese
+555,Gabriel Pereira,Female,17,2,4,4,2,3,5,6,12,12,12,4.0,7.333333333333333,Portuguese
+556,Mousinho Da Silveira,Female,16,2,4,4,2,3,5,2,12,11,12,4.0,7.333333333333333,Portuguese
+557,Gabriel Pereira,Male,16,2,4,3,2,3,3,4,11,10,11,4.0,7.0,Portuguese
+558,Mousinho Da Silveira,Female,15,1,4,4,2,3,5,4,10,10,11,4.0,6.333333333333333,Portuguese
+559,Mousinho Da Silveira,Male,16,1,4,3,2,3,4,4,10,8,10,4.0,6.0,Portuguese
+560,Gabriel Pereira,Male,17,1,4,4,2,3,4,8,8,8,9,4.0,6.333333333333333,Portuguese
+561,Mousinho Da Silveira,Female,18,2,4,4,2,3,5,9,9,8,8,4.0,7.333333333333333,Portuguese
+562,Mousinho Da Silveira,Female,17,2,3,3,2,3,5,0,17,18,18,4.0,6.0,Portuguese
+563,Gabriel Pereira,Female,17,2,3,3,2,3,2,0,14,14,16,4.0,6.0,Portuguese
+564,Mousinho Da Silveira,Female,16,2,3,3,2,3,2,0,14,16,16,4.0,6.0,Portuguese
+565,Gabriel Pereira,Female,17,3,3,3,2,3,2,0,14,14,15,4.0,7.0,Portuguese
+566,Gabriel Pereira,Female,17,2,3,2,2,3,2,0,12,13,15,4.0,5.666666666666667,Portuguese
+567,Gabriel Pereira,Female,17,2,3,3,2,3,1,32,14,13,14,4.0,6.0,Portuguese
+568,Gabriel Pereira,Male,17,2,3,4,2,3,4,6,11,13,14,4.0,6.333333333333333,Portuguese
+569,Gabriel Pereira,Female,16,2,3,3,2,3,4,0,14,13,13,4.0,6.0,Portuguese
+570,Gabriel Pereira,Female,19,2,3,4,2,3,2,2,14,13,13,4.0,6.333333333333333,Portuguese
+571,Gabriel Pereira,Female,15,2,3,2,2,3,3,6,12,13,12,4.0,5.666666666666667,Portuguese
+572,Gabriel Pereira,Female,15,1,3,4,2,3,5,0,13,12,12,4.0,5.333333333333333,Portuguese
+573,Gabriel Pereira,Female,15,2,3,2,2,3,4,2,13,12,12,4.0,5.666666666666667,Portuguese
+574,Gabriel Pereira,Female,16,2,3,3,2,3,2,0,12,13,12,4.0,6.0,Portuguese
+575,Gabriel Pereira,Male,17,2,3,3,2,3,4,0,12,12,12,4.0,6.0,Portuguese
+576,Gabriel Pereira,Male,15,2,3,3,2,3,5,0,11,11,11,4.0,6.0,Portuguese
+577,Mousinho Da Silveira,Male,18,1,3,3,2,3,3,3,9,10,10,4.0,5.0,Portuguese
+578,Gabriel Pereira,Female,15,2,3,2,2,3,1,24,9,8,9,4.0,5.666666666666667,Portuguese
+579,Mousinho Da Silveira,Male,18,1,3,3,2,3,5,2,9,7,9,4.0,5.0,Portuguese
+580,Mousinho Da Silveira,Male,18,1,3,3,2,3,3,0,9,10,9,4.0,5.0,Portuguese
+581,Gabriel Pereira,Female,17,1,2,4,2,3,2,30,14,15,16,4.0,4.333333333333333,Portuguese
+582,Gabriel Pereira,Female,15,3,2,1,2,3,3,2,13,13,13,4.0,5.333333333333333,Portuguese
+583,Gabriel Pereira,Female,17,3,2,2,2,3,5,10,11,11,11,4.0,5.666666666666667,Portuguese
+584,Mousinho Da Silveira,Male,17,1,2,1,2,3,5,0,7,0,0,4.0,3.3333333333333335,Portuguese
+585,Gabriel Pereira,Female,18,4,5,5,1,3,2,10,16,16,16,3.5,10.666666666666666,Portuguese
+586,Gabriel Pereira,Male,16,2,5,1,1,3,5,0,12,13,14,3.5,7.333333333333333,Portuguese
+587,Gabriel Pereira,Female,15,1,5,5,1,3,1,6,14,13,13,3.5,7.666666666666667,Portuguese
+588,Gabriel Pereira,Male,17,2,5,5,1,3,2,0,13,13,13,3.5,8.666666666666666,Portuguese
+589,Mousinho Da Silveira,Female,17,1,5,5,1,3,3,2,10,11,12,3.5,7.666666666666667,Portuguese
+590,Mousinho Da Silveira,Male,17,2,5,5,1,3,2,4,10,11,11,3.5,8.666666666666666,Portuguese
+591,Mousinho Da Silveira,Male,15,2,5,5,1,3,5,11,9,11,10,3.5,8.666666666666666,Portuguese
+592,Mousinho Da Silveira,Male,17,1,5,5,1,3,2,0,10,9,10,3.5,7.666666666666667,Portuguese
+593,Mousinho Da Silveira,Female,17,1,5,5,1,3,1,4,7,8,9,3.5,7.666666666666667,Portuguese
+594,Mousinho Da Silveira,Female,17,2,5,5,1,3,5,0,8,8,0,3.5,8.666666666666666,Portuguese
+595,Gabriel Pereira,Female,17,2,4,4,1,3,1,0,14,15,15,3.5,7.333333333333333,Portuguese
+596,Gabriel Pereira,Female,17,2,4,4,1,3,1,2,14,16,15,3.5,7.333333333333333,Portuguese
+597,Gabriel Pereira,Male,17,1,4,3,1,3,5,0,14,15,15,3.5,6.0,Portuguese
+598,Gabriel Pereira,Male,18,2,4,5,1,3,5,4,10,12,14,3.5,7.666666666666667,Portuguese
+599,Gabriel Pereira,Female,17,3,4,5,1,3,5,8,11,13,14,3.5,8.666666666666666,Portuguese
+600,Gabriel Pereira,Female,17,3,4,4,1,3,4,0,13,12,13,3.5,8.333333333333334,Portuguese
+601,Gabriel Pereira,Female,17,3,4,3,1,3,4,0,11,12,13,3.5,8.0,Portuguese
+602,Gabriel Pereira,Female,17,1,4,4,1,3,5,2,13,12,12,3.5,6.333333333333333,Portuguese
+603,Gabriel Pereira,Female,16,2,4,3,1,3,4,4,11,12,12,3.5,7.0,Portuguese
+604,Gabriel Pereira,Male,18,2,4,4,1,3,3,11,9,11,12,3.5,7.333333333333333,Portuguese
+605,Gabriel Pereira,Male,16,2,4,4,1,3,5,0,10,10,10,3.5,7.333333333333333,Portuguese
+606,Gabriel Pereira,Male,17,2,4,4,1,3,5,0,11,9,10,3.5,7.333333333333333,Portuguese
+607,Mousinho Da Silveira,Female,16,2,4,5,1,3,3,0,8,9,9,3.5,7.666666666666667,Portuguese
+608,Mousinho Da Silveira,Male,19,1,4,3,1,3,5,4,8,9,9,3.5,6.0,Portuguese
+609,Gabriel Pereira,Female,18,2,4,5,1,3,5,10,10,9,8,3.5,7.666666666666667,Portuguese
+610,Mousinho Da Silveira,Male,18,2,4,5,1,3,3,9,4,8,8,3.5,7.666666666666667,Portuguese
+611,Mousinho Da Silveira,Male,18,1,4,3,1,3,5,0,7,7,0,3.5,6.0,Portuguese
+612,Gabriel Pereira,Female,17,2,3,4,1,3,3,2,17,18,17,3.5,6.333333333333333,Portuguese
+613,Gabriel Pereira,Male,18,2,3,3,1,3,5,6,16,16,17,3.5,6.0,Portuguese
+614,Gabriel Pereira,Female,17,2,3,4,1,3,4,0,13,17,17,3.5,6.333333333333333,Portuguese
+615,Gabriel Pereira,Female,15,3,3,3,1,3,1,4,15,15,15,3.5,7.0,Portuguese
+616,Gabriel Pereira,Female,17,3,3,3,1,3,5,4,15,14,15,3.5,7.0,Portuguese
+617,Mousinho Da Silveira,Female,18,3,3,3,1,3,4,0,14,17,15,3.5,7.0,Portuguese
+618,Gabriel Pereira,Female,17,2,3,3,1,3,3,10,12,13,14,3.5,6.0,Portuguese
+619,Gabriel Pereira,Female,17,3,3,4,1,3,5,2,11,12,14,3.5,7.333333333333333,Portuguese
+620,Gabriel Pereira,Male,15,2,3,3,1,3,4,2,13,12,13,3.5,6.0,Portuguese
+621,Gabriel Pereira,Male,16,3,3,3,1,3,5,0,15,13,13,3.5,7.0,Portuguese
+622,Gabriel Pereira,Female,18,2,3,4,1,3,5,2,12,12,13,3.5,6.333333333333333,Portuguese
+623,Mousinho Da Silveira,Female,18,2,3,2,1,3,3,6,13,12,13,3.5,5.666666666666667,Portuguese
+624,Gabriel Pereira,Male,15,1,3,3,1,3,5,0,12,13,12,3.5,5.0,Portuguese
+625,Gabriel Pereira,Male,16,3,3,3,1,3,2,0,12,12,12,3.5,7.0,Portuguese
+626,Gabriel Pereira,Male,16,1,3,2,1,3,3,2,14,13,12,3.5,4.666666666666667,Portuguese
+627,Gabriel Pereira,Female,16,3,3,3,1,3,4,2,9,11,11,3.5,7.0,Portuguese
+628,Gabriel Pereira,Male,17,2,3,3,1,3,3,0,10,11,11,3.5,6.0,Portuguese
+629,Mousinho Da Silveira,Female,16,1,3,3,1,3,5,11,10,11,11,3.5,5.0,Portuguese
+630,Mousinho Da Silveira,Male,16,2,3,2,1,3,2,5,10,11,11,3.5,5.666666666666667,Portuguese
+631,Gabriel Pereira,Male,18,2,3,3,1,3,5,8,10,9,10,3.5,6.0,Portuguese
+632,Gabriel Pereira,Male,16,2,3,3,1,3,2,4,9,11,10,3.5,6.0,Portuguese
+633,Mousinho Da Silveira,Female,18,2,3,2,1,3,1,8,8,5,8,3.5,5.666666666666667,Portuguese
+634,Mousinho Da Silveira,Female,16,2,3,2,1,3,5,6,6,8,8,3.5,5.666666666666667,Portuguese
+635,Mousinho Da Silveira,Male,17,1,3,3,1,3,5,2,9,9,8,3.5,5.0,Portuguese
+636,Mousinho Da Silveira,Male,19,1,3,2,1,3,5,0,5,8,0,3.5,4.666666666666667,Portuguese
+637,Gabriel Pereira,Male,18,3,2,4,1,3,2,0,14,15,15,3.5,6.333333333333333,Portuguese
+638,Gabriel Pereira,Female,20,3,2,2,1,3,3,8,11,15,15,3.5,5.666666666666667,Portuguese
+639,Gabriel Pereira,Female,16,4,2,3,1,3,3,1,13,13,13,3.5,7.0,Portuguese
+640,Gabriel Pereira,Female,16,1,2,2,1,3,5,6,10,11,12,3.5,3.6666666666666665,Portuguese
+641,Gabriel Pereira,Male,15,1,2,2,1,3,3,0,11,11,12,3.5,3.6666666666666665,Portuguese
+642,Mousinho Da Silveira,Male,15,1,2,3,1,3,4,0,10,9,11,3.5,4.0,Portuguese
+643,Mousinho Da Silveira,Female,15,1,2,1,1,3,4,0,9,10,9,3.5,3.3333333333333335,Portuguese
+644,Gabriel Pereira,Female,18,2,1,4,1,3,4,10,14,17,17,3.5,4.333333333333333,Portuguese
+645,Gabriel Pereira,Female,18,2,1,2,1,3,2,2,15,15,15,3.5,3.6666666666666665,Portuguese
+646,Gabriel Pereira,Male,16,1,1,3,1,3,5,6,12,12,12,3.5,3.0,Portuguese
+647,Gabriel Pereira,Female,15,2,1,3,1,3,4,0,11,10,11,3.5,4.0,Portuguese
+648,Mousinho Da Silveira,Female,16,1,1,3,1,3,1,0,8,6,8,3.5,3.0,Portuguese
+649,Gabriel Pereira,Male,21,2,3,3,5,2,4,21,9,10,10,4.5,6.0,Portuguese
+650,Mousinho Da Silveira,Female,18,2,2,2,4,2,5,0,7,5,0,4.0,4.666666666666667,Portuguese
+651,Gabriel Pereira,Male,15,1,5,5,3,2,5,2,9,9,9,3.5,7.666666666666667,Portuguese
+652,Gabriel Pereira,Male,17,2,5,2,2,2,1,2,16,17,18,3.0,7.666666666666667,Portuguese
+653,Mousinho Da Silveira,Female,17,1,5,5,2,2,4,3,10,11,10,3.0,7.666666666666667,Portuguese
+654,Gabriel Pereira,Male,18,1,4,2,2,2,1,0,18,18,17,3.0,5.666666666666667,Portuguese
+655,Mousinho Da Silveira,Female,16,1,4,4,2,2,4,2,14,14,14,3.0,6.333333333333333,Portuguese
+656,Mousinho Da Silveira,Female,15,3,4,3,2,2,5,2,14,11,12,3.0,8.0,Portuguese
+657,Mousinho Da Silveira,Female,18,1,4,3,2,2,5,4,7,9,10,3.0,6.0,Portuguese
+658,Gabriel Pereira,Male,18,1,4,3,2,2,1,26,7,8,8,3.0,6.0,Portuguese
+659,Mousinho Da Silveira,Female,17,1,4,4,2,2,5,0,6,6,7,3.0,6.333333333333333,Portuguese
+660,Mousinho Da Silveira,Female,18,2,4,4,2,2,5,3,7,8,7,3.0,7.333333333333333,Portuguese
+661,Gabriel Pereira,Female,17,2,3,4,2,2,1,10,12,15,15,3.0,6.333333333333333,Portuguese
+662,Gabriel Pereira,Male,16,1,3,2,2,2,5,0,13,13,14,3.0,4.666666666666667,Portuguese
+663,Gabriel Pereira,Male,15,2,3,3,2,2,5,4,11,12,13,3.0,6.0,Portuguese
+664,Gabriel Pereira,Male,18,3,3,3,2,2,3,0,13,14,13,3.0,7.0,Portuguese
+665,Gabriel Pereira,Male,18,2,3,3,2,2,2,0,12,12,13,3.0,6.0,Portuguese
+666,Gabriel Pereira,Female,16,2,3,3,2,2,4,2,11,11,12,3.0,6.0,Portuguese
+667,Gabriel Pereira,Female,18,2,3,4,2,2,4,8,10,11,12,3.0,6.333333333333333,Portuguese
+668,Gabriel Pereira,Female,16,2,3,3,2,2,5,14,10,11,11,3.0,6.0,Portuguese
+669,Gabriel Pereira,Male,16,1,3,3,2,2,2,4,12,11,11,3.0,5.0,Portuguese
+670,Mousinho Da Silveira,Female,16,3,3,3,2,2,5,2,11,11,11,3.0,7.0,Portuguese
+671,Mousinho Da Silveira,Female,17,1,3,3,2,2,1,5,9,11,11,3.0,5.0,Portuguese
+672,Gabriel Pereira,Female,17,3,3,2,2,2,3,0,11,11,10,3.0,6.666666666666667,Portuguese
+673,Gabriel Pereira,Male,19,1,3,4,2,2,5,0,11,10,10,3.0,5.333333333333333,Portuguese
+674,Gabriel Pereira,Male,17,1,3,2,2,2,5,8,8,8,9,3.0,4.666666666666667,Portuguese
+675,Mousinho Da Silveira,Male,18,1,3,1,2,2,5,0,4,0,0,3.0,4.333333333333333,Portuguese
+676,Mousinho Da Silveira,Male,18,3,2,2,2,2,5,0,15,16,16,3.0,5.666666666666667,Portuguese
+677,Gabriel Pereira,Female,17,2,2,3,2,2,2,2,11,12,14,3.0,5.0,Portuguese
+678,Gabriel Pereira,Male,16,3,2,3,2,2,1,4,13,12,13,3.0,6.0,Portuguese
+679,Gabriel Pereira,Female,15,3,2,2,2,2,5,0,10,11,12,3.0,5.666666666666667,Portuguese
+680,Mousinho Da Silveira,Female,16,2,2,4,2,2,1,8,9,10,10,3.0,5.333333333333333,Portuguese
+681,Mousinho Da Silveira,Female,17,3,2,3,2,2,3,5,8,7,8,3.0,6.0,Portuguese
+682,Gabriel Pereira,Male,17,1,1,1,2,2,5,0,12,13,13,3.0,2.3333333333333335,Portuguese
+683,Mousinho Da Silveira,Male,16,2,1,2,2,2,5,0,12,13,13,3.0,3.6666666666666665,Portuguese
+684,Mousinho Da Silveira,Male,17,2,1,2,2,2,1,0,13,14,13,3.0,3.6666666666666665,Portuguese
+685,Mousinho Da Silveira,Male,16,3,1,3,2,2,3,0,10,9,10,3.0,5.0,Portuguese
+686,Mousinho Da Silveira,Female,16,2,5,2,1,2,5,0,16,17,17,2.5,7.666666666666667,Portuguese
+687,Mousinho Da Silveira,Female,16,2,5,4,1,2,1,2,15,15,15,2.5,8.333333333333334,Portuguese
+688,Gabriel Pereira,Female,18,3,5,5,1,2,2,0,14,14,14,2.5,9.666666666666666,Portuguese
+689,Gabriel Pereira,Male,15,4,5,4,1,2,5,6,14,13,13,2.5,10.333333333333334,Portuguese
+690,Gabriel Pereira,Female,16,2,5,2,1,2,3,0,11,10,11,2.5,7.666666666666667,Portuguese
+691,Gabriel Pereira,Male,19,2,5,3,1,2,5,0,10,10,11,2.5,8.0,Portuguese
+692,Mousinho Da Silveira,Female,17,2,5,5,1,2,3,2,11,10,11,2.5,8.666666666666666,Portuguese
+693,Mousinho Da Silveira,Female,17,2,5,4,1,2,5,0,10,10,10,2.5,8.333333333333334,Portuguese
+694,Gabriel Pereira,Male,17,2,4,4,1,2,5,10,16,18,18,2.5,7.333333333333333,Portuguese
+695,Gabriel Pereira,Female,16,1,4,4,1,2,2,6,17,17,17,2.5,6.333333333333333,Portuguese
+696,Gabriel Pereira,Female,16,2,4,3,1,2,1,2,16,15,16,2.5,7.0,Portuguese
+697,Mousinho Da Silveira,Male,17,3,4,3,1,2,5,0,15,14,16,2.5,8.0,Portuguese
+698,Gabriel Pereira,Male,18,1,4,2,1,2,5,6,15,14,15,2.5,5.666666666666667,Portuguese
+699,Gabriel Pereira,Male,17,3,4,2,1,2,4,2,12,15,15,2.5,7.666666666666667,Portuguese
+700,Gabriel Pereira,Male,16,2,4,4,1,2,5,6,16,14,14,2.5,7.333333333333333,Portuguese
+701,Gabriel Pereira,Male,15,1,4,3,1,2,4,2,14,13,14,2.5,6.0,Portuguese
+702,Gabriel Pereira,Female,17,2,4,5,1,2,5,12,12,12,14,2.5,7.666666666666667,Portuguese
+703,Gabriel Pereira,Female,18,2,4,5,1,2,2,0,13,14,14,2.5,7.666666666666667,Portuguese
+704,Mousinho Da Silveira,Female,18,2,4,3,1,2,4,0,12,13,14,2.5,7.0,Portuguese
+705,Gabriel Pereira,Male,16,2,4,2,1,2,5,6,12,12,13,2.5,6.666666666666667,Portuguese
+706,Gabriel Pereira,Male,15,2,4,3,1,2,3,0,12,12,13,2.5,7.0,Portuguese
+707,Gabriel Pereira,Female,15,2,4,2,1,2,5,0,12,12,12,2.5,6.666666666666667,Portuguese
+708,Gabriel Pereira,Female,16,2,4,3,1,2,3,14,12,11,11,2.5,7.0,Portuguese
+709,Gabriel Pereira,Female,18,2,4,4,1,2,5,2,10,10,11,2.5,7.333333333333333,Portuguese
+710,Mousinho Da Silveira,Male,16,2,4,5,1,2,5,4,9,10,11,2.5,7.666666666666667,Portuguese
+711,Mousinho Da Silveira,Female,16,2,4,5,1,2,1,1,9,10,11,2.5,7.666666666666667,Portuguese
+712,Mousinho Da Silveira,Female,17,1,4,5,1,2,5,0,11,11,11,2.5,6.666666666666667,Portuguese
+713,Gabriel Pereira,Male,17,1,4,4,1,2,5,0,9,10,10,2.5,6.333333333333333,Portuguese
+714,Mousinho Da Silveira,Female,15,2,4,3,1,2,4,0,10,10,10,2.5,7.0,Portuguese
+715,Mousinho Da Silveira,Female,18,2,4,2,1,2,2,2,9,10,10,2.5,6.666666666666667,Portuguese
+716,Mousinho Da Silveira,Female,19,3,4,2,1,2,5,4,10,11,10,2.5,7.666666666666667,Portuguese
+717,Mousinho Da Silveira,Male,17,1,4,5,1,2,5,0,10,9,9,2.5,6.666666666666667,Portuguese
+718,Mousinho Da Silveira,Female,15,1,4,3,1,2,2,4,6,7,8,2.5,6.0,Portuguese
+719,Gabriel Pereira,Male,17,1,4,5,1,2,5,22,9,7,6,2.5,6.666666666666667,Portuguese
+720,Gabriel Pereira,Female,18,3,3,3,1,2,2,0,18,18,18,2.5,7.0,Portuguese
+721,Mousinho Da Silveira,Female,18,2,3,5,1,2,1,0,18,18,18,2.5,6.666666666666667,Portuguese
+722,Mousinho Da Silveira,Female,17,2,3,3,1,2,4,0,17,18,18,2.5,6.0,Portuguese
+723,Gabriel Pereira,Female,17,1,3,4,1,2,5,2,14,15,17,2.5,5.333333333333333,Portuguese
+724,Gabriel Pereira,Male,18,3,3,2,1,2,4,4,15,14,17,2.5,6.666666666666667,Portuguese
+725,Gabriel Pereira,Female,18,3,3,4,1,2,2,5,14,17,17,2.5,7.333333333333333,Portuguese
+726,Gabriel Pereira,Male,16,1,3,2,1,2,5,4,14,15,15,2.5,4.666666666666667,Portuguese
+727,Gabriel Pereira,Female,18,2,3,3,1,2,1,2,12,12,15,2.5,6.0,Portuguese
+728,Gabriel Pereira,Female,17,3,3,3,1,2,4,4,15,14,15,2.5,7.0,Portuguese
+729,Gabriel Pereira,Female,15,2,3,3,1,2,2,2,14,14,14,2.5,6.0,Portuguese
+730,Gabriel Pereira,Female,17,2,3,1,1,2,4,18,10,12,14,2.5,5.333333333333333,Portuguese
+731,Gabriel Pereira,Female,18,3,3,3,1,2,3,0,11,12,14,2.5,7.0,Portuguese
+732,Mousinho Da Silveira,Male,15,2,3,4,1,2,2,0,12,13,14,2.5,6.333333333333333,Portuguese
+733,Mousinho Da Silveira,Male,18,1,3,2,1,2,3,2,14,13,14,2.5,4.666666666666667,Portuguese
+734,Gabriel Pereira,Female,16,2,3,2,1,2,5,0,11,13,13,2.5,5.666666666666667,Portuguese
+735,Gabriel Pereira,Female,16,1,3,4,1,2,1,4,12,13,13,2.5,5.333333333333333,Portuguese
+736,Gabriel Pereira,Female,15,1,3,3,1,2,4,6,11,12,13,2.5,5.0,Portuguese
+737,Gabriel Pereira,Female,17,1,3,2,1,2,3,21,13,13,13,2.5,4.666666666666667,Portuguese
+738,Gabriel Pereira,Female,16,2,3,3,1,2,5,0,14,13,13,2.5,6.0,Portuguese
+739,Mousinho Da Silveira,Male,15,1,3,3,1,2,4,1,13,12,13,2.5,5.0,Portuguese
+740,Gabriel Pereira,Female,19,4,3,3,1,2,3,4,12,12,12,2.5,8.0,Portuguese
+741,Gabriel Pereira,Male,17,2,3,3,1,2,4,0,12,12,12,2.5,6.0,Portuguese
+742,Mousinho Da Silveira,Male,15,1,3,3,1,2,5,11,12,13,12,2.5,5.0,Portuguese
+743,Mousinho Da Silveira,Female,17,2,3,3,1,2,2,5,11,11,12,2.5,6.0,Portuguese
+744,Mousinho Da Silveira,Female,17,2,3,3,1,2,5,2,12,12,12,2.5,6.0,Portuguese
+745,Mousinho Da Silveira,Female,18,3,3,2,1,2,4,4,10,11,12,2.5,6.666666666666667,Portuguese
+746,Gabriel Pereira,Female,16,2,3,4,1,2,2,6,13,11,11,2.5,6.333333333333333,Portuguese
+747,Gabriel Pereira,Female,16,1,3,3,1,2,1,8,12,11,11,2.5,5.0,Portuguese
+748,Gabriel Pereira,Male,16,1,3,3,1,2,3,0,10,9,11,2.5,5.0,Portuguese
+749,Gabriel Pereira,Female,16,1,3,5,1,2,5,4,12,11,11,2.5,5.666666666666667,Portuguese
+750,Gabriel Pereira,Female,17,2,3,4,1,2,5,4,11,10,11,2.5,6.333333333333333,Portuguese
+751,Mousinho Da Silveira,Female,17,2,3,5,1,2,4,0,11,10,11,2.5,6.666666666666667,Portuguese
+752,Gabriel Pereira,Female,16,2,3,3,1,2,3,16,11,11,10,2.5,6.0,Portuguese
+753,Gabriel Pereira,Female,16,4,3,3,1,2,5,0,10,9,10,2.5,8.0,Portuguese
+754,Gabriel Pereira,Female,17,3,3,2,1,2,4,10,11,10,10,2.5,6.666666666666667,Portuguese
+755,Gabriel Pereira,Female,18,2,3,5,1,2,3,12,8,9,10,2.5,6.666666666666667,Portuguese
+756,Mousinho Da Silveira,Female,17,1,3,2,1,2,5,9,7,9,10,2.5,4.666666666666667,Portuguese
+757,Gabriel Pereira,Male,15,3,3,2,1,2,5,2,10,9,9,2.5,6.666666666666667,Portuguese
+758,Mousinho Da Silveira,Male,15,2,3,4,1,2,2,7,7,9,8,2.5,6.333333333333333,Portuguese
+759,Mousinho Da Silveira,Female,16,3,3,2,1,2,4,0,10,8,8,2.5,6.666666666666667,Portuguese
+760,Mousinho Da Silveira,Female,16,3,3,2,1,2,4,3,9,8,8,2.5,6.666666666666667,Portuguese
+761,Mousinho Da Silveira,Female,16,1,3,4,1,2,1,6,7,7,8,2.5,5.333333333333333,Portuguese
+762,Mousinho Da Silveira,Female,16,2,3,4,1,2,3,4,8,8,8,2.5,6.333333333333333,Portuguese
+763,Mousinho Da Silveira,Female,18,2,3,3,1,2,4,3,7,6,8,2.5,6.0,Portuguese
+764,Gabriel Pereira,Female,17,3,2,2,1,2,3,0,17,18,18,2.5,5.666666666666667,Portuguese
+765,Gabriel Pereira,Female,17,4,2,2,1,2,5,0,18,18,18,2.5,6.666666666666667,Portuguese
+766,Gabriel Pereira,Female,17,2,2,2,1,2,5,14,15,14,17,2.5,4.666666666666667,Portuguese
+767,Gabriel Pereira,Female,16,2,2,2,1,2,1,8,14,15,16,2.5,4.666666666666667,Portuguese
+768,Gabriel Pereira,Male,16,2,2,3,1,2,5,0,13,14,16,2.5,5.0,Portuguese
+769,Gabriel Pereira,Female,17,3,2,3,1,2,3,0,15,15,16,2.5,6.0,Portuguese
+770,Gabriel Pereira,Male,18,2,2,4,1,2,4,2,16,16,16,2.5,5.333333333333333,Portuguese
+771,Mousinho Da Silveira,Female,16,1,2,5,1,2,5,0,17,16,16,2.5,4.666666666666667,Portuguese
+772,Gabriel Pereira,Female,18,2,2,5,1,2,1,8,14,14,15,2.5,5.666666666666667,Portuguese
+773,Mousinho Da Silveira,Female,17,2,2,3,1,2,5,0,15,14,15,2.5,5.0,Portuguese
+774,Gabriel Pereira,Female,16,3,2,3,1,2,2,10,13,13,14,2.5,6.0,Portuguese
+775,Gabriel Pereira,Female,15,2,2,3,1,2,1,0,14,14,14,2.5,5.0,Portuguese
+776,Gabriel Pereira,Male,17,1,2,3,1,2,5,4,13,13,14,2.5,4.0,Portuguese
+777,Mousinho Da Silveira,Female,15,2,2,1,1,2,2,0,13,14,14,2.5,4.333333333333333,Portuguese
+778,Mousinho Da Silveira,Female,17,1,2,3,1,2,5,1,13,14,14,2.5,4.0,Portuguese
+779,Gabriel Pereira,Female,16,2,2,2,1,2,5,2,14,12,13,2.5,4.666666666666667,Portuguese
+780,Gabriel Pereira,Male,16,2,2,3,1,2,3,0,11,12,13,2.5,5.0,Portuguese
+781,Mousinho Da Silveira,Female,17,2,2,2,1,2,3,0,13,13,13,2.5,4.666666666666667,Portuguese
+782,Gabriel Pereira,Male,15,1,2,2,1,2,5,8,11,12,12,2.5,3.6666666666666665,Portuguese
+783,Gabriel Pereira,Female,17,2,2,3,1,2,3,0,14,12,12,2.5,5.0,Portuguese
+784,Gabriel Pereira,Female,20,2,2,3,1,2,2,8,10,12,12,2.5,5.0,Portuguese
+785,Mousinho Da Silveira,Female,16,1,2,3,1,2,2,0,12,11,12,2.5,4.0,Portuguese
+786,Gabriel Pereira,Female,17,1,2,2,1,2,5,8,11,10,11,2.5,3.6666666666666665,Portuguese
+787,Gabriel Pereira,Male,16,1,2,2,1,2,3,4,12,10,11,2.5,3.6666666666666665,Portuguese
+788,Gabriel Pereira,Female,17,1,2,1,1,2,3,6,12,11,11,2.5,3.3333333333333335,Portuguese
+789,Gabriel Pereira,Female,17,2,2,5,1,2,5,0,11,10,11,2.5,5.666666666666667,Portuguese
+790,Mousinho Da Silveira,Female,18,2,2,3,1,2,3,2,8,10,11,2.5,5.0,Portuguese
+791,Gabriel Pereira,Male,18,1,2,3,1,2,1,0,10,10,10,2.5,4.0,Portuguese
+792,Mousinho Da Silveira,Female,18,1,2,3,1,2,4,0,10,10,10,2.5,4.0,Portuguese
+793,Gabriel Pereira,Male,17,1,2,1,1,2,5,6,10,8,9,2.5,3.3333333333333335,Portuguese
+794,Mousinho Da Silveira,Female,17,1,2,1,1,2,1,0,8,8,9,2.5,3.3333333333333335,Portuguese
+795,Mousinho Da Silveira,Female,18,2,1,3,1,2,1,1,16,16,16,2.5,4.0,Portuguese
+796,Gabriel Pereira,Female,18,2,1,2,1,2,1,4,10,13,13,2.5,3.6666666666666665,Portuguese
+797,Mousinho Da Silveira,Female,16,1,1,3,1,2,5,1,11,11,11,2.5,3.0,Portuguese
+798,Mousinho Da Silveira,Female,17,1,1,3,1,2,5,5,9,9,9,2.5,3.0,Portuguese
+799,Gabriel Pereira,Female,18,3,3,3,5,1,5,10,12,11,11,3.5,7.0,Portuguese
+800,Mousinho Da Silveira,Female,19,2,1,4,4,1,1,12,7,8,9,3.0,4.333333333333333,Portuguese
+801,Mousinho Da Silveira,Female,17,4,2,3,3,1,5,0,18,18,18,2.5,7.0,Portuguese
+802,Mousinho Da Silveira,Female,16,2,4,3,2,1,2,0,13,14,15,2.0,7.0,Portuguese
+803,Gabriel Pereira,Male,16,1,3,2,2,1,5,16,9,9,8,2.0,4.666666666666667,Portuguese
+804,Mousinho Da Silveira,Male,16,1,1,2,2,1,2,0,10,11,11,2.0,2.6666666666666665,Portuguese
+805,Gabriel Pereira,Male,15,1,5,2,1,1,3,10,18,17,18,1.5,6.666666666666667,Portuguese
+806,Gabriel Pereira,Male,15,3,5,2,1,1,3,0,14,14,15,1.5,8.666666666666666,Portuguese
+807,Gabriel Pereira,Male,15,2,5,2,1,1,5,0,13,14,15,1.5,7.666666666666667,Portuguese
+808,Gabriel Pereira,Male,20,1,5,3,1,1,5,0,14,15,15,1.5,7.0,Portuguese
+809,Gabriel Pereira,Male,15,1,5,3,1,1,4,4,13,14,14,1.5,7.0,Portuguese
+810,Mousinho Da Silveira,Male,18,1,5,5,1,1,1,5,12,13,14,1.5,7.666666666666667,Portuguese
+811,Gabriel Pereira,Male,15,2,5,1,1,1,5,0,12,12,13,1.5,7.333333333333333,Portuguese
+812,Gabriel Pereira,Male,17,2,5,2,1,1,1,0,12,13,13,1.5,7.666666666666667,Portuguese
+813,Mousinho Da Silveira,Female,16,1,5,4,1,1,4,0,14,13,13,1.5,7.333333333333333,Portuguese
+814,Mousinho Da Silveira,Female,15,2,5,4,1,1,1,4,13,12,12,1.5,8.333333333333334,Portuguese
+815,Gabriel Pereira,Female,15,1,5,1,1,1,5,4,11,11,11,1.5,6.333333333333333,Portuguese
+816,Gabriel Pereira,Male,19,1,5,4,1,1,4,6,11,9,11,1.5,7.333333333333333,Portuguese
+817,Mousinho Da Silveira,Female,17,1,5,3,1,1,3,2,9,10,11,1.5,7.0,Portuguese
+818,Mousinho Da Silveira,Female,17,2,5,4,1,1,1,0,6,9,11,1.5,8.333333333333334,Portuguese
+819,Gabriel Pereira,Male,17,1,5,1,1,1,3,0,9,9,10,1.5,6.333333333333333,Portuguese
+820,Gabriel Pereira,Female,16,1,5,2,1,1,5,4,9,10,10,1.5,6.666666666666667,Portuguese
+821,Mousinho Da Silveira,Female,17,1,5,3,1,1,5,4,9,9,10,1.5,7.0,Portuguese
+822,Mousinho Da Silveira,Female,17,1,5,1,1,1,3,0,7,10,10,1.5,6.333333333333333,Portuguese
+823,Gabriel Pereira,Female,15,1,5,5,1,1,1,2,8,9,9,1.5,7.666666666666667,Portuguese
+824,Gabriel Pereira,Male,17,1,5,2,1,1,2,10,8,7,8,1.5,6.666666666666667,Portuguese
+825,Gabriel Pereira,Female,17,1,5,4,1,1,5,14,9,9,8,1.5,7.333333333333333,Portuguese
+826,Mousinho Da Silveira,Female,16,2,5,5,1,1,1,8,5,5,7,1.5,8.666666666666666,Portuguese
+827,Mousinho Da Silveira,Female,18,1,5,5,1,1,3,0,8,6,0,1.5,7.666666666666667,Portuguese
+828,Gabriel Pereira,Female,16,2,4,2,1,1,3,0,16,16,17,1.5,6.666666666666667,Portuguese
+829,Gabriel Pereira,Male,18,2,4,3,1,1,2,0,17,17,17,1.5,7.0,Portuguese
+830,Gabriel Pereira,Female,17,1,4,4,1,1,5,2,15,16,17,1.5,6.333333333333333,Portuguese
+831,Mousinho Da Silveira,Male,18,1,4,5,1,1,5,3,17,17,17,1.5,6.666666666666667,Portuguese
+832,Mousinho Da Silveira,Female,18,3,4,4,1,1,1,0,15,17,17,1.5,8.333333333333334,Portuguese
+833,Gabriel Pereira,Male,16,3,4,3,1,1,4,0,16,16,16,1.5,8.0,Portuguese
+834,Gabriel Pereira,Male,15,2,4,4,1,1,1,0,16,16,16,1.5,7.333333333333333,Portuguese
+835,Gabriel Pereira,Male,15,2,4,3,1,1,2,4,16,15,16,1.5,7.0,Portuguese
+836,Mousinho Da Silveira,Male,17,2,4,3,1,1,3,4,14,15,16,1.5,7.0,Portuguese
+837,Gabriel Pereira,Male,16,1,4,2,1,1,5,6,14,14,15,1.5,5.666666666666667,Portuguese
+838,Gabriel Pereira,Female,16,2,4,5,1,1,4,0,14,14,15,1.5,7.666666666666667,Portuguese
+839,Gabriel Pereira,Female,17,2,4,2,1,1,3,4,14,14,15,1.5,6.666666666666667,Portuguese
+840,Gabriel Pereira,Male,16,1,4,5,1,1,3,7,14,14,15,1.5,6.666666666666667,Portuguese
+841,Gabriel Pereira,Male,18,3,4,2,1,1,4,0,14,15,15,1.5,7.666666666666667,Portuguese
+842,Gabriel Pereira,Female,17,3,4,3,1,1,5,0,15,15,15,1.5,8.0,Portuguese
+843,Gabriel Pereira,Male,15,2,4,1,1,1,1,0,12,13,14,1.5,6.333333333333333,Portuguese
+844,Gabriel Pereira,Male,15,3,4,3,1,1,4,0,14,14,14,1.5,8.0,Portuguese
+845,Gabriel Pereira,Female,16,3,4,5,1,1,4,2,15,15,14,1.5,8.666666666666666,Portuguese
+846,Gabriel Pereira,Female,18,1,4,4,1,1,1,4,11,12,14,1.5,6.333333333333333,Portuguese
+847,Gabriel Pereira,Female,18,4,4,4,1,1,4,6,14,13,14,1.5,9.333333333333334,Portuguese
+848,Gabriel Pereira,Male,16,2,4,4,1,1,3,0,13,12,13,1.5,7.333333333333333,Portuguese
+849,Gabriel Pereira,Male,16,3,4,3,1,1,5,4,13,13,13,1.5,8.0,Portuguese
+850,Gabriel Pereira,Female,18,2,4,3,1,1,3,2,13,13,13,1.5,7.0,Portuguese
+851,Gabriel Pereira,Female,18,2,4,4,1,1,4,2,14,12,13,1.5,7.333333333333333,Portuguese
+852,Gabriel Pereira,Female,18,2,4,4,1,1,4,0,12,13,13,1.5,7.333333333333333,Portuguese
+853,Mousinho Da Silveira,Female,19,3,4,5,1,1,1,0,12,13,13,1.5,8.666666666666666,Portuguese
+854,Mousinho Da Silveira,Female,17,1,4,3,1,1,4,0,11,12,13,1.5,6.0,Portuguese
+855,Gabriel Pereira,Male,15,1,4,2,1,1,5,0,11,12,12,1.5,5.666666666666667,Portuguese
+856,Gabriel Pereira,Male,16,1,4,3,1,1,5,4,12,12,12,1.5,6.0,Portuguese
+857,Gabriel Pereira,Female,15,2,4,4,1,1,3,2,13,12,12,1.5,7.333333333333333,Portuguese
+858,Gabriel Pereira,Female,17,3,4,2,1,1,4,0,11,12,12,1.5,7.666666666666667,Portuguese
+859,Gabriel Pereira,Female,17,4,4,1,1,1,2,2,10,11,12,1.5,8.333333333333334,Portuguese
+860,Mousinho Da Silveira,Female,16,2,4,4,1,1,5,0,12,12,12,1.5,7.333333333333333,Portuguese
+861,Mousinho Da Silveira,Female,16,2,4,3,1,1,1,0,11,13,12,1.5,7.0,Portuguese
+862,Mousinho Da Silveira,Female,17,3,4,3,1,1,3,8,10,11,12,1.5,8.0,Portuguese
+863,Mousinho Da Silveira,Female,16,2,4,4,1,1,5,0,12,12,12,1.5,7.333333333333333,Portuguese
+864,Gabriel Pereira,Male,15,4,4,3,1,1,1,0,12,11,11,1.5,9.0,Portuguese
+865,Gabriel Pereira,Female,15,2,4,4,1,1,5,4,12,11,11,1.5,7.333333333333333,Portuguese
+866,Gabriel Pereira,Male,16,2,4,2,1,1,3,6,12,10,11,1.5,6.666666666666667,Portuguese
+867,Gabriel Pereira,Female,16,2,4,4,1,1,5,0,12,11,11,1.5,7.333333333333333,Portuguese
+868,Gabriel Pereira,Female,19,2,4,2,1,1,5,0,9,10,11,1.5,6.666666666666667,Portuguese
+869,Gabriel Pereira,Female,18,3,4,4,1,1,3,10,12,10,11,1.5,8.333333333333334,Portuguese
+870,Mousinho Da Silveira,Male,16,3,4,3,1,1,5,0,10,11,11,1.5,8.0,Portuguese
+871,Mousinho Da Silveira,Female,16,2,4,5,1,1,4,4,9,10,11,1.5,7.666666666666667,Portuguese
+872,Mousinho Da Silveira,Female,17,1,4,3,1,1,5,0,10,11,11,1.5,6.0,Portuguese
+873,Gabriel Pereira,Male,15,1,4,1,1,1,1,0,9,10,10,1.5,5.333333333333333,Portuguese
+874,Gabriel Pereira,Female,16,2,4,3,1,1,1,0,13,13,10,1.5,7.0,Portuguese
+875,Gabriel Pereira,Male,15,2,4,2,1,1,5,4,10,9,10,1.5,6.666666666666667,Portuguese
+876,Gabriel Pereira,Female,15,1,4,2,1,1,5,0,11,10,10,1.5,5.666666666666667,Portuguese
+877,Gabriel Pereira,Male,19,2,4,4,1,1,1,9,11,10,10,1.5,7.333333333333333,Portuguese
+878,Mousinho Da Silveira,Female,16,3,4,3,1,1,5,2,10,9,10,1.5,8.0,Portuguese
+879,Mousinho Da Silveira,Female,19,1,4,4,1,1,2,0,9,9,10,1.5,6.333333333333333,Portuguese
+880,Mousinho Da Silveira,Female,17,2,4,5,1,1,4,1,11,9,10,1.5,7.666666666666667,Portuguese
+881,Mousinho Da Silveira,Female,17,2,4,4,1,1,5,2,7,9,10,1.5,7.333333333333333,Portuguese
+882,Gabriel Pereira,Male,16,2,4,2,1,1,5,2,9,9,9,1.5,6.666666666666667,Portuguese
+883,Gabriel Pereira,Male,15,2,4,4,1,1,1,0,7,8,8,1.5,7.333333333333333,Portuguese
+884,Mousinho Da Silveira,Female,16,1,4,3,1,1,5,2,10,8,8,1.5,6.0,Portuguese
+885,Mousinho Da Silveira,Female,16,2,4,3,1,1,1,0,7,7,8,1.5,7.0,Portuguese
+886,Mousinho Da Silveira,Female,19,1,4,4,1,1,5,0,6,8,7,1.5,6.333333333333333,Portuguese
+887,Gabriel Pereira,Male,16,2,3,2,1,1,3,0,16,17,18,1.5,5.666666666666667,Portuguese
+888,Mousinho Da Silveira,Female,16,2,3,2,1,1,1,0,16,17,18,1.5,5.666666666666667,Portuguese
+889,Mousinho Da Silveira,Female,18,3,3,2,1,1,4,0,19,17,18,1.5,6.666666666666667,Portuguese
+890,Gabriel Pereira,Female,18,4,3,3,1,1,3,0,16,17,17,1.5,8.0,Portuguese
+891,Gabriel Pereira,Female,18,3,3,4,1,1,5,2,14,15,17,1.5,7.333333333333333,Portuguese
+892,Mousinho Da Silveira,Female,17,2,3,2,1,1,1,0,15,17,17,1.5,5.666666666666667,Portuguese
+893,Gabriel Pereira,Female,15,2,3,3,1,1,5,0,16,14,16,1.5,6.0,Portuguese
+894,Gabriel Pereira,Female,17,2,3,2,1,1,5,8,14,15,16,1.5,5.666666666666667,Portuguese
+895,Gabriel Pereira,Female,16,3,3,2,1,1,5,4,15,16,16,1.5,6.666666666666667,Portuguese
+896,Gabriel Pereira,Male,16,1,3,3,1,1,4,7,15,16,16,1.5,5.0,Portuguese
+897,Gabriel Pereira,Female,17,2,3,3,1,1,1,6,15,16,16,1.5,6.0,Portuguese
+898,Gabriel Pereira,Female,17,3,3,3,1,1,3,0,16,16,16,1.5,7.0,Portuguese
+899,Mousinho Da Silveira,Female,16,1,3,2,1,1,4,0,14,14,16,1.5,4.666666666666667,Portuguese
+900,Mousinho Da Silveira,Female,18,2,3,4,1,1,1,4,15,15,16,1.5,6.333333333333333,Portuguese
+901,Gabriel Pereira,Male,15,2,3,1,1,1,5,2,15,15,15,1.5,5.333333333333333,Portuguese
+902,Gabriel Pereira,Male,15,2,3,3,1,1,5,0,14,15,15,1.5,6.0,Portuguese
+903,Gabriel Pereira,Female,15,2,3,2,1,1,1,0,15,14,15,1.5,5.666666666666667,Portuguese
+904,Gabriel Pereira,Female,15,3,3,3,1,1,5,4,13,14,15,1.5,7.0,Portuguese
+905,Gabriel Pereira,Female,16,2,3,2,1,1,1,4,14,15,15,1.5,5.666666666666667,Portuguese
+906,Gabriel Pereira,Male,17,3,3,3,1,1,1,2,13,14,15,1.5,7.0,Portuguese
+907,Gabriel Pereira,Female,18,4,3,3,1,1,1,4,14,14,15,1.5,8.0,Portuguese
+908,Mousinho Da Silveira,Female,17,2,3,4,1,1,1,4,15,14,15,1.5,6.333333333333333,Portuguese
+909,Gabriel Pereira,Female,16,2,3,2,1,1,4,2,13,14,14,1.5,5.666666666666667,Portuguese
+910,Gabriel Pereira,Male,15,2,3,2,1,1,5,0,14,13,14,1.5,5.666666666666667,Portuguese
+911,Gabriel Pereira,Female,16,2,3,3,1,1,1,2,13,14,14,1.5,6.0,Portuguese
+912,Gabriel Pereira,Male,16,3,3,3,1,1,5,4,13,14,14,1.5,7.0,Portuguese
+913,Gabriel Pereira,Female,15,1,3,2,1,1,5,6,13,14,14,1.5,4.666666666666667,Portuguese
+914,Gabriel Pereira,Female,16,2,3,1,1,1,3,0,13,13,14,1.5,5.333333333333333,Portuguese
+915,Gabriel Pereira,Female,17,2,3,2,1,1,4,4,15,14,14,1.5,5.666666666666667,Portuguese
+916,Gabriel Pereira,Male,19,2,3,1,1,1,1,4,11,13,14,1.5,5.333333333333333,Portuguese
+917,Gabriel Pereira,Female,18,2,3,1,1,1,5,10,12,13,14,1.5,5.333333333333333,Portuguese
+918,Gabriel Pereira,Female,17,3,3,3,1,1,3,0,13,13,14,1.5,7.0,Portuguese
+919,Mousinho Da Silveira,Female,16,2,3,4,1,1,2,1,14,13,14,1.5,6.333333333333333,Portuguese
+920,Mousinho Da Silveira,Female,15,3,3,2,1,1,4,0,12,13,14,1.5,6.666666666666667,Portuguese
+921,Mousinho Da Silveira,Female,16,2,3,3,1,1,1,0,14,13,14,1.5,6.0,Portuguese
+922,Mousinho Da Silveira,Female,18,2,3,5,1,1,1,2,12,13,14,1.5,6.666666666666667,Portuguese
+923,Gabriel Pereira,Male,16,2,3,3,1,1,5,2,12,12,13,1.5,6.0,Portuguese
+924,Gabriel Pereira,Female,16,3,3,5,1,1,3,2,12,13,13,1.5,7.666666666666667,Portuguese
+925,Gabriel Pereira,Female,15,2,3,2,1,1,5,6,13,12,13,1.5,5.666666666666667,Portuguese
+926,Gabriel Pereira,Female,16,2,3,5,1,1,3,0,14,13,13,1.5,6.666666666666667,Portuguese
+927,Gabriel Pereira,Female,16,2,3,3,1,1,2,6,12,12,13,1.5,6.0,Portuguese
+928,Gabriel Pereira,Female,16,4,3,5,1,1,5,6,13,13,13,1.5,8.666666666666666,Portuguese
+929,Gabriel Pereira,Female,16,2,3,4,1,1,4,0,13,13,13,1.5,6.333333333333333,Portuguese
+930,Gabriel Pereira,Female,17,3,3,3,1,1,4,0,12,12,13,1.5,7.0,Portuguese
+931,Gabriel Pereira,Female,18,3,3,3,1,1,3,0,11,12,13,1.5,7.0,Portuguese
+932,Gabriel Pereira,Female,17,2,3,3,1,1,5,0,12,12,13,1.5,6.0,Portuguese
+933,Mousinho Da Silveira,Female,16,4,3,2,1,1,1,0,13,10,13,1.5,7.666666666666667,Portuguese
+934,Mousinho Da Silveira,Male,16,2,3,1,1,1,3,0,13,12,13,1.5,5.333333333333333,Portuguese
+935,Mousinho Da Silveira,Female,16,3,3,4,1,1,3,5,13,14,13,1.5,7.333333333333333,Portuguese
+936,Mousinho Da Silveira,Male,18,1,3,2,1,1,4,0,12,12,13,1.5,4.666666666666667,Portuguese
+937,Gabriel Pereira,Male,15,2,3,2,1,1,2,0,13,12,12,1.5,5.666666666666667,Portuguese
+938,Gabriel Pereira,Female,15,3,3,2,1,1,5,2,11,12,12,1.5,6.666666666666667,Portuguese
+939,Gabriel Pereira,Female,15,1,3,1,1,1,2,8,14,13,12,1.5,4.333333333333333,Portuguese
+940,Gabriel Pereira,Female,16,2,3,4,1,1,2,2,12,13,12,1.5,6.333333333333333,Portuguese
+941,Gabriel Pereira,Male,15,4,3,4,1,1,4,2,11,12,12,1.5,8.333333333333334,Portuguese
+942,Gabriel Pereira,Female,16,2,3,5,1,1,5,0,13,12,12,1.5,6.666666666666667,Portuguese
+943,Gabriel Pereira,Male,15,1,3,3,1,1,5,2,12,13,12,1.5,5.0,Portuguese
+944,Gabriel Pereira,Female,17,2,3,3,1,1,3,0,12,11,12,1.5,6.0,Portuguese
+945,Gabriel Pereira,Male,16,1,3,3,1,1,3,0,13,12,12,1.5,5.0,Portuguese
+946,Gabriel Pereira,Female,17,3,3,4,1,1,5,12,12,12,12,1.5,7.333333333333333,Portuguese
+947,Gabriel Pereira,Male,18,3,3,2,1,1,3,2,10,11,12,1.5,6.666666666666667,Portuguese
+948,Gabriel Pereira,Female,18,2,3,4,1,1,4,8,10,11,12,1.5,6.333333333333333,Portuguese
+949,Gabriel Pereira,Female,18,2,3,3,1,1,2,0,10,9,12,1.5,6.0,Portuguese
+950,Gabriel Pereira,Female,21,3,3,2,1,1,5,0,9,12,12,1.5,6.666666666666667,Portuguese
+951,Gabriel Pereira,Female,18,2,3,4,1,1,3,4,0,11,11,1.5,6.333333333333333,Portuguese
+952,Gabriel Pereira,Female,17,2,3,3,1,1,3,2,9,11,11,1.5,6.0,Portuguese
+953,Gabriel Pereira,Male,16,4,3,2,1,1,5,2,13,11,11,1.5,7.666666666666667,Portuguese
+954,Gabriel Pereira,Male,16,1,3,3,1,1,4,6,9,11,11,1.5,5.0,Portuguese
+955,Gabriel Pereira,Female,15,2,3,2,1,1,1,0,10,11,11,1.5,5.666666666666667,Portuguese
+956,Gabriel Pereira,Female,16,1,3,4,1,1,5,12,13,11,11,1.5,5.333333333333333,Portuguese
+957,Gabriel Pereira,Male,15,2,3,3,1,1,5,2,12,11,11,1.5,6.0,Portuguese
+958,Gabriel Pereira,Female,15,2,3,2,1,1,3,2,11,11,11,1.5,5.666666666666667,Portuguese
+959,Gabriel Pereira,Female,19,2,3,3,1,1,5,0,10,10,11,1.5,6.0,Portuguese
+960,Gabriel Pereira,Male,18,2,3,2,1,1,3,2,10,10,11,1.5,5.666666666666667,Portuguese
+961,Gabriel Pereira,Male,19,3,3,1,1,1,5,0,9,10,11,1.5,6.333333333333333,Portuguese
+962,Mousinho Da Silveira,Male,15,2,3,3,1,1,5,0,11,11,11,1.5,6.0,Portuguese
+963,Mousinho Da Silveira,Male,16,2,3,3,1,1,5,0,10,11,11,1.5,6.0,Portuguese
+964,Mousinho Da Silveira,Female,15,2,3,3,1,1,2,1,11,10,11,1.5,6.0,Portuguese
+965,Gabriel Pereira,Female,18,2,3,4,1,1,3,4,0,11,11,1.5,6.333333333333333,Portuguese
+966,Gabriel Pereira,Female,15,3,3,2,1,1,5,2,10,11,10,1.5,6.666666666666667,Portuguese
+967,Gabriel Pereira,Male,15,4,3,3,1,1,3,0,11,9,10,1.5,8.0,Portuguese
+968,Gabriel Pereira,Female,15,2,3,5,1,1,2,16,11,10,10,1.5,6.666666666666667,Portuguese
+969,Gabriel Pereira,Female,15,4,3,3,1,1,4,10,10,10,10,1.5,8.0,Portuguese
+970,Gabriel Pereira,Female,16,1,3,2,1,1,5,4,9,9,10,1.5,4.666666666666667,Portuguese
+971,Gabriel Pereira,Female,18,2,3,3,1,1,3,18,10,10,10,1.5,6.0,Portuguese
+972,Gabriel Pereira,Female,18,2,3,1,1,1,5,16,9,8,10,1.5,5.333333333333333,Portuguese
+973,Gabriel Pereira,Female,17,2,3,2,1,1,4,10,10,9,10,1.5,5.666666666666667,Portuguese
+974,Gabriel Pereira,Female,20,1,3,1,1,1,5,5,8,10,10,1.5,4.333333333333333,Portuguese
+975,Mousinho Da Silveira,Female,18,3,3,2,1,1,2,6,7,9,10,1.5,6.666666666666667,Portuguese
+976,Mousinho Da Silveira,Female,16,2,3,2,1,1,3,2,8,10,10,1.5,5.666666666666667,Portuguese
+977,Mousinho Da Silveira,Female,17,3,3,3,1,1,3,0,11,11,10,1.5,7.0,Portuguese
+978,Mousinho Da Silveira,Female,16,2,3,3,1,1,2,0,8,10,10,1.5,6.0,Portuguese
+979,Mousinho Da Silveira,Female,18,2,3,1,1,1,2,4,8,8,10,1.5,5.333333333333333,Portuguese
+980,Mousinho Da Silveira,Female,18,2,3,4,1,1,5,0,10,10,10,1.5,6.333333333333333,Portuguese
+981,Gabriel Pereira,Female,19,2,3,4,1,1,4,2,8,8,9,1.5,6.333333333333333,Portuguese
+982,Mousinho Da Silveira,Female,15,1,3,4,1,1,1,0,6,8,9,1.5,5.333333333333333,Portuguese
+983,Mousinho Da Silveira,Female,19,3,3,1,1,1,3,6,7,9,9,1.5,6.333333333333333,Portuguese
+984,Mousinho Da Silveira,Female,19,2,3,3,1,1,3,4,7,8,9,1.5,6.0,Portuguese
+985,Gabriel Pereira,Female,18,2,3,3,1,1,4,4,8,8,8,1.5,6.0,Portuguese
+986,Gabriel Pereira,Female,17,3,3,4,1,1,5,0,7,7,8,1.5,7.333333333333333,Portuguese
+987,Mousinho Da Silveira,Female,18,2,3,3,1,1,5,2,6,8,8,1.5,6.0,Portuguese
+988,Mousinho Da Silveira,Female,18,2,3,2,1,1,5,9,7,7,7,1.5,5.666666666666667,Portuguese
+989,Mousinho Da Silveira,Female,18,2,3,3,1,1,4,0,9,0,0,1.5,6.0,Portuguese
+990,Mousinho Da Silveira,Female,18,2,3,1,1,1,5,0,5,0,0,1.5,5.333333333333333,Portuguese
+991,Gabriel Pereira,Female,16,2,2,3,1,1,3,0,17,17,18,1.5,5.0,Portuguese
+992,Gabriel Pereira,Female,18,4,2,2,1,1,3,2,17,17,18,1.5,6.666666666666667,Portuguese
+993,Gabriel Pereira,Male,15,2,2,2,1,1,1,0,15,16,17,1.5,4.666666666666667,Portuguese
+994,Gabriel Pereira,Male,16,4,2,2,1,1,2,2,17,17,17,1.5,6.666666666666667,Portuguese
+995,Gabriel Pereira,Female,17,4,2,3,1,1,4,2,14,15,17,1.5,7.0,Portuguese
+996,Gabriel Pereira,Female,18,2,2,2,1,1,3,0,14,17,17,1.5,4.666666666666667,Portuguese
+997,Mousinho Da Silveira,Female,16,3,2,2,1,1,4,6,16,16,17,1.5,5.666666666666667,Portuguese
+998,Gabriel Pereira,Male,15,2,2,2,1,1,5,8,15,15,16,1.5,4.666666666666667,Portuguese
+999,Gabriel Pereira,Female,16,2,2,3,1,1,5,2,16,15,16,1.5,5.0,Portuguese
+1000,Mousinho Da Silveira,Female,16,2,2,2,1,1,3,0,14,15,16,1.5,4.666666666666667,Portuguese
+1001,Mousinho Da Silveira,Female,17,2,2,5,1,1,5,0,13,15,16,1.5,5.666666666666667,Portuguese
+1002,Gabriel Pereira,Female,17,3,2,3,1,1,1,8,13,15,15,1.5,6.0,Portuguese
+1003,Gabriel Pereira,Female,18,2,2,4,1,1,4,0,14,15,15,1.5,5.333333333333333,Portuguese
+1004,Mousinho Da Silveira,Female,18,3,2,1,1,1,4,5,14,14,15,1.5,5.333333333333333,Portuguese
+1005,Gabriel Pereira,Female,15,3,2,2,1,1,5,0,14,14,14,1.5,5.666666666666667,Portuguese
+1006,Gabriel Pereira,Female,17,2,2,1,1,1,3,2,11,12,14,1.5,4.333333333333333,Portuguese
+1007,Mousinho Da Silveira,Female,16,4,2,1,1,1,5,0,14,14,14,1.5,6.333333333333333,Portuguese
+1008,Gabriel Pereira,Female,15,3,2,2,1,1,4,0,10,12,13,1.5,5.666666666666667,Portuguese
+1009,Gabriel Pereira,Female,15,3,2,2,1,1,5,2,13,13,13,1.5,5.666666666666667,Portuguese
+1010,Gabriel Pereira,Female,17,1,2,1,1,1,4,0,13,13,13,1.5,3.3333333333333335,Portuguese
+1011,Gabriel Pereira,Male,17,2,2,3,1,1,2,4,11,11,13,1.5,5.0,Portuguese
+1012,Gabriel Pereira,Male,17,1,2,2,1,1,2,2,9,12,13,1.5,3.6666666666666665,Portuguese
+1013,Gabriel Pereira,Female,18,2,2,3,1,1,5,4,11,11,13,1.5,5.0,Portuguese
+1014,Gabriel Pereira,Female,17,3,2,3,1,1,4,2,15,12,13,1.5,6.0,Portuguese
+1015,Gabriel Pereira,Female,17,2,2,2,1,1,3,4,14,13,13,1.5,4.666666666666667,Portuguese
+1016,Gabriel Pereira,Female,15,2,2,2,1,1,5,4,10,11,11,1.5,4.666666666666667,Portuguese
+1017,Gabriel Pereira,Male,16,1,2,1,1,1,2,4,9,9,11,1.5,3.3333333333333335,Portuguese
+1018,Gabriel Pereira,Male,15,4,2,2,1,1,3,6,9,11,11,1.5,6.666666666666667,Portuguese
+1019,Mousinho Da Silveira,Female,16,4,2,1,1,1,1,4,10,9,11,1.5,6.333333333333333,Portuguese
+1020,Gabriel Pereira,Male,17,1,2,2,1,1,4,0,9,10,10,1.5,3.6666666666666665,Portuguese
+1021,Gabriel Pereira,Female,18,2,2,5,1,1,2,2,10,9,10,1.5,5.666666666666667,Portuguese
+1022,Mousinho Da Silveira,Female,18,1,2,3,1,1,2,4,9,11,10,1.5,4.0,Portuguese
+1023,Mousinho Da Silveira,Male,19,1,2,1,1,1,3,4,6,11,9,1.5,3.3333333333333335,Portuguese
+1024,Mousinho Da Silveira,Female,17,1,2,2,1,1,5,0,8,10,9,1.5,3.6666666666666665,Portuguese
+1025,Mousinho Da Silveira,Female,16,2,2,1,1,1,2,2,7,9,8,1.5,4.333333333333333,Portuguese
+1026,Mousinho Da Silveira,Male,16,2,2,1,1,1,2,0,8,7,0,1.5,4.333333333333333,Portuguese
+1027,Gabriel Pereira,Female,17,4,1,2,1,1,3,0,18,19,19,1.5,5.666666666666667,Portuguese
+1028,Mousinho Da Silveira,Female,15,1,1,3,1,1,4,0,14,16,16,1.5,3.0,Portuguese
+1029,Gabriel Pereira,Female,18,2,1,4,1,1,3,8,11,12,14,1.5,4.333333333333333,Portuguese
+1030,Gabriel Pereira,Female,17,2,1,4,1,1,1,2,10,13,13,1.5,4.333333333333333,Portuguese
+1031,Gabriel Pereira,Female,15,4,1,2,1,1,1,4,13,13,13,1.5,5.666666666666667,Portuguese
+1032,Gabriel Pereira,Female,16,2,1,3,1,1,3,0,14,13,13,1.5,4.0,Portuguese
+1033,Gabriel Pereira,Female,16,2,1,5,1,1,4,0,12,12,13,1.5,4.666666666666667,Portuguese
+1034,Gabriel Pereira,Female,17,2,1,1,1,1,3,2,13,13,13,1.5,3.3333333333333335,Portuguese
+1035,Gabriel Pereira,Female,17,1,1,2,1,1,3,6,10,13,13,1.5,2.6666666666666665,Portuguese
+1036,Mousinho Da Silveira,Female,15,1,1,2,1,1,1,3,11,13,13,1.5,2.6666666666666665,Portuguese
+1037,Mousinho Da Silveira,Male,17,1,1,2,1,1,5,4,11,11,12,1.5,2.6666666666666665,Portuguese
+1038,Mousinho Da Silveira,Female,18,2,1,1,1,1,4,0,11,11,12,1.5,3.3333333333333335,Portuguese
+1039,Gabriel Pereira,Female,16,3,1,2,1,1,2,4,11,11,11,1.5,4.666666666666667,Portuguese
+1040,Mousinho Da Silveira,Female,17,2,1,3,1,1,5,0,11,9,11,1.5,4.0,Portuguese
+1041,Gabriel Pereira,Female,15,4,1,2,1,1,3,4,10,10,10,1.5,5.666666666666667,Portuguese
+1042,Gabriel Pereira,Female,16,2,1,2,1,1,5,12,8,10,10,1.5,3.6666666666666665,Portuguese
+1043,Gabriel Pereira,Female,17,1,1,2,1,1,1,8,11,9,10,1.5,2.6666666666666665,Portuguese
+1044,Gabriel Pereira,Female,18,2,1,1,1,1,5,15,12,9,10,1.5,3.3333333333333335,Portuguese
+1045,Mousinho Da Silveira,Female,15,1,1,3,1,1,2,6,10,10,10,1.5,3.0,Portuguese
+1046,Mousinho Da Silveira,Female,18,2,1,1,1,1,5,6,11,12,9,1.5,3.3333333333333335,Portuguese
+1047,Gabriel Pereira,Female,18,1,1,1,1,1,3,14,8,7,7,1.5,2.3333333333333335,Portuguese
