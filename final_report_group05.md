@@ -4,8 +4,17 @@
 
 As students ourselves, we have hoped to shed light on the factors and habits that benefit a person's final grade over the course of their education. This motivated us to perform data analysis on a pair of datasets across two different subjects for students in Portuguese secondary schools. Specifically in this analysis we hope to answer questions related to the effects of home environment, leisure activities and alcohol consumption among other factors on a student's academic results. We are eager to show our findings so that they may be used to benefit the education of students in the future.
 
+For more details, [the analysis notebooks and data can be found in the Github Repository here.](https://github.com/ubco-W2022T1-cosc301/project-group05)
+
 ## Exploratory Data Analysis
 
+### Grade Distribution Plots
+
+In our EDA we looked at the grade distributions between subjects. Below we can see that grades almost follow a normal distribution, but have some important features worth noting. There is a slight left skew in the final grade distribution for Portuguese indicating that students are more likely to get a high grade in this subject. In Math on the other hand, we can see that our students start out in Period 1 with a somewhat bimodal grade distrubution, and then as the course continues, the vast majority of students start to fall within the middle range, indicated by the strong center. Math also shows a high amount of failures (0 scores) that is indicated a taller bar in the far left end of the graph.
+
+![Could not display figure](gradedist_math.png "Math Grade Distributions by Period")
+
+![Could not display figure](gradedist_portuguese.png "Portuguese Grade Distributions by Period")
 
 ## Question 2 + Results
 
@@ -33,6 +42,19 @@ Above is a strip plot of the student's final grades with their respective levels
 
 Figure 3 depicts a bar plot that compares the Final Grade of students that are currently in and not in a romantic relationship. While we cannot definitely say due to the large error bars that students not in a relationship have a clear advantage. It is evident that there is no benefit in being within a relationship when it comes to final grade scores. This means a student's relationship status at best will not impact their scores, but there exists the potential it will decrease their performance suggested by the gap between bars.
 
+You can find the [full analysis notebook for this research question here.](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/notebooks/analysis2.ipynb)
+
 ## Summary / Conclusion
 
 In conclusion we have learned that in terms of moderation and leisure, generally students tend to perform better when they avoid indulging in activities that are unrelated to their studies, but moderately relaxed students, such as those who consume alcohol on the weekend, are capable of performing just as well in most cases. While students may see a decline in grades if they overindulge, having no moderation when it comes to leisure can be detrimental like in the case of free time. 
+
+
+## CC Attribution
+
+Datasets in Maths.csv and Portuguese.csv files provided by [Aman Chauhan](https://www.kaggle.com/whenamancodes) on kaggle.com under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) . 
+
+Link to the material can be found at https://www.kaggle.com/datasets/whenamancodes/student-performance?resource=download. Datasets represent data collection used in the findings of Cortez and Silva, 2008.
+
+The raw data will be modified in order to perform data analysis and present findings for educational purposes.
+
+Citation: Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance.
