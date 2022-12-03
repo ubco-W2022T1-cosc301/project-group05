@@ -20,7 +20,7 @@ We also were able to observe the education levels for the student's parents. The
 
 ![Could not display figure](images/mom_education.png "Mother's Education Level Rating")
 
-![Could not display figure](images/dad_educatio.png "Father's Education Level Rating")
+![Could not display figure](images/dad_education.png "Father's Education Level Rating")
 
 
 
