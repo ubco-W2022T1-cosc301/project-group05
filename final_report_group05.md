@@ -24,7 +24,7 @@ What is the relation between leisure and grade performance? Is a relaxed student
 
 #### Figure 1.
 
-![Fig 1](analysis2_fig1.png "Point Plot of Final Grades by Level of Freetime")
+![Could not display figure](analysis2_fig1.png "Point Plot of Final Grades by Level of Freetime")
 
 Above is a point plot of the final grades for each subject compared to a student's level of free time. From our analysis we have determined that this plot demonstrates that some moderation of freetime is required for a student to achieve a higher final grade. This is shown by a decrease in final grade as you go from a free time level of 2 to 1 in the point plot for both subjects, though the error makes it more clear for Portuguese.
 
@@ -32,13 +32,13 @@ It is also worth noting in Math, freetime levels 2 and 5 have points with a simi
 
 #### Figure 2.
 
-![Fig 2](analysis2_fig2.png "Strip plot of Final Grades by Weekday Alcohol Consumption Level")
+![Could not display figure](analysis2_fig2.png "Strip plot of Final Grades by Weekday Alcohol Consumption Level")
 
 Above is a strip plot of the student's final grades with their respective levels of weekend alcohol consumption. Our main conclusions from this plot is that there exists a large amount of students that can perform well and drink in moderation on the weekend. This is evident by the frequency of points with a high final grade when x is 2 or 3. However as the level of alcohol consumption increases, these points have a decline in presence. Therefore in this case, relaxed students can perform almost as well in moderation, but of course start to do worse when they have very high levels of weekend alcohol consumption. You can also see from the plotted points, that the students that hardly drink are still the ones that get the best scores.
 
 #### Figure 3.
 
-![Fig 3](analysis2_fig3.png "Bar plot of Final Grades by Relationship Status")
+![Could not display figure](analysis2_fig3.png "Bar plot of Final Grades by Relationship Status")
 
 Figure 3 depicts a bar plot that compares the Final Grade of students that are currently in and not in a romantic relationship. While we cannot definitely say due to the large error bars that students not in a relationship have a clear advantage. It is evident that there is no benefit in being within a relationship when it comes to final grade scores. This means a student's relationship status at best will not impact their scores, but there exists the potential it will decrease their performance suggested by the gap between bars.
 
@@ -53,10 +53,10 @@ You can find the [full analysis notebook for this research question here.](https
 
 ### Question 1: ***Given our data, what is the coorelation between alcohol consumption and academic results?***
 #### Figure 1
-![Could not display figure](analysis3_fig1.png "Alcohol Consumption Respective of Grades - Math Class")
+![Fig 1](analysis3_fig1.png "Alcohol Consumption Respective of Grades - Math Class")
 
 #### Figure 2
-![Could not display figure](analysis3_fig8.png "Alcohol Consumption Respective of Grades - Portugese Class")
+![Fig 2](analysis3_fig2.png "Alcohol Consumption Respective of Grades - Portugese Class")
 
     Given the data, there was no clear indiciation between a student's alcohol usage and their academic success. In fact, when comparing the two schools, it became evident that one school had better grades in general than the other, irrespective of alcohol use. That being said, there data also shows a correlation between alchol consumption negatively affecting males grades, while it did not show the same indication for females. I believe that this is due to the fact that the males are more prone to excessive or 'binge' drinking, therefore, affecting their schooling.The finding is especially evident within the tableua visual representation of the dataset, where through the filter, one can easily see the correlation between different attributes.
 
@@ -64,7 +64,7 @@ You can find the [full analysis notebook for this research question here.](https
 ### Question 2: What distributions or relationships can be mapped to the key factors that infleunce academic success?
 #### Figure 3
 #### Figure 1
-![Could not display figure](analysis3_fig1.png "Comparing the Distributions between Courses")
+![Fig 3](analysis3_fig3.png "Comparing the Distributions between Courses")
 
     Given the data, there was no clear indiciation between a student's alcohol usage and their academic success. This was evident with the student with the highest Final Grade (16) having a weekly drinking average of 7.5/10, while another student had a final grade of (8) and a weekly alcohol average of 7.5. There were also many student's that had low alcohol usages, such as 1.5, that also had low final grades, consistently ranging from 7-10. That being said, while the data might not necessarily show it, I do believe, that if we were to analyze a larger data set, such as, all students in a given province, that we would then see a clear pattern between an increased alcohol use resulting in a decrease in academic success. 
 -------------------------------------------------------------------------------------------------------------------------------------
