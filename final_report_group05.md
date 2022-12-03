@@ -24,7 +24,9 @@ We also were able to observe the education levels for the student's parents. The
 
 
 
-An additional metric of importance was study time. This variable is also categorized, with a range of 1 (<2 hrs) to 4 (>10 hrs). Most students had an average study time of 
+An additional metric of importance was study time. This variable is also categorized, with a range of 1 (<2 hrs) to 4 (>10 hrs). Most students had an average study time of 2-5 hrs (category #2) the remainder of the students were mostly in category #1 although there was some small representstion in categories #3 and #4.
+
+![Could not display figure](images/study_time_count.png "Study Time by Category")
 
 ## Question 1 + Results
 
