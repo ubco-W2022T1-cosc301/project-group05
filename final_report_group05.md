@@ -12,9 +12,45 @@ For more details, [the analysis notebooks and data can be found in the Github Re
 
 In our EDA we looked at the grade distributions between subjects. Below we can see that grades almost follow a normal distribution, but have some important features worth noting. There is a slight left skew in the final grade distribution for Portuguese indicating that students are more likely to get a high grade in this subject. In Math on the other hand, we can see that our students start out in Period 1 with a somewhat bimodal grade distrubution, and then as the course continues, the vast majority of students start to fall within the middle range, indicated by the strong center. Math also shows a high amount of failures (0 scores) that is indicated a taller bar in the far left end of the graph.
 
-![Could not display figure](gradedist_math.png "Math Grade Distributions by Period")
+![Could not display figure](images/gradedist_math.png "Math Grade Distributions by Period")
 
-![Could not display figure](gradedist_portuguese.png "Portuguese Grade Distributions by Period")
+![Could not display figure](images/gradedist_portuguese.png "Portuguese Grade Distributions by Period")
+
+We also were able to observe the education levels for the student's parents. Their level of completed school education is sorted on a 5 point scale with 0 being the lowest (No Education) and 4 being the highest (Post Secondary). The data shows that the mother's education level is much higher overall than the father's education level. Most of the student's mothers have an educaton level of the Post Secondary level and generally have an increasing representation per study category. The father's education level is generally lower, with the most representation in the 5th to 9th grade category (Category #2).
+
+![Could not display figure](images/mom_education.png "Mother's Education Level Rating")
+
+![Could not display figure](images/dad_educatio.png "Father's Education Level Rating")
+
+
+
+An additional metric of importance was study time. This variable is also categorized, with a range of 1 (<2 hrs) to 4 (>10 hrs). Most students had an average study time of 
+
+## Question 1 + Results
+
+### Question
+
+What is the relation between a student's home environment and their academic success? Does a student with higher expectations from either their parents or themselves tend to perform better or worse in an academic environment?
+
+#### Figure 1
+
+![Could not display figure](images/study_grade.png "Grade Distribution Across School Periods by Weekly Study Time")
+
+From the data above we can see that studytime does have a moderate effect on student performance in terms of their grades per period. For each later quarter there seem to be more observations in the lower portion of the grade axis for all of the study time categories. However, upper tail grade observations seem to be more prevalent in the higher study time categories, especially in the later quarters. What is interesting to note however is that the interquartile range for study times that are <2hr are ssignificantly lower than the other categories. Additionally, median and IQR scores seem to be similar for the 5-10 hr and >10 hr categories, indicating some diminishing returns to study time. Another observation of significance is that there appears to be less occurences of lower scores in the higher study categories. This could indicate that students that study more often, do indeed perform better.
+
+#### Figure 2
+
+![Could not display figure](images/study_x_edu.png "Count of Study Time X Parent\'s Education Level")
+
+A countplot of the cartesian product of shows the number of occurrences for each parents education level and the study habits of each student. There seems to be no real relation between the study time and parents education level as the graph is fairly evenly distributed. One note of importance is that the parents with post secondary education tended to have couts that were lower for higher study times which meant that the students study habits may have much more to do with their own motivation than their parents academic achievement.
+
+#### Figure 3
+
+![Could not display figure](images/famSup_HE.png "Aspirations Toward Higher Education and Final Grade as well as Family Support and Final Grade")
+
+The family support graph above provided a fairly even distribution as most of the grades were evenly interspersed between yes and no answers. Overall grades seemed to be slightly higher in the yes category with more outliers in the portuguese class. Math grades were fairly consistent with both categories. Overall Iconcluded that family support had no real effect for math grades, however portuguese grades seemed to benefit slightly. The higher education graph yielded far more distinct results. Overall grades in both subjects were drastically lower, especially in math. The yes distribution had a much higher downward skew with most of the observations appearing in the upward tail of the plot. This means that this category is a huge indicator for student's performance.
+
+Overall it is reasonable to conclude that student's home relationship is a large factor in their scholarly success. Study time as well as aspirations towards future education seemed to be the main key factors toward student success. However, it is worth mentioning that much of the data used is categorical in nature. For a more accurate estimation, quantitative data should be obtained in orter to properly model a regression analysis with these variables in mind.
 
 ## Question 2 + Results
 
@@ -24,7 +60,7 @@ What is the relation between leisure and grade performance? Is a relaxed student
 
 #### Figure 1.
 
-![Could not display figure](analysis2_fig1.png "Point Plot of Final Grades by Level of Freetime")
+![Could not display figure](images/analysis2_fig1.png "Point Plot of Final Grades by Level of Freetime")
 
 Above is a point plot of the final grades for each subject compared to a student's level of free time. From our analysis we have determined that this plot demonstrates that some moderation of freetime is required for a student to achieve a higher final grade. This is shown by a decrease in final grade as you go from a free time level of 2 to 1 in the point plot for both subjects, though the error makes it more clear for Portuguese.
 
@@ -32,13 +68,13 @@ It is also worth noting in Math, freetime levels 2 and 5 have points with a simi
 
 #### Figure 2.
 
-![Could not display figure](analysis2_fig2.png "Strip plot of Final Grades by Weekday Alcohol Consumption Level")
+![Could not display figure](images/analysis2_fig2.png "Strip plot of Final Grades by Weekday Alcohol Consumption Level")
 
 Above is a strip plot of the student's final grades with their respective levels of weekend alcohol consumption. Our main conclusions from this plot is that there exists a large amount of students that can perform well and drink in moderation on the weekend. This is evident by the frequency of points with a high final grade when x is 2 or 3. However as the level of alcohol consumption increases, these points have a decline in presence. Therefore in this case, relaxed students can perform almost as well in moderation, but of course start to do worse when they have very high levels of weekend alcohol consumption. You can also see from the plotted points, that the students that hardly drink are still the ones that get the best scores.
 
 #### Figure 3.
 
-![Could not display figure](analysis2_fig3.png "Bar plot of Final Grades by Relationship Status")
+![Could not display figure](images/analysis2_fig3.png "Bar plot of Final Grades by Relationship Status")
 
 Figure 3 depicts a bar plot that compares the Final Grade of students that are currently in and not in a romantic relationship. While we cannot definitely say due to the large error bars that students not in a relationship have a clear advantage. It is evident that there is no benefit in being within a relationship when it comes to final grade scores. This means a student's relationship status at best will not impact their scores, but there exists the potential it will decrease their performance suggested by the gap between bars.
 
@@ -77,7 +113,9 @@ You can find the [full analysis notebook for this research question here.](https
 
 ## Summary / Conclusion
 
-In conclusion we have learned that in terms of moderation and leisure, generally students tend to perform better when they avoid indulging in activities that are unrelated to their studies, but moderately relaxed students, such as those who consume alcohol on the weekend, are capable of performing just as well in most cases. While students may see a decline in grades if they overindulge, having no moderation when it comes to leisure can be detrimental like in the case of free time. 
+In conclusion we have learned that in terms of moderation and leisure, generally students tend to perform better when they avoid indulging in activities that are unrelated to their studies, but moderately relaxed students, such as those who consume alcohol on the weekend, are capable of performing just as well in most cases. While students may see a decline in grades if they overindulge, having no moderation when it comes to leisure can be detrimental like in the case of free time. Similarly, study time has an immediate impact on the performance of students. The higher a student's weekly study time, the better they performed across each period of grading. Their performance was also supplemented by their aspirations toward higer education; the sudents that wanted to be at school performed better in the three grading periods. There seems to be no real relation between the study time and parents education level as student's study habits may have much more to do with their own motivation than their parents academic achievement.
+
+
 
 
 ## CC Attribution
