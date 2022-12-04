@@ -86,6 +86,11 @@ You can find the [full analysis notebook for this research question here.](https
 ## Nils Kelley - Reflection - Analysis3
 
 ### Research Questions + Findings:
+-------------------------------------------------------------------------------------------------------------------------------------
+
+You can find the [full analysis notebook for all research questions here.](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/notebooks/analysis3.ipynb)
+
+You can find the [project functions here](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/notebooks/project_functions3.ipynb)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -111,10 +116,6 @@ You can find the [full analysis notebook for this research question here.](https
     
     Given the data, there does not seem to be any clear indication between a students use of freetime and their absences. On the one hand, for example, the data shows some students that had a high use of freetime, such as, 7.5 / 10, indicating that they spend most of their freetime to study or go out in relation to the overall amount of freetime that they have, would still have absences of 10+, such as one student with the priorly stated use of freetime statistic having 12 absences. On the other hand, sseveral students with use of freetime averages of less than 4, indicating less studying, going out, and overall freetime can be found having more than 10 absences as well. Such as two students, who had 14 and 15 absences, while having a use of freetime of 2.3 and 3.3; both within the lower quartile. In a sense, this dataset does not tell us much about the correlation between freetime and absences, but I think it tells us a very important thing about high school students: No matter how busy they are, they will always find the time to skip class.
     
--------------------------------------------------------------------------------------------------------------------------------------
-
-You can find the [full analysis notebook for all research questions here.](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/notebooks/analysis3.ipynb)
-
 
 ### -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
