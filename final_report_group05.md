@@ -90,7 +90,7 @@ You can find the [full analysis notebook for this research question here.](https
 
 You can find the [full analysis notebook for all research questions here.](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/notebooks/analysis3.ipynb)
 
-You can find the [project functions here](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/notebooks/project_functions3.ipynb)
+You can find the [project functions here](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/notebooks/project_functions3.py)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
