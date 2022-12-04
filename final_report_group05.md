@@ -92,7 +92,7 @@ You can find the [full analysis notebook for all research questions here.](https
 
 You can find the [project functions here](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/notebooks/project_functions3.py)
 
-You can find the [dashboard - TABLEUA - here](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/dashboard/Analysis3_Dashboard.twb)
+You can find the [dashboard - TABLEAU - here](https://github.com/ubco-W2022T1-cosc301/project-group05/blob/main/dashboard/Analysis3_Dashboard.twb)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
